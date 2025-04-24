@@ -3599,3 +3599,156 @@ java.lang.NullPointerException: null
 [24Apr2025 23:02:40.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
 [24Apr2025 23:02:48.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9935ms or 198 ticks behind
 [24Apr2025 23:02:55.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[24Apr2025 23:03:07.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[24Apr2025 23:03:08.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[24Apr2025 23:03:20.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16726ms or 334 ticks behind
+[24Apr2025 23:03:42.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[24Apr2025 23:03:48.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12950ms or 259 ticks behind
+[24Apr2025 23:04:16.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13091ms or 261 ticks behind
+[24Apr2025 23:04:45.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13910ms or 278 ticks behind
+[24Apr2025 23:05:11.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11415ms or 228 ticks behind
+[24Apr2025 23:05:36.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9722ms or 194 ticks behind
+[24Apr2025 23:06:01.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9858ms or 197 ticks behind
+[24Apr2025 23:06:27.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11043ms or 220 ticks behind
+[24Apr2025 23:06:52.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10605ms or 212 ticks behind
+[24Apr2025 23:07:19.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11367ms or 227 ticks behind
+[24Apr2025 23:07:48.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14304ms or 286 ticks behind
+[24Apr2025 23:08:16.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13564ms or 271 ticks behind
+[24Apr2025 23:08:43.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11787ms or 235 ticks behind
+[24Apr2025 23:09:09.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11347ms or 226 ticks behind
+[24Apr2025 23:09:23.581] [Server thread/INFO] [mineminenomi/]: eldanidani started DON_KRIEG challenge.
+[24Apr2025 23:09:28.776] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:09:46.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21852ms or 437 ticks behind
+[24Apr2025 23:09:51.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Not Today, Thank You]
+[24Apr2025 23:10:09.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7606ms or 152 ticks behind
+[24Apr2025 23:10:29.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5578ms or 111 ticks behind
+[24Apr2025 23:10:37.154] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:10:38.109] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:10:38.124] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:11:05.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20892ms or 417 ticks behind
+[24Apr2025 23:11:08.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[24Apr2025 23:11:28.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7467ms or 149 ticks behind
+[24Apr2025 23:11:35.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 351 entities]
+[24Apr2025 23:11:50.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7701ms or 154 ticks behind
+[24Apr2025 23:11:55.064] [Server thread/INFO] [mineminenomi/]: eldanidani started MR_0 challenge.
+[24Apr2025 23:11:57.752] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63907, l='ServerLevel[world]', x=-6.27, y=49.63, z=-5.21]
+[24Apr2025 23:11:57.752] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63906, l='ServerLevel[world]', x=-8.65, y=49.06, z=-5.80]
+[24Apr2025 23:11:57.752] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63905, l='ServerLevel[world]', x=-6.76, y=50.52, z=-4.32]
+[24Apr2025 23:11:57.753] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63946, l='ServerLevel[world]', x=-8.51, y=50.30, z=-5.36]
+[24Apr2025 23:11:57.753] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/63948, l='ServerLevel[world]', x=-2.53, y=53.64, z=0.97]
+[24Apr2025 23:11:57.753] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63944, l='ServerLevel[world]', x=-2.32, y=46.15, z=8.80]
+[24Apr2025 23:11:57.753] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63945, l='ServerLevel[world]', x=-2.60, y=46.47, z=10.00]
+[24Apr2025 23:11:57.754] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64339, l='ServerLevel[world]', x=-5.00, y=70.23, z=7.00]
+[24Apr2025 23:11:57.754] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/63950, l='ServerLevel[world]', x=-2.83, y=48.66, z=11.03]
+[24Apr2025 23:11:57.754] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63943, l='ServerLevel[world]', x=-2.66, y=47.26, z=10.45]
+[24Apr2025 23:11:57.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64341, l='ServerLevel[world]', x=12.00, y=70.54, z=-9.00]
+[24Apr2025 23:11:57.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63961, l='ServerLevel[world]', x=2.52, y=50.55, z=12.85]
+[24Apr2025 23:11:57.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rope Net'/64203, l='ServerLevel[world]', x=2.14, y=66.74, z=10.83]
+[24Apr2025 23:11:57.755] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63960, l='ServerLevel[world]', x=1.42, y=50.70, z=12.67]
+[24Apr2025 23:11:57.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63962, l='ServerLevel[world]', x=1.26, y=51.24, z=12.15]
+[24Apr2025 23:11:57.757] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63952, l='ServerLevel[world]', x=3.56, y=51.52, z=11.33]
+[24Apr2025 23:11:57.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63953, l='ServerLevel[world]', x=2.67, y=50.60, z=12.35]
+[24Apr2025 23:11:57.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/63954, l='ServerLevel[world]', x=6.50, y=44.47, z=13.40]
+[24Apr2025 23:11:57.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63959, l='ServerLevel[world]', x=2.54, y=51.24, z=15.41]
+[24Apr2025 23:11:57.758] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63956, l='ServerLevel[world]', x=14.30, y=48.14, z=8.30]
+[24Apr2025 23:11:57.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/63957, l='ServerLevel[world]', x=8.85, y=45.60, z=14.85]
+[24Apr2025 23:11:57.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64305, l='ServerLevel[world]', x=7.00, y=59.00, z=2.00]
+[24Apr2025 23:11:57.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63963, l='ServerLevel[world]', x=2.57, y=50.66, z=13.36]
+[24Apr2025 23:11:57.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63951, l='ServerLevel[world]', x=4.30, y=51.14, z=13.62]
+[24Apr2025 23:11:57.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64308, l='ServerLevel[world]', x=11.00, y=59.00, z=10.00]
+[24Apr2025 23:11:57.759] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64309, l='ServerLevel[world]', x=15.00, y=71.43, z=20.00]
+[24Apr2025 23:11:57.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64340, l='ServerLevel[world]', x=24.96, y=71.23, z=-9.22]
+[24Apr2025 23:11:57.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64342, l='ServerLevel[world]', x=18.00, y=70.23, z=-6.00]
+[24Apr2025 23:11:57.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63955, l='ServerLevel[world]', x=16.02, y=47.23, z=10.70]
+[24Apr2025 23:11:57.760] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64307, l='ServerLevel[world]', x=21.00, y=71.43, z=26.00]
+[24Apr2025 23:11:57.761] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64306, l='ServerLevel[world]', x=16.00, y=71.43, z=19.00]
+[24Apr2025 23:11:57.768] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63907, l='ServerLevel[world]', x=-6.27, y=49.63, z=-5.21]
+[24Apr2025 23:11:57.768] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63906, l='ServerLevel[world]', x=-8.65, y=49.06, z=-5.80]
+[24Apr2025 23:11:57.769] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63905, l='ServerLevel[world]', x=-6.76, y=50.52, z=-4.32]
+[24Apr2025 23:11:57.769] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63946, l='ServerLevel[world]', x=-8.51, y=50.30, z=-5.36]
+[24Apr2025 23:11:57.769] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/63948, l='ServerLevel[world]', x=-2.53, y=53.64, z=0.97]
+[24Apr2025 23:11:57.769] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63944, l='ServerLevel[world]', x=-2.32, y=46.15, z=8.80]
+[24Apr2025 23:11:57.769] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63945, l='ServerLevel[world]', x=-2.60, y=46.47, z=10.00]
+[24Apr2025 23:11:57.770] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64339, l='ServerLevel[world]', x=-5.00, y=70.23, z=7.00]
+[24Apr2025 23:11:57.770] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/63950, l='ServerLevel[world]', x=-2.83, y=48.66, z=11.03]
+[24Apr2025 23:11:57.770] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63943, l='ServerLevel[world]', x=-2.66, y=47.26, z=10.45]
+[24Apr2025 23:11:57.771] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64341, l='ServerLevel[world]', x=12.00, y=70.54, z=-9.00]
+[24Apr2025 23:11:57.771] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63961, l='ServerLevel[world]', x=2.52, y=50.55, z=12.85]
+[24Apr2025 23:11:57.771] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Rope Net'/64203, l='ServerLevel[world]', x=2.14, y=66.74, z=10.83]
+[24Apr2025 23:11:57.771] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63960, l='ServerLevel[world]', x=1.42, y=50.70, z=12.67]
+[24Apr2025 23:11:57.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63962, l='ServerLevel[world]', x=1.26, y=51.24, z=12.15]
+[24Apr2025 23:11:57.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63952, l='ServerLevel[world]', x=3.56, y=51.52, z=11.33]
+[24Apr2025 23:11:57.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63953, l='ServerLevel[world]', x=2.67, y=50.60, z=12.35]
+[24Apr2025 23:11:57.772] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/63954, l='ServerLevel[world]', x=6.50, y=44.47, z=13.40]
+[24Apr2025 23:11:57.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63959, l='ServerLevel[world]', x=2.54, y=51.24, z=15.41]
+[24Apr2025 23:11:57.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63956, l='ServerLevel[world]', x=14.30, y=48.14, z=8.30]
+[24Apr2025 23:11:57.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/63957, l='ServerLevel[world]', x=8.85, y=45.60, z=14.85]
+[24Apr2025 23:11:57.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64305, l='ServerLevel[world]', x=7.00, y=59.00, z=2.00]
+[24Apr2025 23:11:57.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/63963, l='ServerLevel[world]', x=2.57, y=50.66, z=13.36]
+[24Apr2025 23:11:57.773] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63951, l='ServerLevel[world]', x=4.30, y=51.14, z=13.62]
+[24Apr2025 23:11:57.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64308, l='ServerLevel[world]', x=11.00, y=59.00, z=10.00]
+[24Apr2025 23:11:57.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64309, l='ServerLevel[world]', x=15.00, y=71.43, z=20.00]
+[24Apr2025 23:11:57.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64340, l='ServerLevel[world]', x=24.96, y=71.23, z=-9.22]
+[24Apr2025 23:11:57.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity GruntEntity['Pirate Grunt'/64342, l='ServerLevel[world]', x=18.00, y=70.23, z=-6.00]
+[24Apr2025 23:11:57.774] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/63955, l='ServerLevel[world]', x=16.02, y=47.23, z=10.70]
+[24Apr2025 23:11:57.775] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64307, l='ServerLevel[world]', x=21.00, y=71.43, z=26.00]
+[24Apr2025 23:11:57.775] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity BombEntity['Bomb'/64306, l='ServerLevel[world]', x=16.00, y=71.43, z=19.00]
+[24Apr2025 23:12:14.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9051ms or 181 ticks behind
+[24Apr2025 23:12:33.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
+[24Apr2025 23:12:54.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5463ms or 109 ticks behind
+[24Apr2025 23:13:16.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6763ms or 135 ticks behind
+[24Apr2025 23:13:23.625] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: java.util.ConcurrentModificationException
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.HashMap$ValueIterator.next(HashMap.java:1539)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.abilities.suna.SunaHelper.drainLiquids(SunaHelper.java:84)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.abilities.suna.DesertEncierroAbility.onChargeStart(DesertEncierroAbility.java:131)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.components.ChargeComponent.lambda$startCharging$7(ChargeComponent.java:211)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357)
+[24Apr2025 23:13:23.626] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ReferencePipeline.forEachOrdered(ReferencePipeline.java:502)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.util.PriorityEventPool.dispatch(PriorityEventPool.java:71)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.components.ChargeComponent.startCharging(ChargeComponent.java:211)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.abilities.suna.DesertEncierroAbility.onPullEnd(DesertEncierroAbility.java:112)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.components.GrabEntityComponent.lambda$stopPulling$2(GrabEntityComponent.java:194)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)
+[24Apr2025 23:13:23.627] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:485)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.stream.ReferencePipeline.forEachOrdered(ReferencePipeline.java:502)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.util.PriorityEventPool.dispatch(PriorityEventPool.java:71)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.components.GrabEntityComponent.stopPulling(GrabEntityComponent.java:194)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.components.GrabEntityComponent.doTick(GrabEntityComponent.java:139)
+[24Apr2025 23:13:23.628] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.components.AbilityComponent.tick(AbilityComponent.java:61)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.Ability.lambda$tick$9(Ability.java:697)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.util.LinkedHashMap$LinkedValues.forEach(LinkedHashMap.java:608)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.abilities.Ability.tick(Ability.java:697)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents.onLivingUpdate(AbilitiesEvents.java:159)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraftforge.eventbus.ASMEventHandler_535_AbilitiesEvents_onLivingUpdate_LivingUpdateEvent.invoke(.dynamic)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:85)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraftforge.common.ForgeHooks.onLivingUpdate(ForgeHooks.java:326)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2114)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.entity.MobEntity.func_70071_h_(MobEntity.java:300)
+[24Apr2025 23:13:23.629] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.api.challenges.OPBossEntity.func_70071_h_(OPBossEntity.java:106)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at xyz.pixelatedw.mineminenomi.entities.mobs.pirates.baroqueworks.Mr0Entity.func_70071_h_(Mr0Entity.java:296)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.world.server.ServerWorld.func_217479_a(ServerWorld.java:612)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.world.World.func_217390_a(World.java:554)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:405)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232)
+[24Apr2025 23:13:23.630] [Server thread/INFO] [STDERR/]: [xyz.pixelatedw.mineminenomi.events.abilities.AbilitiesEvents:onLivingUpdate:162]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[24Apr2025 23:13:36.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5549ms or 110 ticks behind
