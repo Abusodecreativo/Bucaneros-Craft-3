@@ -3412,3 +3412,68 @@ java.lang.NullPointerException: null
 [24Apr2025 22:20:15.999] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
 [24Apr2025 22:20:26.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Rigged from the Start]
 [24Apr2025 22:20:27.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12167ms or 243 ticks behind
+[24Apr2025 22:21:03.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21189ms or 423 ticks behind
+[24Apr2025 22:21:10.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[24Apr2025 22:21:29.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR burned to death
+[24Apr2025 22:21:32.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has completed the challenge [Pillager Fortress]
+[24Apr2025 22:21:38.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19659ms or 393 ticks behind
+[24Apr2025 22:22:12.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19310ms or 386 ticks behind
+[24Apr2025 22:22:16.781] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Disconnected
+[24Apr2025 22:22:16.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[24Apr2025 22:22:16.782] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[24Apr2025 22:22:16.782] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[24Apr2025 22:22:16.783] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[24Apr2025 22:22:22.939] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71be9697
+[24Apr2025 22:22:22.970] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Freacklock[/100.121.40.72:65263] logged in with entity id 26409 at (-5432.578340560814, 67.0, 4712.141448672672)
+[24Apr2025 22:22:22.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock joined the game
+[24Apr2025 22:22:22.994] [Server thread/INFO] [Waila/]: Syncing config to Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92)
+[24Apr2025 22:22:23.004] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Freacklock just logged in with id f32b1d7a-5eef-3918-8041-62708bf3cf92
+[24Apr2025 22:22:23.009] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[24Apr2025 22:22:23.009] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Freacklock
+[24Apr2025 22:22:23.070] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Freacklock downloaded
+[24Apr2025 22:22:23.071] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/cd99f4ef-6f60-4c48-ab18-6b4a50132fd1
+[24Apr2025 22:22:23.419] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Freacklock (18)
+[24Apr2025 22:22:23.420] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[24Apr2025 22:22:23.537] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was loaded
+[24Apr2025 22:22:25.480] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[24Apr2025 22:22:26.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[24Apr2025 22:22:26.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92) successfully connected to voice chat
+[24Apr2025 22:22:33.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to Freacklock]
+[24Apr2025 22:22:34.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[24Apr2025 22:22:45.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18609ms or 372 ticks behind
+[24Apr2025 22:22:46.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> que coño le pasa el server
+[24Apr2025 22:22:54.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[24Apr2025 22:23:08.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has completed the challenge [Labyrinth of the Serpent]
+[24Apr2025 22:23:16.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15307ms or 306 ticks behind
+[24Apr2025 22:23:47.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15989ms or 319 ticks behind
+[24Apr2025 22:24:04.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has completed the challenge [Labyrinth of the Serpent]
+[24Apr2025 22:24:16.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has completed the challenge [Labyrinth of the Serpent]
+[24Apr2025 22:24:19.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16953ms or 339 ticks behind
+[24Apr2025 22:24:38.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has made the advancement [Amateur Archaeologist]
+[24Apr2025 22:24:47.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13854ms or 277 ticks behind
+[24Apr2025 22:25:18.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15558ms or 311 ticks behind
+[24Apr2025 22:25:49.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16059ms or 321 ticks behind
+[24Apr2025 22:26:21.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17217ms or 344 ticks behind
+[24Apr2025 22:26:42.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Disme A Dozen]
+[24Apr2025 22:27:00.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23627ms or 472 ticks behind
+[24Apr2025 22:27:08.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Acquire Hardware]
+[24Apr2025 22:27:33.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [No Step on Snake]
+[24Apr2025 22:27:41.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26546ms or 530 ticks behind
+[24Apr2025 22:28:11.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has made the advancement [No Step on Snake]
+[24Apr2025 22:28:19.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22218ms or 444 ticks behind
+[24Apr2025 22:28:59.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25050ms or 501 ticks behind
+[24Apr2025 22:29:33.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19866ms or 397 ticks behind
+[24Apr2025 22:29:47.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Chompy]
+[24Apr2025 22:30:08.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19680ms or 393 ticks behind
+[24Apr2025 22:30:09.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[24Apr2025 22:30:09.868] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: DALHENO_MR lost connection: Disconnected
+[24Apr2025 22:30:09.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR left the game
+[24Apr2025 22:30:09.868] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d was unloaded
+[24Apr2025 22:30:09.869] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client DALHENO_MR
+[24Apr2025 22:30:09.869] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DALHENO_MR[73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d]
+[24Apr2025 22:30:42.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18559ms or 371 ticks behind
+[24Apr2025 22:31:18.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Cover Me In Emeralds]
+[24Apr2025 22:31:18.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [The Beginning of An Adventure]
+[24Apr2025 22:31:18.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Crops of the Wild]
+[24Apr2025 22:31:20.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23605ms or 472 ticks behind
+[24Apr2025 22:31:24.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> creativo

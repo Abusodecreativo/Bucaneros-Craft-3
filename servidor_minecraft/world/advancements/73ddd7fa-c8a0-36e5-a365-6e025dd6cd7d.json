@@ -10678,6 +10678,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-24 22:24:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:14 +0000"

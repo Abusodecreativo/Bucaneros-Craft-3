@@ -3214,6 +3214,12 @@
     },
     "done": true
   },
+  "idas:labyrinth": {
+    "criteria": {
+      "in_labyrinth": "2025-04-24 22:24:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -3946,6 +3952,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed": "2025-04-24 22:20:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4103,6 +4115,7 @@
       "minecraft:piglin_brute": "2025-04-20 19:57:12 +0000",
       "minecraft:phantom": "2025-04-19 21:57:42 +0000",
       "minecraft:zombified_piglin": "2025-04-20 15:58:02 +0000",
+      "minecraft:witch": "2025-04-24 22:29:21 +0000",
       "minecraft:wither_skeleton": "2025-04-20 15:42:52 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:piglin": "2025-04-20 15:31:14 +0000",
@@ -9571,6 +9584,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-24 22:29:47 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -12022,6 +12041,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "create:fan_lava": {
+    "criteria": {
+      "0": "2025-04-24 22:30:32 +0000"
     },
     "done": true
   },

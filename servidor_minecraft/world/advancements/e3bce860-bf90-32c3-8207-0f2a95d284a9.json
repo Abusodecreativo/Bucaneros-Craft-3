@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-24 22:27:08 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/purple_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -986,6 +992,12 @@
   "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-04-24 22:21:32 +0000"
     },
     "done": true
   },
@@ -3029,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-24 22:27:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -3425,6 +3443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-24 22:26:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/content_observer": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -3518,6 +3542,12 @@
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-04-24 22:20:56 +0000"
     },
     "done": true
   },
@@ -4616,6 +4646,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-24 22:25:33 +0000"
     },
     "done": true
   },
@@ -8363,6 +8399,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-24 22:26:42 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/neptunes_bounty": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -11123,6 +11165,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-04-24 22:21:49 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -11252,6 +11300,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2025-04-24 22:19:40 +0000"
     },
     "done": true
   },
