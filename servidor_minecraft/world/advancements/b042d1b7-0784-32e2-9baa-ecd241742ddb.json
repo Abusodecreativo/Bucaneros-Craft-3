@@ -8313,6 +8313,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/gustmaker": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-04-24 22:58:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
