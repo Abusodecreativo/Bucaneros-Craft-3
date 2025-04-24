@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-24 23:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -272,6 +278,12 @@
   "create:recipes/create.palettes/layered_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-24 23:30:43 +0000"
     },
     "done": true
   },
@@ -734,6 +746,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-24 23:30:43 +0000"
     },
     "done": true
   },
@@ -1271,6 +1289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-24 23:41:55 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -1526,6 +1550,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-24 23:41:55 +0000"
     },
     "done": true
   },
@@ -2000,6 +2030,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-24 23:41:55 +0000"
     },
     "done": true
   },
@@ -7735,6 +7771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-24 23:41:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematicannon": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -11682,6 +11724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-24 23:41:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -12096,6 +12144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-24 23:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -12225,6 +12279,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-24 23:32:06 +0000"
     },
     "done": true
   },
