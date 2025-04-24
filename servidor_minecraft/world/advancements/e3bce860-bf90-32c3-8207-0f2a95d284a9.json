@@ -3449,6 +3449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-24 22:48:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall_from_polished_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -3710,6 +3716,12 @@
   "create:recipes/create.palettes/dolomite_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-24 22:45:28 +0000"
     },
     "done": true
   },
@@ -9144,6 +9156,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-04-24 22:43:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -11229,6 +11247,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2025-04-24 22:36:37 +0000",
+      "golden_apple": "2025-04-24 22:44:00 +0000",
       "carrot": "2025-04-24 22:21:49 +0000"
     },
     "done": false
@@ -11794,6 +11813,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-24 22:43:56 +0000"
     },
     "done": true
   },
