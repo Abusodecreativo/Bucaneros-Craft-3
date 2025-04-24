@@ -390,6 +390,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-24 22:39:25 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -4117,6 +4123,7 @@
       "minecraft:zombified_piglin": "2025-04-20 15:58:02 +0000",
       "minecraft:witch": "2025-04-24 22:29:21 +0000",
       "minecraft:wither_skeleton": "2025-04-20 15:42:52 +0000",
+      "minecraft:husk": "2025-04-24 22:33:13 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:piglin": "2025-04-20 15:31:14 +0000",
       "minecraft:enderman": "2025-04-23 00:01:57 +0000",

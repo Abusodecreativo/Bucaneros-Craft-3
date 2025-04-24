@@ -3477,3 +3477,41 @@ java.lang.NullPointerException: null
 [24Apr2025 22:31:18.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Crops of the Wild]
 [24Apr2025 22:31:20.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23605ms or 472 ticks behind
 [24Apr2025 22:31:24.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> creativo
+[24Apr2025 22:31:26.438] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Atlantic Herring'/33530, l='ServerLevel[world]', x=133.50, y=52.68, z=4669.50]
+[24Apr2025 22:32:00.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[24Apr2025 22:32:08.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[24Apr2025 22:32:14.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 38507ms or 770 ticks behind
+[24Apr2025 22:32:22.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> basura de server
+[24Apr2025 22:32:31.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Monster Hunter]
+[24Apr2025 22:32:46.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17123ms or 342 ticks behind
+[24Apr2025 22:33:20.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19389ms or 387 ticks behind
+[24Apr2025 22:33:36.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid was shot by Pillager using    [Pillager's Crossbow]
+[24Apr2025 22:33:50.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15222ms or 304 ticks behind
+[24Apr2025 22:33:55.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[24Apr2025 22:34:16.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10866ms or 217 ticks behind
+[24Apr2025 22:34:38.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6969ms or 139 ticks behind
+[24Apr2025 22:35:01.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7507ms or 150 ticks behind
+[24Apr2025 22:35:26.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10379ms or 207 ticks behind
+[24Apr2025 22:35:38.235] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/246, l='ServerLevel[world]', x=141.50, y=96.26, z=297.50] died, message: 'Villager was slain by Zombie'
+[24Apr2025 22:35:50.219] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/248, l='ServerLevel[world]', x=131.50, y=96.26, z=293.50] died, message: 'Farmer was slain by Zombie'
+[24Apr2025 22:35:52.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10717ms or 214 ticks behind
+[24Apr2025 22:36:09.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Close Quarters]
+[24Apr2025 22:36:11.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 208 entities]
+[24Apr2025 22:36:19.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Chompy]
+[24Apr2025 22:36:21.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14669ms or 293 ticks behind
+[24Apr2025 22:36:48.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12087ms or 241 ticks behind
+[24Apr2025 22:37:13.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10032ms or 200 ticks behind
+[24Apr2025 22:37:40.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11682ms or 233 ticks behind
+[24Apr2025 22:38:07.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11772ms or 235 ticks behind
+[24Apr2025 22:38:07.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 72 entities]
+[24Apr2025 22:38:33.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11628ms or 232 ticks behind
+[24Apr2025 22:38:38.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 38 entities]
+[24Apr2025 22:39:00.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12036ms or 240 ticks behind
+[24Apr2025 22:39:25.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Chest Slayer]
+[24Apr2025 22:39:31.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15059ms or 301 ticks behind
+[24Apr2025 22:40:03.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17970ms or 359 ticks behind
+[24Apr2025 22:40:09.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 36 entities]
+[24Apr2025 22:40:32.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> como se abria el mapa
+[24Apr2025 22:40:37.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18684ms or 373 ticks behind
+[24Apr2025 22:41:11.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18712ms or 374 ticks behind
+[24Apr2025 22:41:41.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14765ms or 295 ticks behind
