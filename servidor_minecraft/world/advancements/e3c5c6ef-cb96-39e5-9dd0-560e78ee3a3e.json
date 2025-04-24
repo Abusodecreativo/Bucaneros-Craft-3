@@ -10399,6 +10399,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/mr_1": {
+    "criteria": {
+      "unlock_challenge": "2025-04-24 22:17:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"

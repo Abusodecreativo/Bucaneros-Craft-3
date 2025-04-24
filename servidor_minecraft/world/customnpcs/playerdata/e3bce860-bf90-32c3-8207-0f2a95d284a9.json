@@ -1,0 +1,48 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 8
+            }
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 24
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Kirolaid",
+    "UUID": "e3bce860-bf90-32c3-8207-0f2a95d284a9",
+    "ScriptStoreddata": {
+    }
+}

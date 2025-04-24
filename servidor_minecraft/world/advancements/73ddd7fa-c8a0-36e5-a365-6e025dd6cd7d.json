@@ -4418,6 +4418,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-24 22:15:20 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_slope": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
@@ -5730,6 +5736,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_5_and_miss_valentine": {
+    "criteria": {
+      "unlock_challenge": "2025-04-24 22:14:02 +0000"
     },
     "done": true
   },
@@ -10057,6 +10069,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:13 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_1": {
+    "criteria": {
+      "unlock_challenge": "2025-04-24 22:17:30 +0000"
     },
     "done": true
   },

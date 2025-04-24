@@ -3238,3 +3238,177 @@ java.lang.NullPointerException: null
 [24Apr2025 22:09:42.531] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/11758, l='ServerLevel[world]', x=0.09, y=60.80, z=4.02]
 [24Apr2025 22:09:42.532] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ChewEntity['Chew'/11674, l='ServerLevel[world]', x=16.49, y=74.68, z=7.18]
 [24Apr2025 22:09:47.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13315ms or 266 ticks behind
+[24Apr2025 22:10:15.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[24Apr2025 22:10:22.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[24Apr2025 22:10:37.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
+[24Apr2025 22:10:43.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[24Apr2025 22:10:57.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Apr2025 22:11:18.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Apr2025 22:11:36.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[24Apr2025 22:11:47.468] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 22:11:47.468] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 22:12:01.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10590ms or 211 ticks behind
+[24Apr2025 22:12:20.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[24Apr2025 22:12:40.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4683ms or 93 ticks behind
+[24Apr2025 22:12:48.924] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[24Apr2025 22:12:49.120] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.120] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.123] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.123] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.123] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.123] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.180] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.180] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.187] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.187] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.188] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.188] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.210] [Server thread/INFO] [mineminenomi/]: eldanidani started MR_5_AND_MISS_VALENTINE challenge.
+[24Apr2025 22:12:49.229] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:49.229] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[24Apr2025 22:12:52.602] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14845, l='ServerLevel[world]', x=-2.44, y=60.40, z=-9.97]
+[24Apr2025 22:12:52.603] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14775, l='ServerLevel[world]', x=4.80, y=47.08, z=-4.79]
+[24Apr2025 22:12:52.604] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14842, l='ServerLevel[world]', x=8.06, y=47.43, z=-4.67]
+[24Apr2025 22:12:52.605] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14844, l='ServerLevel[world]', x=5.22, y=46.90, z=-3.90]
+[24Apr2025 22:12:52.606] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14884, l='ServerLevel[world]', x=4.82, y=46.87, z=-4.02]
+[24Apr2025 22:12:52.606] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14843, l='ServerLevel[world]', x=4.22, y=46.92, z=-3.56]
+[24Apr2025 22:12:52.608] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14770, l='ServerLevel[world]', x=4.76, y=46.97, z=-5.57]
+[24Apr2025 22:12:52.608] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14705, l='ServerLevel[world]', x=4.66, y=62.54, z=1.56]
+[24Apr2025 22:12:52.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14706, l='ServerLevel[world]', x=5.57, y=66.23, z=0.65]
+[24Apr2025 22:12:52.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14883, l='ServerLevel[world]', x=2.97, y=59.78, z=6.85]
+[24Apr2025 22:12:52.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14773, l='ServerLevel[world]', x=1.42, y=59.00, z=6.63]
+[24Apr2025 22:12:52.613] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14772, l='ServerLevel[world]', x=0.34, y=59.78, z=6.61]
+[24Apr2025 22:12:52.614] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14774, l='ServerLevel[world]', x=1.11, y=59.78, z=6.43]
+[24Apr2025 22:12:52.614] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14900, l='ServerLevel[world]', x=5.14, y=64.65, z=0.00]
+[24Apr2025 22:12:52.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14771, l='ServerLevel[world]', x=2.31, y=59.78, z=7.98]
+[24Apr2025 22:12:52.616] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity CannonBallProjectile['Cannon Ball'/16742, l='ServerLevel[world]', x=25.85, y=79.14, z=28.44]
+[24Apr2025 22:12:52.618] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ChewEntity['Chew'/14560, l='ServerLevel[world]', x=45.12, y=76.77, z=47.94]
+[24Apr2025 22:12:52.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14845, l='ServerLevel[world]', x=-2.44, y=60.40, z=-9.97]
+[24Apr2025 22:12:52.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14775, l='ServerLevel[world]', x=4.80, y=47.08, z=-4.79]
+[24Apr2025 22:12:52.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14842, l='ServerLevel[world]', x=8.06, y=47.43, z=-4.67]
+[24Apr2025 22:12:52.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14844, l='ServerLevel[world]', x=5.22, y=46.90, z=-3.90]
+[24Apr2025 22:12:52.645] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14884, l='ServerLevel[world]', x=4.82, y=46.87, z=-4.02]
+[24Apr2025 22:12:52.646] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14843, l='ServerLevel[world]', x=4.22, y=46.92, z=-3.56]
+[24Apr2025 22:12:52.648] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14770, l='ServerLevel[world]', x=4.76, y=46.97, z=-5.57]
+[24Apr2025 22:12:52.651] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14705, l='ServerLevel[world]', x=4.66, y=62.54, z=1.56]
+[24Apr2025 22:12:52.651] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14706, l='ServerLevel[world]', x=5.57, y=66.23, z=0.65]
+[24Apr2025 22:12:52.652] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14883, l='ServerLevel[world]', x=2.97, y=59.78, z=6.85]
+[24Apr2025 22:12:52.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14773, l='ServerLevel[world]', x=1.42, y=59.00, z=6.63]
+[24Apr2025 22:12:52.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14772, l='ServerLevel[world]', x=0.34, y=59.78, z=6.61]
+[24Apr2025 22:12:52.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14774, l='ServerLevel[world]', x=1.11, y=59.78, z=6.43]
+[24Apr2025 22:12:52.654] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14900, l='ServerLevel[world]', x=5.14, y=64.65, z=0.00]
+[24Apr2025 22:12:52.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14771, l='ServerLevel[world]', x=2.31, y=59.78, z=7.98]
+[24Apr2025 22:12:52.657] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity CannonBallProjectile['Cannon Ball'/16742, l='ServerLevel[world]', x=25.85, y=79.14, z=28.44]
+[24Apr2025 22:12:52.659] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ChewEntity['Chew'/14560, l='ServerLevel[world]', x=45.12, y=76.77, z=47.94]
+[24Apr2025 22:12:52.684] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/14845, l='ServerLevel[world]', x=-2.44, y=60.40, z=-9.97]
+[24Apr2025 22:12:52.686] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14775, l='ServerLevel[world]', x=4.80, y=47.08, z=-4.79]
+[24Apr2025 22:12:52.687] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14842, l='ServerLevel[world]', x=8.06, y=47.43, z=-4.67]
+[24Apr2025 22:12:52.687] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14844, l='ServerLevel[world]', x=5.22, y=46.90, z=-3.90]
+[24Apr2025 22:12:52.688] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14884, l='ServerLevel[world]', x=4.82, y=46.87, z=-4.02]
+[24Apr2025 22:12:52.690] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14843, l='ServerLevel[world]', x=4.22, y=46.92, z=-3.56]
+[24Apr2025 22:12:52.692] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/14770, l='ServerLevel[world]', x=4.76, y=46.97, z=-5.57]
+[24Apr2025 22:12:52.694] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14705, l='ServerLevel[world]', x=4.66, y=62.54, z=1.56]
+[24Apr2025 22:12:52.698] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14706, l='ServerLevel[world]', x=5.57, y=66.23, z=0.65]
+[24Apr2025 22:12:52.699] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14883, l='ServerLevel[world]', x=2.97, y=59.78, z=6.85]
+[24Apr2025 22:12:52.700] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14773, l='ServerLevel[world]', x=1.42, y=59.00, z=6.63]
+[24Apr2025 22:12:52.702] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14772, l='ServerLevel[world]', x=0.34, y=59.78, z=6.61]
+[24Apr2025 22:12:52.703] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14774, l='ServerLevel[world]', x=1.11, y=59.78, z=6.43]
+[24Apr2025 22:12:52.704] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/14900, l='ServerLevel[world]', x=5.14, y=64.65, z=0.00]
+[24Apr2025 22:12:52.706] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/14771, l='ServerLevel[world]', x=2.31, y=59.78, z=7.98]
+[24Apr2025 22:12:52.706] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity CannonBallProjectile['Cannon Ball'/16742, l='ServerLevel[world]', x=25.85, y=79.14, z=28.44]
+[24Apr2025 22:12:52.707] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ChewEntity['Chew'/14560, l='ServerLevel[world]', x=45.12, y=76.77, z=47.94]
+[24Apr2025 22:13:01.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6187ms or 123 ticks behind
+[24Apr2025 22:13:19.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2481ms or 49 ticks behind
+[24Apr2025 22:14:02.480] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 22:14:02.831] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 22:14:02.832] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 22:14:02.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7842ms or 156 ticks behind
+[24Apr2025 22:14:08.369] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71f0f043
+[24Apr2025 22:14:08.372] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Kirolaid[/100.123.52.67:54199] logged in with entity id 19922 at (301.5, 70.0, 127.5)
+[24Apr2025 22:14:08.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid joined the game
+[24Apr2025 22:14:08.487] [Server thread/INFO] [Waila/]: Syncing config to Kirolaid (e3bce860-bf90-32c3-8207-0f2a95d284a9)
+[24Apr2025 22:14:09.466] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Kirolaid just logged in with id e3bce860-bf90-32c3-8207-0f2a95d284a9
+[24Apr2025 22:14:09.467] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Kirolaid
+[24Apr2025 22:14:09.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Integrated Dungeons and Structures]
+[24Apr2025 22:14:09.854] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Kirolaid
+[24Apr2025 22:14:09.855] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Kirolaid
+[24Apr2025 22:14:10.003] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Kirolaid
+[24Apr2025 22:14:12.614] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kirolaid (18)
+[24Apr2025 22:14:12.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kirolaid
+[24Apr2025 22:14:13.366] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3bce860-bf90-32c3-8207-0f2a95d284a9 was loaded
+[24Apr2025 22:14:25.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7294ms or 145 ticks behind
+[24Apr2025 22:14:30.315] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e3bce860-bf90-32c3-8207-0f2a95d284a9
+[24Apr2025 22:14:31.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e3bce860-bf90-32c3-8207-0f2a95d284a9
+[24Apr2025 22:14:31.324] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kirolaid (e3bce860-bf90-32c3-8207-0f2a95d284a9) successfully connected to voice chat
+[24Apr2025 22:14:40.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> no puede ser
+[24Apr2025 22:14:45.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5693ms or 113 ticks behind
+[24Apr2025 22:14:54.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> he conseguido meterme solo
+[24Apr2025 22:15:06.334] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started MR_1 challenge.
+[24Apr2025 22:15:08.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8155ms or 163 ticks behind
+[24Apr2025 22:15:09.480] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Totem of Undying'/20593, l='ServerLevel[world]', x=11.88, y=71.89, z=-12.88]
+[24Apr2025 22:15:09.481] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/20592, l='ServerLevel[world]', x=28.49, y=70.59, z=4.62]
+[24Apr2025 22:15:09.481] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/20591, l='ServerLevel[world]', x=27.50, y=56.92, z=13.52]
+[24Apr2025 22:15:09.481] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/20590, l='ServerLevel[world]', x=27.84, y=59.33, z=15.47]
+[24Apr2025 22:15:09.481] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20596, l='ServerLevel[world]', x=25.07, y=68.06, z=29.81]
+[24Apr2025 22:15:09.481] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20595, l='ServerLevel[world]', x=24.19, y=68.83, z=30.26]
+[24Apr2025 22:15:09.482] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20599, l='ServerLevel[world]', x=24.03, y=69.45, z=29.72]
+[24Apr2025 22:15:09.482] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20597, l='ServerLevel[world]', x=24.59, y=68.43, z=28.94]
+[24Apr2025 22:15:09.482] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20598, l='ServerLevel[world]', x=22.83, y=68.41, z=29.33]
+[24Apr2025 22:15:09.482] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/20594, l='ServerLevel[world]', x=22.89, y=55.13, z=24.41]
+[24Apr2025 22:15:09.489] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Totem of Undying'/20593, l='ServerLevel[world]', x=11.88, y=71.89, z=-12.88]
+[24Apr2025 22:15:09.490] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/20592, l='ServerLevel[world]', x=28.49, y=70.59, z=4.62]
+[24Apr2025 22:15:09.490] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/20591, l='ServerLevel[world]', x=27.50, y=56.92, z=13.52]
+[24Apr2025 22:15:09.491] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/20590, l='ServerLevel[world]', x=27.84, y=59.33, z=15.47]
+[24Apr2025 22:15:09.491] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20596, l='ServerLevel[world]', x=25.07, y=68.06, z=29.81]
+[24Apr2025 22:15:09.491] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20595, l='ServerLevel[world]', x=24.19, y=68.83, z=30.26]
+[24Apr2025 22:15:09.491] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20599, l='ServerLevel[world]', x=24.03, y=69.45, z=29.72]
+[24Apr2025 22:15:09.492] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20597, l='ServerLevel[world]', x=24.59, y=68.43, z=28.94]
+[24Apr2025 22:15:09.492] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20598, l='ServerLevel[world]', x=22.83, y=68.41, z=29.33]
+[24Apr2025 22:15:09.492] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/20594, l='ServerLevel[world]', x=22.89, y=55.13, z=24.41]
+[24Apr2025 22:15:09.498] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Totem of Undying'/20593, l='ServerLevel[world]', x=11.88, y=71.89, z=-12.88]
+[24Apr2025 22:15:09.499] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/20592, l='ServerLevel[world]', x=28.49, y=70.59, z=4.62]
+[24Apr2025 22:15:09.499] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/20591, l='ServerLevel[world]', x=27.50, y=56.92, z=13.52]
+[24Apr2025 22:15:09.500] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Gar'/20590, l='ServerLevel[world]', x=27.84, y=59.33, z=15.47]
+[24Apr2025 22:15:09.501] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20596, l='ServerLevel[world]', x=25.07, y=68.06, z=29.81]
+[24Apr2025 22:15:09.501] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20595, l='ServerLevel[world]', x=24.19, y=68.83, z=30.26]
+[24Apr2025 22:15:09.502] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20599, l='ServerLevel[world]', x=24.03, y=69.45, z=29.72]
+[24Apr2025 22:15:09.502] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20597, l='ServerLevel[world]', x=24.59, y=68.43, z=28.94]
+[24Apr2025 22:15:09.503] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/20598, l='ServerLevel[world]', x=22.83, y=68.41, z=29.33]
+[24Apr2025 22:15:09.503] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Muskellunge'/20594, l='ServerLevel[world]', x=22.89, y=55.13, z=24.41]
+[24Apr2025 22:15:20.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DALHENO_MR has reached the goal [Postmortal]
+[24Apr2025 22:15:37.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13520ms or 270 ticks behind
+[24Apr2025 22:16:01.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8760ms or 175 ticks behind
+[24Apr2025 22:16:10.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement ['X' Marks the Spot]
+[24Apr2025 22:16:10.919] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[24Apr2025 22:16:23.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7149ms or 142 ticks behind
+[24Apr2025 22:16:44.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
+[24Apr2025 22:16:52.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Amateur Archaeologist]
+[24Apr2025 22:17:08.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8153ms or 163 ticks behind
+[24Apr2025 22:17:14.370] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[24Apr2025 22:17:30.622] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[24Apr2025 22:17:30.622] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[24Apr2025 22:17:39.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16038ms or 320 ticks behind
+[24Apr2025 22:18:01.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7436ms or 148 ticks behind
+[24Apr2025 22:18:03.756] [Server thread/INFO] [mineminenomi/]: marcosbigpapa started MR_0 challenge.
+[24Apr2025 22:18:06.270] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity KingPunchProjectile['King Punch'/22302, l='ServerLevel[world]', x=6.08, y=60.99, z=-1.21]
+[24Apr2025 22:18:06.277] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity KingPunchProjectile['King Punch'/22302, l='ServerLevel[world]', x=6.08, y=60.99, z=-1.21]
+[24Apr2025 22:18:06.284] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity KingPunchProjectile['King Punch'/22302, l='ServerLevel[world]', x=6.08, y=60.99, z=-1.21]
+[24Apr2025 22:18:30.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14000ms or 280 ticks behind
+[24Apr2025 22:18:53.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7882ms or 157 ticks behind
+[24Apr2025 22:18:58.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -1523.0, 64.0, 555.0]
+[24Apr2025 22:18:59.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[24Apr2025 22:19:01.849] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1485, y=35, z=573}
+[24Apr2025 22:19:01.849] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1479, y=41, z=574}
+[24Apr2025 22:19:01.849] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1477, y=35, z=573}
+[24Apr2025 22:19:01.850] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1485, y=35, z=577}
+[24Apr2025 22:19:01.850] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1479, y=40, z=576}
+[24Apr2025 22:19:01.850] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1479, y=35, z=577}
+[24Apr2025 22:19:01.850] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1468, y=41, z=575}
+[24Apr2025 22:19:01.850] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-1470, y=35, z=577}
+[24Apr2025 22:19:11.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to Freacklock]
+[24Apr2025 22:19:13.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Alex's Mobs]
+[24Apr2025 22:19:29.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21262ms or 425 ticks behind
+[24Apr2025 22:20:00.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15472ms or 309 ticks behind
+[24Apr2025 22:20:15.999] [Server thread/INFO] [mineminenomi/]: marcosbigpapa's challenge stopped.
+[24Apr2025 22:20:26.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has made the advancement [Rigged from the Start]
+[24Apr2025 22:20:27.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12167ms or 243 ticks behind

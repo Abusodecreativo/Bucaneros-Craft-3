@@ -5181,6 +5181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-24 22:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -11288,6 +11294,7 @@
       "minecraft:cold_ocean": "2025-04-17 10:30:20 +0000",
       "minecraft:forest": "2025-04-19 22:36:39 +0000",
       "minecraft:deep_cold_ocean": "2025-04-18 17:52:31 +0000",
+      "minecraft:desert": "2025-04-24 22:13:14 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-17 10:49:43 +0000",
       "minecraft:warm_ocean": "2025-04-17 11:20:49 +0000",
       "minecraft:beach": "2025-04-16 23:32:57 +0000",

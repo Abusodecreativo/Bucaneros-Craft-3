@@ -5903,6 +5903,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/mr_5_and_miss_valentine": {
+    "criteria": {
+      "unlock_challenge": "2025-04-24 22:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -10311,6 +10317,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/mr_1": {
+    "criteria": {
+      "unlock_challenge": "2025-04-24 22:17:30 +0000"
     },
     "done": true
   },
