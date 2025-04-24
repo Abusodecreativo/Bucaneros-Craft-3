@@ -3798,3 +3798,66 @@ java.lang.NullPointerException: null
 [24Apr2025 23:23:14.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11353ms or 227 ticks behind
 [24Apr2025 23:23:41.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11293ms or 225 ticks behind
 [24Apr2025 23:24:07.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11498ms or 229 ticks behind
+[24Apr2025 23:24:36.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14310ms or 286 ticks behind
+[24Apr2025 23:25:03.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12145ms or 242 ticks behind
+[24Apr2025 23:25:27.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9141ms or 182 ticks behind
+[24Apr2025 23:25:31.594] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Best Friends Forever]
+[24Apr2025 23:25:47.212] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:25:59.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16222ms or 324 ticks behind
+[24Apr2025 23:26:18.933] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=447, y=35, z=4931}
+[24Apr2025 23:26:18.934] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=447, y=35, z=4937}
+[24Apr2025 23:26:25.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11833ms or 236 ticks behind
+[24Apr2025 23:26:56.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15580ms or 311 ticks behind
+[24Apr2025 23:27:26.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14720ms or 294 ticks behind
+[24Apr2025 23:27:56.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15198ms or 303 ticks behind
+[24Apr2025 23:28:29.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17729ms or 354 ticks behind
+[24Apr2025 23:28:50.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6908ms or 138 ticks behind
+[24Apr2025 23:29:11.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[24Apr2025 23:29:25.009] [Server thread/INFO] [mineminenomi/]: eldanidani started CHEW_HARD challenge.
+[24Apr2025 23:29:35.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9658ms or 193 ticks behind
+[24Apr2025 23:29:49.708] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:29:56.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6002ms or 120 ticks behind
+[24Apr2025 23:30:16.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
+[24Apr2025 23:30:31.924] [Server thread/INFO] [mineminenomi/]: eldanidani started CHEW_HARD challenge.
+[24Apr2025 23:30:43.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11960ms or 239 ticks behind
+[24Apr2025 23:31:02.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4273ms or 85 ticks behind
+[24Apr2025 23:31:19.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[24Apr2025 23:31:37.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2281ms or 45 ticks behind
+[24Apr2025 23:31:57.749] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:31:57.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
+[24Apr2025 23:32:17.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4977ms or 99 ticks behind
+[24Apr2025 23:32:23.290] [Server thread/INFO] [mineminenomi/]: eldanidani started HIGUMA_HARD challenge.
+[24Apr2025 23:32:41.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8479ms or 169 ticks behind
+[24Apr2025 23:32:59.833] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[24Apr2025 23:33:00.565] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:33:20.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5319ms or 106 ticks behind
+[24Apr2025 23:33:29.790] [Server thread/INFO] [mineminenomi/]: eldanidani started GIN challenge.
+[24Apr2025 23:33:34.819] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:33:35.819] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:33:48.905] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[24Apr2025 23:33:48.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[24Apr2025 23:33:48.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[24Apr2025 23:33:48.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[24Apr2025 23:33:48.907] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[24Apr2025 23:33:51.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15993ms or 319 ticks behind
+[24Apr2025 23:33:54.624] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@61ad0d6f
+[24Apr2025 23:33:54.659] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Miglaitor_[/100.73.60.56:53318] logged in with entity id 82877 at (-9874.190519853622, 63.0, -1448.017537463385)
+[24Apr2025 23:33:54.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ joined the game
+[24Apr2025 23:33:54.731] [Server thread/INFO] [Waila/]: Syncing config to Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb)
+[24Apr2025 23:33:54.745] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Miglaitor_ just logged in with id b042d1b7-0784-32e2-9baa-ecd241742ddb
+[24Apr2025 23:33:54.783] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[24Apr2025 23:33:54.785] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Miglaitor_
+[24Apr2025 23:33:54.847] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Miglaitor_ downloaded
+[24Apr2025 23:33:54.848] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/9e64f3ba-7955-4eff-989b-8f92495216b8
+[24Apr2025 23:33:55.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Miglaitor_ (18)
+[24Apr2025 23:33:55.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Miglaitor_
+[24Apr2025 23:33:55.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was loaded
+[24Apr2025 23:33:57.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[24Apr2025 23:33:58.929] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[24Apr2025 23:33:58.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb) successfully connected to voice chat
+[24Apr2025 23:34:10.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[24Apr2025 23:34:22.259] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:34:23.260] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[24Apr2025 23:34:23.637] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:34:23.655] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[24Apr2025 23:34:43.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18233ms or 364 ticks behind
