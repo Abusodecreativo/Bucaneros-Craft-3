@@ -1,0 +1,75 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 1744840086705L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+        {
+            "Sender": "Freacklock",
+            "BeenRead": 0b,
+            "Message": {
+                "pages": [
+                    "Veras, hemos notado que os gusta deglutir verga de simio en celo por lo que la el ejercito completo de la marina ha decidido nukearos la casa
+
+
+
+
+
+
+Att. Marines"
+                ]
+            },
+            "MailItems": [
+            ],
+            "MailQuest": -1,
+            "TimePast": 5154078L,
+            "Time": 1745443449687L,
+            "Subject": "Maricona"
+        }
+    ],
+    "PlayerName": "marcosbigpapa",
+    "UUID": "e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e",
+    "ScriptStoreddata": {
+    }
+}

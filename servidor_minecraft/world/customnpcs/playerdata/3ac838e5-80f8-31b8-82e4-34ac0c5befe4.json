@@ -1,0 +1,67 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+        {
+            "Sender": "Miglaitor_",
+            "BeenRead": 0b,
+            "Message": {
+                "pages": [
+                    "hueles a mierda"
+                ]
+            },
+            "MailItems": [
+            ],
+            "MailQuest": -1,
+            "TimePast": 455763125L,
+            "Time": 1744992863898L,
+            "Subject": "mugroso"
+        },
+        {
+            "Sender": "Freacklock",
+            "BeenRead": 0b,
+            "Message": {
+                "pages": [
+                    ""
+                ]
+            },
+            "MailItems": [
+            ],
+            "MailQuest": -1,
+            "TimePast": 455749671L,
+            "Time": 1744992877352L,
+            "Subject": "putero cabron paga tus impuestos"
+        }
+    ],
+    "PlayerName": "eldanidani",
+    "UUID": "3ac838e5-80f8-31b8-82e4-34ac0c5befe4",
+    "ScriptStoreddata": {
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 1000,
+            "Faction": 1
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 2,
+                "Date": 1745069788492L
+            },
+            {
+                "Quest": 10,
+                "Date": 711034L
+            }
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 7
+            },
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                },
+                "Quest": 8
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 11
+            }
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 23
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 24
+        },
+        {
+            "Dialog": 25
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Alexandru_lmo",
+    "UUID": "4b34cd27-4c39-3b8b-a6e8-3a0747582311",
+    "ScriptStoreddata": {
+    }
+}
