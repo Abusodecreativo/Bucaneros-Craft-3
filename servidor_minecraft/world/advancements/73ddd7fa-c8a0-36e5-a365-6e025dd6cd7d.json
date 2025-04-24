@@ -5564,6 +5564,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-24 21:42:05 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 15:00:14 +0000"
