@@ -906,6 +906,13 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-04-24 23:07:25 +0000",
+      "1": "2025-04-24 23:07:25 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_leggings": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
