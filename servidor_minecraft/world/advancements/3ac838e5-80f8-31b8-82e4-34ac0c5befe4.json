@@ -9986,7 +9986,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-04-25 22:24:15 +0000"
+      "in_better_zombie_dungeon": "2025-04-25 22:24:15 +0000",
+      "in_better_spider_dungeon": "2025-04-25 22:40:45 +0000"
     },
     "done": false
   },
@@ -11683,6 +11684,7 @@
     "criteria": {
       "cooked_beef": "2025-04-20 23:08:35 +0000",
       "beef": "2025-04-24 23:13:13 +0000",
+      "baked_potato": "2025-04-25 22:39:03 +0000",
       "beetroot_soup": "2025-04-19 22:13:36 +0000",
       "apple": "2025-04-19 13:14:12 +0000",
       "cooked_cod": "2025-04-24 22:25:39 +0000",
@@ -12287,6 +12289,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-25 22:40:45 +0000"
     },
     "done": true
   },
