@@ -5778,6 +5778,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/mr_5_and_miss_valentine": {
+    "criteria": {
+      "unlock_challenge": "2025-04-25 22:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
@@ -7942,6 +7948,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-04-20 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/don_krieg": {
+    "criteria": {
+      "unlock_challenge": "2025-04-25 22:09:05 +0000"
     },
     "done": true
   },

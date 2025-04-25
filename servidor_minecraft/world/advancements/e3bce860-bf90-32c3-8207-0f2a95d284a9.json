@@ -7921,6 +7921,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-25 22:01:48 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_half_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
