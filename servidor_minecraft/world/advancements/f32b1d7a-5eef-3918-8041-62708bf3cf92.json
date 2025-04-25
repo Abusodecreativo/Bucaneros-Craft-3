@@ -6388,6 +6388,12 @@
     },
     "done": true
   },
+  "create:fan_water": {
+    "criteria": {
+      "0": "2025-04-25 23:28:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_weathered_limestone_bricks_stairs_from_fancy_weathered_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -10635,6 +10641,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/chew": {
+    "criteria": {
+      "unlock_challenge": "2025-04-25 23:25:26 +0000"
     },
     "done": true
   },
