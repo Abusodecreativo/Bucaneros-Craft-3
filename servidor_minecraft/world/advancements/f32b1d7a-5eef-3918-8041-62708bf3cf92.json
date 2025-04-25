@@ -5807,6 +5807,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-04-18 18:09:09 +0000",
+      "wheat": "2025-04-25 23:06:45 +0000",
       "carrot": "2025-04-19 13:33:05 +0000"
     },
     "done": false
@@ -11248,6 +11249,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-25 23:06:45 +0000"
     },
     "done": true
   },

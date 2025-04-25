@@ -9207,6 +9207,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-25 23:04:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -12785,6 +12791,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-04-25 23:14:51 +0000"
     },
     "done": true
   },

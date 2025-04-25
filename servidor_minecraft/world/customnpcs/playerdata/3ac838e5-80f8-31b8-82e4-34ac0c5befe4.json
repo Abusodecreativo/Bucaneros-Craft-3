@@ -21,10 +21,19 @@
         "CompletedQuests": [
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 12
+            }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 25
+        }
     ],
     "ItemGiverChained": [
     ],
@@ -40,7 +49,7 @@
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 629261051L,
+            "TimePast": 629781895L,
             "Time": 1744992863898L,
             "Subject": "mugroso"
         },
@@ -55,7 +64,7 @@
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 629247597L,
+            "TimePast": 629768441L,
             "Time": 1744992877352L,
             "Subject": "putero cabron paga tus impuestos"
         }
