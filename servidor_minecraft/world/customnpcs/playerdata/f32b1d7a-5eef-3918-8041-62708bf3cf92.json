@@ -64,28 +64,6 @@
                                 }
                             },
                             {
-                                "Slot": 3b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 4s,
-                                            "id": "minecraft:efficiency"
-                                        },
-                                        {
-                                            "lvl": 2s,
-                                            "id": "alexsmobs:straddle_jump"
-                                        }
-                                    ],
-                                    "RepairCost": 1
-                                }
-                            },
-                            {
                                 "Slot": 7b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
@@ -102,23 +80,6 @@
                                         {
                                             "lvl": 3s,
                                             "id": "create:potato_recovery"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "Slot": 12b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 3s,
-                                            "id": "minecraft:efficiency"
                                         }
                                     ]
                                 }
@@ -144,23 +105,6 @@
                                         {
                                             "lvl": 3s,
                                             "id": "minecraft:efficiency"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "Slot": 23b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 3s,
-                                            "id": "minecraft:protection"
                                         }
                                     ]
                                 }
