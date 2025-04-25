@@ -236,7 +236,7 @@
             },
             {
                 "Quest": 12,
-                "Date": 1476406L
+                "Date": 1714904L
             }
         ],
         "ActiveQuests": [
@@ -245,6 +245,12 @@
                 "ExtraData": {
                 },
                 "Quest": 7
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 12
             }
         ]
     },

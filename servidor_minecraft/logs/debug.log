@@ -19429,3 +19429,49 @@ java.lang.NullPointerException: null
 [25Apr2025 22:45:46.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
 [25Apr2025 22:45:54.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24498ms or 489 ticks behind
 [25Apr2025 22:45:58.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[25Apr2025 22:46:36.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26902ms or 538 ticks behind
+[25Apr2025 22:47:05.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13620ms or 272 ticks behind
+[25Apr2025 22:47:33.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12996ms or 259 ticks behind
+[25Apr2025 22:47:54.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6583ms or 131 ticks behind
+[25Apr2025 22:48:00.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Jennifer Dumped Me]
+[25Apr2025 22:48:07.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> pringao
+[25Apr2025 22:48:14.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> tu madre
+[25Apr2025 22:48:16.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6592ms or 131 ticks behind
+[25Apr2025 22:48:17.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> más solo que las una
+[25Apr2025 22:48:42.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11036ms or 220 ticks behind
+[25Apr2025 22:48:51.862] [Worker-Main-6/DEBUG] [betterstrongholds/]: Better Stronghold at -2359 29 4231
+[25Apr2025 22:49:11.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14731ms or 294 ticks behind
+[25Apr2025 22:49:19.200] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -2505 38 4215
+[25Apr2025 22:49:32.580] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -2681 40 4157
+[25Apr2025 22:49:32.622] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -2377 38 4157
+[25Apr2025 22:49:42.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15650ms or 313 ticks behind
+[25Apr2025 22:49:42.510] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Charged Punch at tick 130
+[25Apr2025 22:49:42.903] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Genkotsu Meteor at tick 139
+[25Apr2025 22:49:43.087] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Suplex at tick 141
+[25Apr2025 22:49:43.087] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Spinning Brawl at tick 136
+[25Apr2025 22:49:43.320] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -2201 46 4183
+[25Apr2025 22:50:13.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15765ms or 315 ticks behind
+[25Apr2025 22:50:41.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[25Apr2025 22:50:47.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19181ms or 383 ticks behind
+[25Apr2025 22:51:15.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[25Apr2025 22:51:17.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14986ms or 299 ticks behind
+[25Apr2025 22:51:45.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13026ms or 260 ticks behind
+[25Apr2025 22:52:09.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9327ms or 186 ticks behind
+[25Apr2025 22:52:31.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6719ms or 134 ticks behind
+[25Apr2025 22:52:53.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7125ms or 142 ticks behind
+[25Apr2025 22:53:09.225] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[25Apr2025 22:53:09.237] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[25Apr2025 22:53:16.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7897ms or 157 ticks behind
+[25Apr2025 22:53:39.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8373ms or 167 ticks behind
+[25Apr2025 22:54:04.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9604ms or 192 ticks behind
+[25Apr2025 22:54:27.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8479ms or 169 ticks behind
+[25Apr2025 22:54:51.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8738ms or 174 ticks behind
+[25Apr2025 22:55:15.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9639ms or 192 ticks behind
+[25Apr2025 22:55:17.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Blindsided]
+[25Apr2025 22:55:27.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [The Parrots and the Bats]
+[25Apr2025 22:55:36.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> marcos deja de follar
+[25Apr2025 22:55:39.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8879ms or 177 ticks behind
+[25Apr2025 22:55:43.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> no puede tu madre esta muy buena
+[25Apr2025 22:56:00.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> lo siento es que el pollo tenia buenas tetas
+[25Apr2025 22:56:05.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10477ms or 209 ticks behind
+[25Apr2025 22:56:30.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10143ms or 202 ticks behind
