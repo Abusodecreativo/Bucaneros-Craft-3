@@ -3341,6 +3341,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-25 22:14:32 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/charcoal/raw": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -3939,6 +3945,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-24 22:32:31 +0000",
       "minecraft:skeleton": "2025-04-24 23:10:00 +0000",
+      "minecraft:spider": "2025-04-25 22:28:12 +0000",
       "minecraft:zombie": "2025-04-24 22:38:36 +0000"
     },
     "done": false
@@ -5524,6 +5531,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-04-25 22:19:46 +0000"
     },
     "done": true
   },

@@ -1971,6 +1971,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-04-25 22:28:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/brown_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -3171,6 +3177,12 @@
     },
     "done": true
   },
+  "idas:labyrinth": {
+    "criteria": {
+      "in_labyrinth": "2025-04-25 22:32:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -3882,6 +3894,12 @@
   "create:recipes/create.palettes/polished_gabbro_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-04-25 22:29:26 +0000"
     },
     "done": true
   },
@@ -9210,6 +9228,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-25 22:24:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -9959,6 +9983,12 @@
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-25 22:24:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
@@ -11092,6 +11122,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-04-18 15:13:08 +0000",
       "minecraft:deep_cold_ocean": "2025-04-18 16:55:59 +0000",
+      "minecraft:desert": "2025-04-25 22:28:22 +0000",
       "minecraft:deep_frozen_ocean": "2025-04-18 15:13:33 +0000",
       "minecraft:birch_forest": "2025-04-20 19:28:21 +0000",
       "minecraft:snowy_beach": "2025-04-22 22:01:07 +0000",
