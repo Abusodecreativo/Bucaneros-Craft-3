@@ -6091,6 +6091,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye_recipe": {
+    "criteria": {
+      "witch_pupil": "2025-04-25 21:49:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
