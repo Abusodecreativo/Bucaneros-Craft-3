@@ -6454,6 +6454,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-25 22:55:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_limestone_bricks_stairs_from_fancy_limestone_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -8722,6 +8728,12 @@
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-04-25 22:55:27 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/smoked_ham": {
     "criteria": {
