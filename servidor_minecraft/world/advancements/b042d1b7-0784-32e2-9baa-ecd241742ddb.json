@@ -2279,6 +2279,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-04-26 14:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -9312,6 +9318,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2025-04-26 14:23:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
@@ -9885,6 +9897,12 @@
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-26 14:23:00 +0000"
     },
     "done": true
   },
