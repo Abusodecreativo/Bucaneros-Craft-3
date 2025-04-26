@@ -1466,6 +1466,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-23 22:03:40 +0000",
+      "minecraft:soul_sand_valley": "2025-04-26 14:21:05 +0000",
       "minecraft:warped_forest": "2025-04-23 22:04:15 +0000"
     },
     "done": false
@@ -3958,6 +3959,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-20 16:56:05 +0000",
       "minecraft:skeleton": "2025-04-20 19:46:10 +0000",
+      "minecraft:magma_cube": "2025-04-26 14:19:50 +0000",
       "minecraft:spider": "2025-04-20 16:33:12 +0000",
       "minecraft:zombified_piglin": "2025-04-23 22:05:46 +0000",
       "minecraft:witch": "2025-04-25 22:21:32 +0000",
@@ -12143,6 +12145,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-20 16:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-26 14:19:35 +0000"
     },
     "done": true
   },
