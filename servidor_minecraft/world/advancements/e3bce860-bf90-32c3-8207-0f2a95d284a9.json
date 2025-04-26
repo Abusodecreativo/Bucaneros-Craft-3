@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-26 14:56:01 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -1052,6 +1058,12 @@
   "cavesandcliffs:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-26 14:57:02 +0000"
     },
     "done": true
   },
@@ -5625,6 +5637,12 @@
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "pumpkin": "2025-04-26 14:54:26 +0000"
+    },
+    "done": false
   },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
@@ -10912,6 +10930,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "pumpkin_stem": "2025-04-26 14:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -11382,6 +11406,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-26 14:53:29 +0000",
       "potato": "2025-04-24 22:36:37 +0000",
       "golden_apple": "2025-04-24 22:44:00 +0000",
       "suspicious_stew": "2025-04-26 14:13:33 +0000",
