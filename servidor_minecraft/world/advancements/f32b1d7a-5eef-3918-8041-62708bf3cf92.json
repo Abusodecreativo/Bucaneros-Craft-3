@@ -11186,6 +11186,12 @@
     },
     "done": true
   },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-04-26 15:35:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_cobblestone_slab_from_limestone_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -11788,6 +11794,12 @@
     },
     "done": true
   },
+  "create:overstressed": {
+    "criteria": {
+      "0": "2025-04-26 15:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -11810,6 +11822,7 @@
       "suspicious_stew": "2025-04-21 22:20:36 +0000",
       "golden_carrot": "2025-04-20 20:18:31 +0000",
       "cooked_chicken": "2025-04-26 13:40:34 +0000",
+      "enchanted_golden_apple": "2025-04-26 16:42:11 +0000",
       "cooked_salmon": "2025-04-21 21:42:38 +0000",
       "carrot": "2025-04-18 15:54:16 +0000"
     },

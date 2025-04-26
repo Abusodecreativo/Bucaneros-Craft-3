@@ -1217,6 +1217,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-04-26 16:45:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_bricks_slab_from_granite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -5608,6 +5614,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-26 15:36:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -5640,6 +5652,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2025-04-26 15:33:11 +0000",
       "pumpkin": "2025-04-26 14:54:26 +0000"
     },
     "done": false
@@ -11406,6 +11419,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beetroot_soup": "2025-04-26 15:36:40 +0000",
       "apple": "2025-04-26 14:53:29 +0000",
       "potato": "2025-04-24 22:36:37 +0000",
       "golden_apple": "2025-04-24 22:44:00 +0000",

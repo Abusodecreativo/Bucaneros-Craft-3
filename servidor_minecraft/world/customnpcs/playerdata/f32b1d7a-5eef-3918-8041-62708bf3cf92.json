@@ -64,28 +64,7 @@
                                 }
                             },
                             {
-                                "Slot": 7b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 2s,
-                                            "id": "farmersdelight:backstabbing"
-                                        },
-                                        {
-                                            "lvl": 3s,
-                                            "id": "create:potato_recovery"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "Slot": 13b,
+                                "Slot": 17b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
                                     }
@@ -244,7 +223,7 @@
         ],
         "ActiveQuests": [
             {
-                "QuestCompleted": 1b,
+                "QuestCompleted": 0b,
                 "ExtraData": {
                 },
                 "Quest": 7
