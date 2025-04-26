@@ -42,6 +42,12 @@
                 "ExtraData": {
                 },
                 "Quest": 8
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 12
             }
         ]
     },

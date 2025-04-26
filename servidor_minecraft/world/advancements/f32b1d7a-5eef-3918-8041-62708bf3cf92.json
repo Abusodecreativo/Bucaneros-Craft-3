@@ -7447,6 +7447,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-26 17:13:19 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
