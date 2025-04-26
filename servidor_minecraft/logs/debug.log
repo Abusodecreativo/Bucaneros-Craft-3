@@ -17382,3 +17382,86 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 13:53:59.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> no wtf
 [26Apr2025 13:54:03.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has completed the challenge [Centennial]
 [26Apr2025 13:54:06.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9308ms or 186 ticks behind
+[26Apr2025 13:54:33.192] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11878ms or 237 ticks behind
+[26Apr2025 13:55:01.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12962ms or 259 ticks behind
+[26Apr2025 13:55:33.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16995ms or 339 ticks behind
+[26Apr2025 13:56:05.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16945ms or 338 ticks behind
+[26Apr2025 13:56:35.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15049ms or 300 ticks behind
+[26Apr2025 13:57:00.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10234ms or 204 ticks behind
+[26Apr2025 13:57:10.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> te veo solrak
+[26Apr2025 13:57:22.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6932ms or 138 ticks behind
+[26Apr2025 13:57:46.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9772ms or 195 ticks behind
+[26Apr2025 13:58:12.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10308ms or 206 ticks behind
+[26Apr2025 13:58:40.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13563ms or 271 ticks behind
+[26Apr2025 13:59:05.943] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Apr2025 13:59:05.956] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Apr2025 13:59:06.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10377ms or 207 ticks behind
+[26Apr2025 13:59:30.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9862ms or 197 ticks behind
+[26Apr2025 13:59:54.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9090ms or 181 ticks behind
+[26Apr2025 13:59:56.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [Nightmare Fuel]
+[26Apr2025 14:00:14.354] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1490
+[26Apr2025 14:00:15.832] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1501
+[26Apr2025 14:00:16.688] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1512
+[26Apr2025 14:00:17.281] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Jishin Ho at tick 1519
+[26Apr2025 14:00:18.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8263ms or 165 ticks behind
+[26Apr2025 14:00:18.778] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Charged Punch at tick 1539
+[26Apr2025 14:00:19.257] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Suplex at tick 1545
+[26Apr2025 14:00:19.257] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hakai Ho at tick 1545
+[26Apr2025 14:00:19.257] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shigan at tick 1545
+[26Apr2025 14:00:34.041] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Tekkai at tick 1760
+[26Apr2025 14:00:36.975] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hakai Ho at tick 1804
+[26Apr2025 14:00:36.975] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shigan at tick 1804
+[26Apr2025 14:00:37.042] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Suplex at tick 1805
+[26Apr2025 14:00:38.263] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Charged Punch at tick 1821
+[26Apr2025 14:00:38.691] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Charged Cleave at tick 1822
+[26Apr2025 14:00:38.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5759ms or 115 ticks behind
+[26Apr2025 14:00:39.945] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Jishin Ho at tick 1845
+[26Apr2025 14:00:44.824] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 1914
+[26Apr2025 14:00:50.513] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Suplex at tick 1992
+[26Apr2025 14:00:50.513] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shigan at tick 1992
+[26Apr2025 14:00:51.616] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Charged Punch at tick 2003
+[26Apr2025 14:01:01.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7862ms or 157 ticks behind
+[26Apr2025 14:01:09.389] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Tekkai at tick 2233
+[26Apr2025 14:01:12.030] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Jishin Ho at tick 2274
+[26Apr2025 14:01:12.094] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Suplex at tick 2275
+[26Apr2025 14:01:12.159] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hakai Ho at tick 2276
+[26Apr2025 14:01:12.159] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shigan at tick 2276
+[26Apr2025 14:01:13.303] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Charged Punch at tick 2294
+[26Apr2025 14:01:16.987] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2347
+[26Apr2025 14:01:23.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6442ms or 128 ticks behind
+[26Apr2025 14:01:31.328] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2548
+[26Apr2025 14:01:32.080] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2559
+[26Apr2025 14:01:32.852] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2570
+[26Apr2025 14:01:33.593] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2581
+[26Apr2025 14:01:34.344] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2592
+[26Apr2025 14:01:44.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6022ms or 120 ticks behind
+[26Apr2025 14:01:47.835] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Jishin Ho at tick 2784
+[26Apr2025 14:01:48.317] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Suplex at tick 2791
+[26Apr2025 14:01:48.480] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Hakai Ho at tick 2793
+[26Apr2025 14:01:48.480] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Shigan at tick 2793
+[26Apr2025 14:01:49.293] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Charged Punch at tick 2804
+[26Apr2025 14:01:52.078] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Tekkai at tick 2842
+[26Apr2025 14:01:52.279] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2844
+[26Apr2025 14:01:53.181] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2855
+[26Apr2025 14:01:53.907] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2866
+[26Apr2025 14:01:54.771] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2877
+[26Apr2025 14:01:55.559] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 2888
+[26Apr2025 14:02:06.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7452ms or 149 ticks behind
+[26Apr2025 14:02:11.319] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3089
+[26Apr2025 14:02:12.290] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3100
+[26Apr2025 14:02:13.278] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3111
+[26Apr2025 14:02:14.137] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3122
+[26Apr2025 14:02:15.044] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3133
+[26Apr2025 14:02:29.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7791ms or 155 ticks behind
+[26Apr2025 14:02:29.645] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3334
+[26Apr2025 14:02:30.457] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3345
+[26Apr2025 14:02:31.355] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3356
+[26Apr2025 14:02:32.137] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3367
+[26Apr2025 14:02:32.968] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Soru at tick 3378
+[26Apr2025 14:02:49.450] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Charged Cleave at tick 3595
+[26Apr2025 14:02:51.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7069ms or 141 ticks behind
+[26Apr2025 14:03:13.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7422ms or 148 ticks behind
+[26Apr2025 14:03:37.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8548ms or 170 ticks behind
+[26Apr2025 14:03:59.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[26Apr2025 14:04:22.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8051ms or 161 ticks behind
+[26Apr2025 14:04:27.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Fetch Me Their Souls!]

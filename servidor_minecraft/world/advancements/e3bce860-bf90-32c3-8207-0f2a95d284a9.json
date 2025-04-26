@@ -11047,6 +11047,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-26 13:54:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/birch_window_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
