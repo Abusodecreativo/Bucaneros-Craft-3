@@ -2746,3 +2746,111 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 13:22:20.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> ez
 [26Apr2025 13:22:22.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7381ms or 147 ticks behind
 [26Apr2025 13:22:26.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Kirolaid: Removed Devil Fruit for Kirolaid]
+[26Apr2025 13:22:48.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10579ms or 211 ticks behind
+[26Apr2025 13:22:52.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> la doku esta libre
+[26Apr2025 13:22:59.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> no se sabe
+[26Apr2025 13:23:10.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7629ms or 152 ticks behind
+[26Apr2025 13:23:34.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9128ms or 182 ticks behind
+[26Apr2025 13:23:55.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
+[26Apr2025 13:24:01.419] [Server thread/INFO] [mineminenomi/]: Kirolaid started MR_1 challenge.
+[26Apr2025 13:24:20.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10616ms or 212 ticks behind
+[26Apr2025 13:24:21.360] [Server thread/INFO] [mineminenomi/]: Kirolaid's challenge stopped.
+[26Apr2025 13:24:42.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6982ms or 139 ticks behind
+[26Apr2025 13:25:02.358] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[26Apr2025 13:25:05.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7417ms or 148 ticks behind
+[26Apr2025 13:25:07.422] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[26Apr2025 13:25:21.344] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4deb1ccf
+[26Apr2025 13:25:21.375] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Alethyss[/100.104.28.29:57656] logged in with entity id 4891 at (1012.617527047838, 73.0, 313.7273691668718)
+[26Apr2025 13:25:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alethyss joined the game
+[26Apr2025 13:25:21.410] [Server thread/INFO] [Waila/]: Syncing config to Alethyss (4147facb-94a7-34cd-9c23-fb99c1a2a0b0)
+[26Apr2025 13:25:21.419] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Alethyss just logged in with id 4147facb-94a7-34cd-9c23-fb99c1a2a0b0
+[26Apr2025 13:25:21.422] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Alethyss[4147facb-94a7-34cd-9c23-fb99c1a2a0b0]
+[26Apr2025 13:25:21.422] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Alethyss
+[26Apr2025 13:25:21.500] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Alethyss downloaded
+[26Apr2025 13:25:21.504] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/d53f2bf5-7bfb-47b2-8f0a-c09ee0de1b9f
+[26Apr2025 13:25:23.969] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alethyss (18)
+[26Apr2025 13:25:23.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alethyss
+[26Apr2025 13:25:24.402] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 4147facb-94a7-34cd-9c23-fb99c1a2a0b0 was loaded
+[26Apr2025 13:25:27.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7565ms or 151 ticks behind
+[26Apr2025 13:25:38.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4147facb-94a7-34cd-9c23-fb99c1a2a0b0
+[26Apr2025 13:25:39.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4147facb-94a7-34cd-9c23-fb99c1a2a0b0
+[26Apr2025 13:25:39.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alethyss (4147facb-94a7-34cd-9c23-fb99c1a2a0b0) successfully connected to voice chat
+[26Apr2025 13:25:51.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> en el agua
+[26Apr2025 13:25:52.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9637ms or 192 ticks behind
+[26Apr2025 13:25:52.855] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9898, y=65, z=-1391} BlockPos{x=336, y=67, z=160}
+[26Apr2025 13:25:52.936] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=336, y=67, z=160} BlockPos{x=335, y=67, z=160}
+[26Apr2025 13:26:15.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8450ms or 169 ticks behind
+[26Apr2025 13:26:34.593] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6bd28468
+[26Apr2025 13:26:34.641] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: eldanidani[/100.104.37.94:59072] logged in with entity id 5780 at (-254.02624865024106, 67.66359375118333, 3617.8064549313917)
+[26Apr2025 13:26:34.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani joined the game
+[26Apr2025 13:26:34.677] [Server thread/INFO] [Waila/]: Syncing config to eldanidani (3ac838e5-80f8-31b8-82e4-34ac0c5befe4)
+[26Apr2025 13:26:34.687] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player eldanidani just logged in with id 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[26Apr2025 13:26:34.694] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player eldanidani[3ac838e5-80f8-31b8-82e4-34ac0c5befe4]
+[26Apr2025 13:26:34.695] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/eldanidani
+[26Apr2025 13:26:34.748] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/eldanidani downloaded
+[26Apr2025 13:26:34.748] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/1c1d82a4-b89b-446c-a97a-f3c8afaed2c8
+[26Apr2025 13:26:36.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of eldanidani (18)
+[26Apr2025 13:26:36.379] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to eldanidani
+[26Apr2025 13:26:36.727] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was loaded
+[26Apr2025 13:26:42.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11791ms or 235 ticks behind
+[26Apr2025 13:26:45.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[26Apr2025 13:26:46.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[26Apr2025 13:26:46.238] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player eldanidani (3ac838e5-80f8-31b8-82e4-34ac0c5befe4) successfully connected to voice chat
+[26Apr2025 13:26:48.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> *ban marcos
+[26Apr2025 13:26:51.753] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=336, y=67, z=160} BlockPos{x=317, y=63, z=181}
+[26Apr2025 13:26:53.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> ez
+[26Apr2025 13:26:54.587] [Worker-Main-5/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[26Apr2025 13:26:54.589] [Worker-Main-5/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[26Apr2025 13:26:54.640] [Worker-Main-5/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[26Apr2025 13:26:54.641] [Worker-Main-5/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[26Apr2025 13:26:55.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> ez
+[26Apr2025 13:27:14.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16638ms or 332 ticks behind
+[26Apr2025 13:27:20.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> ban dani
+[26Apr2025 13:27:24.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> ez
+[26Apr2025 13:27:25.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> tuh muertoh
+[26Apr2025 13:27:31.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> ban kiro
+[26Apr2025 13:27:45.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16479ms or 329 ticks behind
+[26Apr2025 13:27:56.639] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=317, y=63, z=181} BlockPos{x=338, y=67, z=145}
+[26Apr2025 13:28:13.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13127ms or 262 ticks behind
+[26Apr2025 13:28:23.722] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/6, l='ServerLevel[world]', x=300.50, y=68.00, z=113.07] died, message: 'Villager was slain by Zombie'
+[26Apr2025 13:28:36.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7460ms or 149 ticks behind
+[26Apr2025 13:28:58.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7124ms or 142 ticks behind
+[26Apr2025 13:29:20.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
+[26Apr2025 13:29:21.700] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=295, y=69, z=182} BlockPos{x=302, y=70, z=189}
+[26Apr2025 13:29:24.297] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=295, y=69, z=182} BlockPos{x=301, y=68, z=184}
+[26Apr2025 13:29:24.299] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=295, y=69, z=182} BlockPos{x=301, y=68, z=184}
+[26Apr2025 13:29:44.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[26Apr2025 13:29:45.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> se puede susurrar?
+[26Apr2025 13:30:07.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[26Apr2025 13:30:07.993] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=295, y=69, z=182} BlockPos{x=294, y=69, z=187}
+[26Apr2025 13:30:07.996] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=295, y=69, z=182} BlockPos{x=293, y=69, z=187}
+[26Apr2025 13:30:11.977] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=295, y=69, z=182} BlockPos{x=290, y=68, z=179}
+[26Apr2025 13:30:32.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9794ms or 195 ticks behind
+[26Apr2025 13:30:49.492] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=244, y=67, z=195} BlockPos{x=249, y=66, z=207}
+[26Apr2025 13:30:49.497] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=244, y=67, z=195} BlockPos{x=250, y=66, z=206}
+[26Apr2025 13:30:58.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10929ms or 218 ticks behind
+[26Apr2025 13:31:03.261] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=244, y=67, z=195} BlockPos{x=249, y=66, z=208}
+[26Apr2025 13:31:08.135] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=250, y=65, z=211} BlockPos{x=255, y=66, z=207}
+[26Apr2025 13:31:23.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9869ms or 197 ticks behind
+[26Apr2025 13:31:29.284] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=66, z=207} BlockPos{x=276, y=67, z=242}
+[26Apr2025 13:31:30.342] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=66, z=207} BlockPos{x=275, y=66, z=242}
+[26Apr2025 13:31:30.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=66, z=207} BlockPos{x=276, y=66, z=242}
+[26Apr2025 13:31:30.785] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=66, z=207} BlockPos{x=277, y=67, z=242}
+[26Apr2025 13:31:31.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> vale dani
+[26Apr2025 13:31:41.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> q cojones
+[26Apr2025 13:31:43.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5480ms or 109 ticks behind
+[26Apr2025 13:31:51.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> siii
+[26Apr2025 13:31:54.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Alethyss> con mi kiro nadie
+[26Apr2025 13:31:55.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> JAJAJAJAJAJA
+[26Apr2025 13:32:04.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5379ms or 107 ticks behind
+[26Apr2025 13:32:06.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> el moby dick
+[26Apr2025 13:32:14.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Alethyss> para nada hablas demasiado alto :V
+[26Apr2025 13:32:19.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> cuantos dedos te caben en el coño
+[26Apr2025 13:32:24.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5056ms or 101 ticks behind
+[26Apr2025 13:32:31.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> los mismo que a la puta de tu madre
+[26Apr2025 13:32:35.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> es broma t qro
+[26Apr2025 13:32:35.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> no grites que estoy en tu armario jugando illo
+[26Apr2025 13:32:43.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> broooo D:
+[26Apr2025 13:32:44.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5746ms or 114 ticks behind
+[26Apr2025 13:32:45.020] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[26Apr2025 13:32:46.580] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1434 radius, 9379 samples
