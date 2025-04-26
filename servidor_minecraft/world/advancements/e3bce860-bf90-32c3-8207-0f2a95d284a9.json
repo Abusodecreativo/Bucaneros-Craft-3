@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-04-26 13:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -6989,6 +6995,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-04-26 13:34:56 +0000",
       "opened_chest": "2025-04-24 22:16:10 +0000"
     },
     "done": false
@@ -7725,6 +7732,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_plank": "2025-04-26 13:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
@@ -8238,6 +8251,12 @@
   "create:recipes/create.palettes/overgrown_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_oak": {
+    "criteria": {
+      "has_plank": "2025-04-26 13:28:15 +0000"
     },
     "done": true
   },
@@ -8808,6 +8827,12 @@
   "mineminenomi:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-24 22:32:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-26 13:34:56 +0000"
     },
     "done": true
   },
