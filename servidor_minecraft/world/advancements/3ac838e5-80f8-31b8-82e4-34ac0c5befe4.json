@@ -2236,6 +2236,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-04-26 14:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -4048,6 +4054,7 @@
       "minecraft:blaze": "2025-04-22 22:29:49 +0000",
       "minecraft:skeleton": "2025-04-18 15:10:33 +0000",
       "minecraft:zoglin": "2025-04-20 20:15:09 +0000",
+      "minecraft:hoglin": "2025-04-26 14:00:54 +0000",
       "minecraft:guardian": "2025-04-25 23:25:42 +0000",
       "minecraft:vindicator": "2025-04-20 20:08:14 +0000",
       "minecraft:magma_cube": "2025-04-22 22:30:00 +0000",
@@ -4057,6 +4064,7 @@
       "minecraft:witch": "2025-04-23 21:32:59 +0000",
       "minecraft:wither_skeleton": "2025-04-22 22:28:55 +0000",
       "minecraft:husk": "2025-04-25 23:39:44 +0000",
+      "minecraft:piglin": "2025-04-26 14:02:13 +0000",
       "minecraft:enderman": "2025-04-25 23:02:32 +0000",
       "minecraft:vex": "2025-04-20 20:11:18 +0000",
       "minecraft:zombie": "2025-04-18 15:12:54 +0000",
@@ -4566,6 +4574,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/in_nether": {
+    "criteria": {
+      "end_crystal_fragment": "2025-04-26 14:01:42 +0000"
     },
     "done": true
   },
@@ -9022,6 +9036,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_fragment": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-26 14:01:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -9097,7 +9117,8 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "vegetable_soup": "2025-04-25 23:43:06 +0000",
-      "honey_glazed_ham": "2025-04-21 20:48:52 +0000"
+      "honey_glazed_ham": "2025-04-21 20:48:52 +0000",
+      "ratatouille": "2025-04-26 14:08:15 +0000"
     },
     "done": false
   },

@@ -775,6 +775,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-26 13:59:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -2263,6 +2269,12 @@
   "cavesandcliffs:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-04-26 14:06:47 +0000"
     },
     "done": true
   },
@@ -4091,6 +4103,7 @@
       "minecraft:skeleton": "2025-04-19 14:48:34 +0000",
       "minecraft:elder_guardian": "2025-04-25 23:22:02 +0000",
       "minecraft:ghast": "2025-04-22 22:46:35 +0000",
+      "minecraft:hoglin": "2025-04-26 14:01:49 +0000",
       "minecraft:guardian": "2025-04-19 12:45:15 +0000",
       "minecraft:vindicator": "2025-04-20 20:07:37 +0000",
       "minecraft:magma_cube": "2025-04-22 22:30:02 +0000",
@@ -4605,6 +4618,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:06 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/in_nether": {
+    "criteria": {
+      "end_crystal_fragment": "2025-04-26 14:01:32 +0000"
     },
     "done": true
   },
@@ -5181,6 +5200,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-26 14:13:10 +0000"
     },
     "done": true
   },
@@ -9100,6 +9125,12 @@
     },
     "done": true
   },
+  "endrem:main/end_crystal_fragment": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-26 14:01:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_void_upgrade": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -9174,7 +9205,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "ratatouille": "2025-04-25 23:42:33 +0000"
+      "ratatouille": "2025-04-25 23:42:33 +0000",
+      "vegetable_noodles": "2025-04-26 14:09:56 +0000"
     },
     "done": false
   },
