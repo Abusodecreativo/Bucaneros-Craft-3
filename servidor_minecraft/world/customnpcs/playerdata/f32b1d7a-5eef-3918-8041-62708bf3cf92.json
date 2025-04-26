@@ -20,7 +20,19 @@
                     "BankItems": {
                         "NpcMiscInv": [
                             {
-                                "Slot": 0b,
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mineminenomi:belly_pouch",
+                                "Count": 1b,
+                                "tag": {
+                                    "belly": 6000L
+                                }
+                            },
+                            {
+                                "Slot": 9b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
                                     }
@@ -28,33 +40,12 @@
                                 "id": "minecraft:diamond_sword",
                                 "Count": 1b,
                                 "tag": {
+                                    "hasSwordsmanBonus": 1b,
                                     "Damage": 0,
                                     "Enchantments": [
                                         {
                                             "lvl": 3s,
                                             "id": "minecraft:sharpness"
-                                        },
-                                        {
-                                            "lvl": 2s,
-                                            "id": "minecraft:knockback"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "Slot": 1b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:diamond_sword",
-                                "Count": 1b,
-                                "tag": {
-                                    "Damage": 0,
-                                    "Enchantments": [
-                                        {
-                                            "lvl": 4s,
-                                            "id": "minecraft:smite"
                                         },
                                         {
                                             "lvl": 2s,
@@ -86,6 +77,101 @@
                                             "id": "minecraft:efficiency"
                                         }
                                     ]
+                                }
+                            },
+                            {
+                                "Slot": 18b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:diamond_sword",
+                                "Count": 1b,
+                                "tag": {
+                                    "Damage": 0,
+                                    "Enchantments": [
+                                        {
+                                            "lvl": 4s,
+                                            "id": "minecraft:smite"
+                                        },
+                                        {
+                                            "lvl": 2s,
+                                            "id": "minecraft:knockback"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 20b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 2s,
+                                            "id": "minecraft:fire_aspect"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "Slot": 21b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 5s,
+                                            "id": "minecraft:efficiency"
+                                        },
+                                        {
+                                            "lvl": 1s,
+                                            "id": "minecraft:aqua_affinity"
+                                        },
+                                        {
+                                            "lvl": 1s,
+                                            "id": "minecraft:quick_charge"
+                                        },
+                                        {
+                                            "lvl": 2s,
+                                            "id": "alexsmobs:straddle_jump"
+                                        }
+                                    ],
+                                    "RepairCost": 3
+                                }
+                            },
+                            {
+                                "Slot": 22b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 5s,
+                                            "id": "minecraft:efficiency"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:fortune"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:unbreaking"
+                                        }
+                                    ],
+                                    "RepairCost": 3
                                 }
                             },
                             {

@@ -17151,3 +17151,109 @@ Reason: Banned by an operator.
 [26Apr2025 22:14:59.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 10.5K
 [26Apr2025 22:15:14.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13357ms or 267 ticks behind
 [26Apr2025 22:15:16.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> 10.75
+[26Apr2025 22:15:19.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> BRUH
+[26Apr2025 22:15:20.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[26Apr2025 22:15:21.692] [Server thread/DEBUG] [mixin/]: Mixing sophisticatedbackpacks.AccessorCookingLogicContainer from polymorph_integrations.mixins.json into net.p3pp3rf1y.sophisticatedbackpacks.upgrades.cooking.CookingLogicContainer
+[26Apr2025 22:15:24.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 10.65K
+[26Apr2025 22:15:44.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14804ms or 296 ticks behind
+[26Apr2025 22:15:55.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> mejor hago otra cosa
+[26Apr2025 22:16:10.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10795ms or 215 ticks behind
+[26Apr2025 22:16:34.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9395ms or 187 ticks behind
+[26Apr2025 22:16:51.939] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Apr2025 22:16:51.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Apr2025 22:17:02.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12506ms or 250 ticks behind
+[26Apr2025 22:17:26.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9618ms or 192 ticks behind
+[26Apr2025 22:17:52.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10642ms or 212 ticks behind
+[26Apr2025 22:18:17.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10381ms or 207 ticks behind
+[26Apr2025 22:18:41.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8977ms or 179 ticks behind
+[26Apr2025 22:19:04.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7852ms or 157 ticks behind
+[26Apr2025 22:19:22.670] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -5279 47 -11641
+[26Apr2025 22:19:29.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10031ms or 200 ticks behind
+[26Apr2025 22:19:31.711] [Worker-Main-5/DEBUG] [betterdungeons/]: Spider Dungeon at -5496 43 -11709
+[26Apr2025 22:19:43.920] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -5263 14 -11801
+[26Apr2025 22:19:49.763] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -5561 46 -11827
+[26Apr2025 22:19:49.764] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -5401 41 -11825
+[26Apr2025 22:19:51.694] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[26Apr2025 22:19:51.762] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.762] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.762] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.762] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.819] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.819] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.843] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.844] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.855] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.855] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.870] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.870] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.873] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:51.873] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:19:54.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10111ms or 202 ticks behind
+[26Apr2025 22:20:18.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8657ms or 173 ticks behind
+[26Apr2025 22:20:36.419] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -5433 42 -11971
+[26Apr2025 22:20:44.157] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -5257 13 -11999
+[26Apr2025 22:20:44.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Cobweb Entanglement]
+[26Apr2025 22:20:44.676] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11211ms or 224 ticks behind
+[26Apr2025 22:21:02.480] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Wandering Dugong stopped Charged Punch at tick 559
+[26Apr2025 22:21:02.481] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Wandering Dugong stopped Hakai Ho at tick 559
+[26Apr2025 22:21:10.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10934ms or 218 ticks behind
+[26Apr2025 22:21:19.155] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Wandering Dugong stopped Charged Punch at tick 770
+[26Apr2025 22:21:33.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8382ms or 167 ticks behind
+[26Apr2025 22:21:34.996] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -5409 18 -12137
+[26Apr2025 22:21:38.853] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -5231 40 -12153
+[26Apr2025 22:21:56.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7985ms or 159 ticks behind
+[26Apr2025 22:22:20.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8784ms or 175 ticks behind
+[26Apr2025 22:22:24.384] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -5423 16 -12281
+[26Apr2025 22:22:45.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9849ms or 196 ticks behind
+[26Apr2025 22:23:11.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11567ms or 231 ticks behind
+[26Apr2025 22:23:24.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> no entiendo esta fruta de mierda bro
+[26Apr2025 22:23:33.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> cual?
+[26Apr2025 22:23:36.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9518ms or 190 ticks behind
+[26Apr2025 22:23:43.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> la puta puta no mi
+[26Apr2025 22:24:03.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12405ms or 248 ticks behind
+[26Apr2025 22:24:30.476] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11610ms or 232 ticks behind
+[26Apr2025 22:24:46.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: ===============================================
+Name: marcosbigpapa
+Faction: pirate
+Race: fishman
+Style: brawler
+Doriki: 3877.2582116409058
+Busoshoku Haki: 28.267954
+Kenbunshoku Haki: 45.460747
+Belly: 9266
+Extol: 0
+Bounty: 31986
+Issued Bounty: 31851
+Crew: DANI EL SUCIO CREW
+Devil Fruit: Chiyu Chiyu no Mi
+Damage Multiplier: 1.0
+-----
+Attribute | Current Value / Base Value
+- minecraft:generic.attack_damage | 5.0/1.0
+  Tool modifier | 4.0
+- minecraft:generic.attack_speed | 1.2000000476837158/4.0
+  Tool modifier | -2.799999952316284
+- minecraft:generic.armor | 12.0/0.0
+  Armor modifier | 3.0
+  Armor modifier | 6.0
+  Armor modifier | 3.0
+- minecraft:generic.armor_toughness | 6.0/0.0
+  Armor toughness | 2.0
+  Armor toughness | 2.0
+  Armor toughness | 2.0
+- mineminenomi:generic.toughness | 3.101806569312725/0.0
+  Passive Toughness Bonus | 3.101806569312725
+- forge:swim_speed | 4.0/1.0
+  Fishman Swim Speed Multiplier | 3.0
+===============================================]
+[26Apr2025 22:24:54.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9273ms or 185 ticks behind
+[26Apr2025 22:25:01.874] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[26Apr2025 22:25:01.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[26Apr2025 22:25:01.874] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[26Apr2025 22:25:01.875] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Miglaitor_
+[26Apr2025 22:25:01.875] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[26Apr2025 22:25:01.876] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[26Apr2025 22:25:11.180] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Apr2025 22:25:11.194] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Apr2025 22:25:21.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11362ms or 227 ticks behind
+[26Apr2025 22:25:43.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7854ms or 157 ticks behind

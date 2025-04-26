@@ -9774,6 +9774,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 22:20:44 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/granite_cobblestone_slab_from_granite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -11434,6 +11440,7 @@
       "golden_apple": "2025-04-24 22:44:00 +0000",
       "suspicious_stew": "2025-04-26 14:13:33 +0000",
       "golden_carrot": "2025-04-26 15:05:56 +0000",
+      "mushroom_stew": "2025-04-26 22:15:19 +0000",
       "carrot": "2025-04-24 22:21:49 +0000"
     },
     "done": false
@@ -12029,6 +12036,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-26 22:20:44 +0000"
     },
     "done": true
   },
