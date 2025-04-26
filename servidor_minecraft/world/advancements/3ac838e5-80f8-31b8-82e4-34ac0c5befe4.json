@@ -5783,6 +5783,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-04-26 21:47:49 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/scoria_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
@@ -9519,6 +9525,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-26 21:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -11735,6 +11747,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-26 15:10:19 +0000",
+      "sweet_berries": "2025-04-26 21:47:53 +0000",
       "cooked_beef": "2025-04-20 23:08:35 +0000",
       "beef": "2025-04-24 23:13:13 +0000",
       "baked_potato": "2025-04-25 22:39:03 +0000",

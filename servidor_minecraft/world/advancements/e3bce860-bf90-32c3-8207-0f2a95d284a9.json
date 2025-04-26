@@ -7170,6 +7170,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-26 21:47:10 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/green_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-24 22:14:08 +0000"
@@ -11420,6 +11426,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-04-26 21:45:58 +0000",
       "baked_potato": "2025-04-26 17:30:19 +0000",
       "beetroot_soup": "2025-04-26 15:36:40 +0000",
       "apple": "2025-04-26 14:53:29 +0000",

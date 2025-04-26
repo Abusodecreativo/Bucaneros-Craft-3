@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "c036adcd-b12e-365b-8f81-7daa1cc36f57",
+    "name": "Malexx_1",
+    "created": "2025-04-26 21:52:17 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
