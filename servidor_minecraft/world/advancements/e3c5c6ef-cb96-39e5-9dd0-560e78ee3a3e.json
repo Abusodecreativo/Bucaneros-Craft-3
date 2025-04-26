@@ -5815,6 +5815,7 @@
       "tomato": "2025-04-23 00:05:00 +0000",
       "rice": "2025-04-20 22:05:21 +0000",
       "beetroot": "2025-04-24 21:42:40 +0000",
+      "brown_mushroom": "2025-04-25 23:56:20 +0000",
       "potato": "2025-04-19 21:54:43 +0000",
       "wheat": "2025-04-16 21:53:56 +0000",
       "carrot": "2025-04-24 22:00:27 +0000"
@@ -9170,6 +9171,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "ratatouille": "2025-04-25 23:42:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -9725,6 +9732,12 @@
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-25 23:42:33 +0000"
     },
     "done": true
   },
