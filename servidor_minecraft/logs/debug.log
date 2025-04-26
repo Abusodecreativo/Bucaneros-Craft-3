@@ -19172,3 +19172,174 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Apr2025 14:47:02.181] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -591 45 -761
 [26Apr2025 14:47:10.037] [Worker-Main-4/DEBUG] [betterdungeons/]: Small Dungeon at -633 42 -609
 [26Apr2025 14:47:12.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13759ms or 275 ticks behind
+[26Apr2025 14:47:18.495] [Worker-Main-6/DEBUG] [betterdungeons/]: Spider Dungeon at -709 49 -730
+[26Apr2025 14:47:29.438] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=72, z=4934}
+[26Apr2025 14:47:29.474] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=73, z=4928}
+[26Apr2025 14:47:29.474] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=78, z=4928}
+[26Apr2025 14:47:29.475] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=77, z=4922}
+[26Apr2025 14:47:29.476] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=73, z=4916}
+[26Apr2025 14:47:29.477] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5555, y=70, z=4917}
+[26Apr2025 14:47:29.477] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=72, z=4922}
+[26Apr2025 14:47:29.477] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5557, y=78, z=4916}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5552, y=81, z=4937}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=72, z=4928}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=78, z=4934}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=73, z=4934}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=78, z=4928}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=72, z=4916}
+[26Apr2025 14:47:29.478] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5549, y=70, z=4917}
+[26Apr2025 14:47:29.479] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=77, z=4922}
+[26Apr2025 14:47:29.479] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=73, z=4922}
+[26Apr2025 14:47:29.479] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-5547, y=79, z=4916}
+[26Apr2025 14:47:45.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> champiñaca ave
+[26Apr2025 14:47:45.814] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=-5569, y=14, z=4938} as the loot table 'idas:chests/throne' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[26Apr2025 14:47:46.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19317ms or 386 ticks behind
+[26Apr2025 14:47:58.046] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -761 17 -783
+[26Apr2025 14:47:58.050] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -761 39 -617
+[26Apr2025 14:47:58.382] [Worker-Main-6/DEBUG] [betterdungeons/]: Zombie Dungeon at -745 49 -521
+[26Apr2025 14:47:58.887] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at -751 35 -473
+[26Apr2025 14:48:17.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15482ms or 309 ticks behind
+[26Apr2025 14:48:35.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [Straddle My Ol' Saddle]
+[26Apr2025 14:48:41.081] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.118] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.118] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.119] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.130] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.130] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.130] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:41.130] [Worker-Main-6/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.230] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.321] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.322] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.328] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.329] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.331] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.332] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.333] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.333] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.333] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.333] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.418] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.418] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:46.422] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Apr2025 14:48:46.422] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[26Apr2025 14:48:48.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16301ms or 326 ticks behind
+[26Apr2025 14:48:51.278] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:51.295] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:51.295] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:51.297] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:51.297] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:51.297] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:51.297] [Worker-Main-5/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:52.704] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:48:52.705] [Worker-Main-4/WARN] [net.minecraft.entity.EntityType/]: Skipping Entity with id 
+[26Apr2025 14:49:18.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14906ms or 298 ticks behind
+[26Apr2025 14:49:33.614] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[26Apr2025 14:49:33.614] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[26Apr2025 14:49:38.410] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[26Apr2025 14:49:48.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14720ms or 294 ticks behind
+[26Apr2025 14:49:55.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[26Apr2025 14:50:01.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[26Apr2025 14:50:17.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> vaya put ocastillo me acabo de encontra
+[26Apr2025 14:50:20.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[26Apr2025 14:50:21.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18433ms or 368 ticks behind
+[26Apr2025 14:50:41.788] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -943 36 -767
+[26Apr2025 14:50:46.793] [Worker-Main-6/DEBUG] [betterdungeons/]: Small Dungeon at -961 29 -617
+[26Apr2025 14:50:47.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[26Apr2025 14:50:54.404] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-9895, y=85, z=-1462}
+[26Apr2025 14:50:54.406] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: supplementaries:copper_lantern @ BlockPos{x=-9895, y=86, z=-1464}
+[26Apr2025 14:50:59.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23347ms or 466 ticks behind
+[26Apr2025 14:51:36.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21135ms or 422 ticks behind
+[26Apr2025 14:52:08.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17234ms or 344 ticks behind
+[26Apr2025 14:52:28.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Alethyss was killed by Marine Captain using Shi Shishi Sonson
+[26Apr2025 14:52:28.055] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 4
+[26Apr2025 14:52:31.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> ez
+[26Apr2025 14:52:32.459] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 44
+[26Apr2025 14:52:32.589] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 45
+[26Apr2025 14:52:41.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18496ms or 369 ticks behind
+[26Apr2025 14:53:20.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Apr2025 14:53:20.965] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Apr2025 14:53:21.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24382ms or 487 ticks behind
+[26Apr2025 14:53:35.252] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 519
+[26Apr2025 14:53:36.504] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 530
+[26Apr2025 14:53:37.759] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 541
+[26Apr2025 14:53:39.116] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 552
+[26Apr2025 14:53:39.852] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 558
+[26Apr2025 14:53:40.669] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 565
+[26Apr2025 14:53:44.062] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 593
+[26Apr2025 14:53:44.562] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 597
+[26Apr2025 14:53:51.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> que majos no le robais nada a dani pero a mi si
+[26Apr2025 14:53:58.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> me voy a cagar en vuestros putos muertos
+[26Apr2025 14:53:58.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22336ms or 446 ticks behind
+[26Apr2025 14:54:02.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> pero si dani no tiene nada
+[26Apr2025 14:54:07.872] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 798
+[26Apr2025 14:54:08.731] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 806
+[26Apr2025 14:54:11.407] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 830
+[26Apr2025 14:54:12.626] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 841
+[26Apr2025 14:54:12.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> tenia los artefactos
+[26Apr2025 14:54:13.984] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 852
+[26Apr2025 14:54:15.282] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 863
+[26Apr2025 14:54:17.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> a mi no me los quitais
+[26Apr2025 14:54:18.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> a marcos si
+[26Apr2025 14:54:26.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [A Seedy Place]
+[26Apr2025 14:54:28.625] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 982
+[26Apr2025 14:54:30.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> eske me cae mal
+[26Apr2025 14:54:32.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18768ms or 375 ticks behind
+[26Apr2025 14:54:37.728] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1064
+[26Apr2025 14:54:38.917] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1075
+[26Apr2025 14:54:40.120] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1086
+[26Apr2025 14:54:41.234] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1097
+[26Apr2025 14:54:43.579] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 1119
+[26Apr2025 14:54:43.579] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Busoshoku Haki: Imbuing at tick 1119
+[26Apr2025 14:54:44.633] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1129
+[26Apr2025 14:54:52.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <imsxs> fernan solo le quito tres llaves de cofres y miguel un bloque de oro y 4 scrap de netherite
+[26Apr2025 14:55:00.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> a bueno
+[26Apr2025 14:55:01.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> vale
+[26Apr2025 14:55:02.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <imsxs> si te faltan artifacts miralo bien o es un bug
+[26Apr2025 14:55:03.013] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 1298
+[26Apr2025 14:55:04.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17667ms or 353 ticks behind
+[26Apr2025 14:55:07.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> era un bug
+[26Apr2025 14:55:09.597] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 1359
+[26Apr2025 14:55:09.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> perdon
+[26Apr2025 14:55:09.999] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1363
+[26Apr2025 14:55:11.150] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1374
+[26Apr2025 14:55:12.334] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1385
+[26Apr2025 14:55:13.602] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1396
+[26Apr2025 14:55:14.838] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1407
+[26Apr2025 14:55:28.793] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID f371604a-4e6e-448e-9a99-e76854881916. Existing minecraft:armor_stand#115015, new: minecraft:armor_stand#115015
+[26Apr2025 14:55:31.759] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 1567
+[26Apr2025 14:55:33.218] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 1581
+[26Apr2025 14:55:36.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17096ms or 341 ticks behind
+[26Apr2025 14:55:52.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[26Apr2025 14:55:52.326] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 1763
+[26Apr2025 14:55:54.999] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1787
+[26Apr2025 14:55:56.100] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1798
+[26Apr2025 14:55:57.183] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1809
+[26Apr2025 14:55:58.323] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1820
+[26Apr2025 14:56:01.132] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 1847
+[26Apr2025 14:56:01.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Suit Up]
+[26Apr2025 14:56:07.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16084ms or 321 ticks behind
+[26Apr2025 14:56:08.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -3471.5, 59.809486741892094, -3439.5]
+[26Apr2025 14:56:09.009] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 1924
+[26Apr2025 14:56:16.321] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 1985
+[26Apr2025 14:56:29.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[26Apr2025 14:56:30.950] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2125
+[26Apr2025 14:56:32.027] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2136
+[26Apr2025 14:56:33.169] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2147
+[26Apr2025 14:56:34.471] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2158
+[26Apr2025 14:56:35.670] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2169
+[26Apr2025 14:56:40.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17585ms or 351 ticks behind
+[26Apr2025 14:56:51.285] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 2316
+[26Apr2025 14:56:52.712] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 2330
+[26Apr2025 14:57:02.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Kirolaid has made the advancement [Isn't It Iron Pick]
+[26Apr2025 14:57:20.416] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Shi Shishi Sonson at tick 2512
+[26Apr2025 14:57:20.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25317ms or 506 ticks behind
+[26Apr2025 14:57:23.633] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2536
+[26Apr2025 14:57:25.231] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2547
+[26Apr2025 14:57:26.679] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2558
+[26Apr2025 14:57:28.183] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2569
+[26Apr2025 14:57:29.800] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Soru at tick 2580
+[26Apr2025 14:57:35.368] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Hiryu: Kaen at tick 2619

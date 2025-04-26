@@ -9828,6 +9828,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker_block": {
+    "criteria": {
+      "has_plank": "2025-04-26 14:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"

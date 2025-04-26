@@ -9135,6 +9135,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-26 14:48:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/mossy_gabbro_from_gabbro_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -11742,6 +11748,7 @@
       "cooked_rabbit": "2025-04-26 14:29:16 +0000",
       "cooked_chicken": "2025-04-25 22:53:25 +0000",
       "mushroom_stew": "2025-04-18 17:02:23 +0000",
+      "cod": "2025-04-26 14:47:43 +0000",
       "rabbit_stew": "2025-04-20 23:33:45 +0000",
       "cooked_salmon": "2025-04-23 21:26:22 +0000"
     },
