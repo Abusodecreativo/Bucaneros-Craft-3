@@ -4657,6 +4657,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-26 20:30:58 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -10118,7 +10124,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-16 22:11:39 +0000"
+      "in_better_spider_dungeon": "2025-04-16 22:11:39 +0000",
+      "in_better_monster_room": "2025-04-26 20:30:58 +0000"
     },
     "done": false
   },
