@@ -2301,3 +2301,92 @@ Attribute | Current Value / Base Value
 [26Apr2025 22:25:01.876] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
 [26Apr2025 22:25:21.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11362ms or 227 ticks behind
 [26Apr2025 22:25:43.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7854ms or 157 ticks behind
+[26Apr2025 22:26:08.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9647ms or 192 ticks behind
+[26Apr2025 22:26:32.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8680ms or 173 ticks behind
+[26Apr2025 22:26:42.660] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@51a7abe6
+[26Apr2025 22:26:42.697] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Miglaitor_[/100.73.60.56:61681] logged in with entity id 34120 at (321.2233047752242, 70.0, 126.10785916458038)
+[26Apr2025 22:26:42.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ joined the game
+[26Apr2025 22:26:42.804] [Server thread/INFO] [Waila/]: Syncing config to Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb)
+[26Apr2025 22:26:42.819] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Miglaitor_ just logged in with id b042d1b7-0784-32e2-9baa-ecd241742ddb
+[26Apr2025 22:26:42.833] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[26Apr2025 22:26:42.836] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Miglaitor_
+[26Apr2025 22:26:42.917] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Miglaitor_ downloaded
+[26Apr2025 22:26:42.918] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/9e64f3ba-7955-4eff-989b-8f92495216b8
+[26Apr2025 22:26:43.534] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Miglaitor_ (18)
+[26Apr2025 22:26:43.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Miglaitor_
+[26Apr2025 22:26:43.630] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was loaded
+[26Apr2025 22:26:46.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[26Apr2025 22:26:47.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b042d1b7-0784-32e2-9baa-ecd241742ddb
+[26Apr2025 22:26:47.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Miglaitor_ (b042d1b7-0784-32e2-9baa-ecd241742ddb) successfully connected to voice chat
+[26Apr2025 22:26:59.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12440ms or 248 ticks behind
+[26Apr2025 22:27:06.684] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=329, y=70, z=122} BlockPos{x=327, y=69, z=123}
+[26Apr2025 22:27:26.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11712ms or 234 ticks behind
+[26Apr2025 22:27:52.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11126ms or 222 ticks behind
+[26Apr2025 22:28:20.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13472ms or 269 ticks behind
+[26Apr2025 22:28:48.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12732ms or 254 ticks behind
+[26Apr2025 22:28:51.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Kirolaid> kingu curimson
+[26Apr2025 22:29:05.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Killed 60 entities]
+[26Apr2025 22:29:05.618] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cave Root'/36038, l='ServerLevel[world]', x=-6278.58, y=16.26, z=-12412.57]
+[26Apr2025 22:29:14.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10591ms or 211 ticks behind
+[26Apr2025 22:29:20.805] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:21.806] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:22.806] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:23.807] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:24.807] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:25.808] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:26.808] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:27.809] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:28.809] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:29.810] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:30.811] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:31.811] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:32.811] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:33.812] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:34.813] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:35.905] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:36.905] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:37.907] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:38.908] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:39.909] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:40.910] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:41.911] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:42.911] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:43.976] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:45.226] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:46.229] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:48.084] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:49.087] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:50.311] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:51.312] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:52.314] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:54.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b042d1b7-0784-32e2-9baa-ecd241742ddb timed out
+[26Apr2025 22:29:54.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Miglaitor_
+[26Apr2025 22:29:54.514] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Miglaitor_
+[26Apr2025 22:29:54.512] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:54.517] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f32b1d7a-5eef-3918-8041-62708bf3cf92 timed out
+[26Apr2025 22:29:54.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Freacklock
+[26Apr2025 22:29:54.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[26Apr2025 22:29:55.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3172747b-348a-3cb7-90bb-f09910bd964f timed out
+[26Apr2025 22:29:55.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player imsxs
+[26Apr2025 22:29:55.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to imsxs
+[26Apr2025 22:29:55.519] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e timed out
+[26Apr2025 22:29:55.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcosbigpapa
+[26Apr2025 22:29:55.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcosbigpapa
+[26Apr2025 22:29:55.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 timed out
+[26Apr2025 22:29:55.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player eldanidani
+[26Apr2025 22:29:55.520] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to eldanidani
+[26Apr2025 22:29:55.522] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:56.522] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:58.766] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:29:58.816] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[26Apr2025 22:29:58.942] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:29:58.942] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:29:58.968] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:29:58.968] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:29:59.022] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:29:59.023] [Worker-Main-4/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[26Apr2025 22:29:59.767] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:30:02.935] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:30:03.937] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:30:06.498] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[26Apr2025 22:30:07.500] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
