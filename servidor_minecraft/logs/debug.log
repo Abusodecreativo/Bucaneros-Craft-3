@@ -18493,3 +18493,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 21:08:59.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14672ms or 293 ticks behind
 [27Apr2025 21:09:01.421] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-2080, y=15, z=3941}
 [27Apr2025 21:09:05.265] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-2080, y=13, z=3942}
+[27Apr2025 21:09:12.681] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2177
+[27Apr2025 21:09:12.681] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 2177
+[27Apr2025 21:09:22.851] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2238
+[27Apr2025 21:09:22.851] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 2238
+[27Apr2025 21:09:31.218] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2311
+[27Apr2025 21:09:31.218] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 2311
+[27Apr2025 21:09:36.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22153ms or 443 ticks behind
+[27Apr2025 21:09:37.335] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 2372
+[27Apr2025 21:09:37.335] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 2372
+[27Apr2025 21:09:50.154] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Captain stopped Tekkai at tick 2496
+[27Apr2025 21:10:07.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15665ms or 313 ticks behind
+[27Apr2025 21:10:39.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17201ms or 344 ticks behind
+[27Apr2025 21:11:10.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16185ms or 323 ticks behind
+[27Apr2025 21:11:14.106] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3275
+[27Apr2025 21:11:14.106] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 3275
+[27Apr2025 21:11:19.976] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3336
+[27Apr2025 21:11:22.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:11:26.067] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3397
+[27Apr2025 21:11:26.068] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 3397
+[27Apr2025 21:11:31.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[27Apr2025 21:11:31.878] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3458
+[27Apr2025 21:11:37.707] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3519
+[27Apr2025 21:11:37.708] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 3519
+[27Apr2025 21:11:39.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13804ms or 276 ticks behind
+[27Apr2025 21:11:43.144] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3580
+[27Apr2025 21:11:49.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:11:49.851] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3641
+[27Apr2025 21:11:49.851] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 3641
+[27Apr2025 21:11:57.827] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Sakuretsu Saboten Boshi at tick 3719
+[27Apr2025 21:12:07.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[27Apr2025 21:12:08.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14075ms or 281 ticks behind
+[27Apr2025 21:12:33.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10059ms or 201 ticks behind
+[27Apr2025 21:12:40.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> \removedf Freacklock
+[27Apr2025 21:13:00.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11796ms or 235 ticks behind
+[27Apr2025 21:13:05.137] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-9883, y=79, z=-1483} BlockPos{x=-9884, y=78, z=-1484}
+[27Apr2025 21:13:26.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11729ms or 234 ticks behind
+[27Apr2025 21:13:29.064] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Busoshoku Haki: Imbuing at tick 4821
+[27Apr2025 21:13:55.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14253ms or 285 ticks behind
+[27Apr2025 21:14:14.481] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 5226
+[27Apr2025 21:14:24.145] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Marine Sniper stopped Kaen Boshi at tick 5335
+[27Apr2025 21:14:24.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13216ms or 264 ticks behind
+[27Apr2025 21:14:52.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13427ms or 268 ticks behind
+[27Apr2025 21:15:22.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14453ms or 289 ticks behind
+[27Apr2025 21:15:42.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to imsxs]
+[27Apr2025 21:15:42.907] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 4dcbb81f-1ca0-4c34-902c-b7db92ad8d68 unwatched ships [319]
+[27Apr2025 21:15:42.907] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 6ba89b86-f2dc-489b-8909-8eefdcc7159b unwatched ships [319]
+[27Apr2025 21:15:42.907] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: c9fb65e6-d149-480b-960d-64c40cddc69e unwatched ships [319]
+[27Apr2025 21:15:42.907] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 86ecb13d-dd5a-4b15-8795-589941c4380f unwatched ships [319]
+[27Apr2025 21:15:42.907] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 40be4e62-9483-4d29-9924-8a0fcaeb835d unwatched ships [319]
+[27Apr2025 21:15:48.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11096ms or 221 ticks behind
+[27Apr2025 21:15:58.671] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Apr2025 21:15:58.682] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Apr2025 21:16:13.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10872ms or 217 ticks behind
+[27Apr2025 21:16:22.424] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Tekkai at tick 6717
+[27Apr2025 21:16:28.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 634.5, 48.0, -1235.5]
+[27Apr2025 21:16:35.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6793ms or 135 ticks behind
+[27Apr2025 21:16:43.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786751 : 768128
+[27Apr2025 21:16:43.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786752 : 768127
+[27Apr2025 21:16:43.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786752 : 768128
+[27Apr2025 21:16:43.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786752 : 768129
+[27Apr2025 21:16:43.112] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:overworld: -1786753 : 768128
+[27Apr2025 21:16:43.194] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 40be4e62-9483-4d29-9924-8a0fcaeb835d watched ships: [319]
+[27Apr2025 21:17:02.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12095ms or 241 ticks behind
+[27Apr2025 21:17:04.416] [Server thread/DEBUG] [mixin/]: Mixing NatureCompassCompat from cavebiomeapi-forge.mixins.json into com.chaosthedude.naturescompass.util.BiomeSearchWorker
+[27Apr2025 21:17:04.433] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[27Apr2025 21:17:04.525] [Server thread/INFO] [naturescompass/]: Search succeeded: 0 radius, 0 samples
+[27Apr2025 21:17:15.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:17:29.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11363ms or 227 ticks behind
+[27Apr2025 21:17:53.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9414ms or 188 ticks behind
+[27Apr2025 21:18:06.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -14062.0, 64.0, -1971.0]
+[27Apr2025 21:18:06.372] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1786752 : 768129
+[27Apr2025 21:18:06.372] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1786753 : 768128
+[27Apr2025 21:18:06.372] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1786752 : 768128
+[27Apr2025 21:18:06.372] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1786751 : 768128
+[27Apr2025 21:18:06.372] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:overworld: -1786752 : 768127
+[27Apr2025 21:18:06.946] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 4dcbb81f-1ca0-4c34-902c-b7db92ad8d68 unwatched ships [319]
+[27Apr2025 21:18:06.946] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 6ba89b86-f2dc-489b-8909-8eefdcc7159b unwatched ships [319]
+[27Apr2025 21:18:06.946] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: c9fb65e6-d149-480b-960d-64c40cddc69e unwatched ships [319]
+[27Apr2025 21:18:06.946] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 86ecb13d-dd5a-4b15-8795-589941c4380f unwatched ships [319]
+[27Apr2025 21:18:06.946] [Server thread/DEBUG] [org.valkyrienskies.core.game.ships.networking.ShipObjectNetworkManagerServer/]: 40be4e62-9483-4d29-9924-8a0fcaeb835d unwatched ships [319]
+[27Apr2025 21:18:21.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:18:22.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13969ms or 279 ticks behind
+[27Apr2025 21:18:27.689] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[27Apr2025 21:18:27.785] [Server thread/INFO] [naturescompass/]: Search succeeded: 142 radius, 9 samples
+[27Apr2025 21:18:39.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:18:48.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11167ms or 223 ticks behind
+[27Apr2025 21:19:08.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:19:13.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9992ms or 199 ticks behind
+[27Apr2025 21:19:23.554] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[27Apr2025 21:19:25.637] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[27Apr2025 21:19:27.541] [Server thread/INFO] [naturescompass/]: Search succeeded: 4208 radius, 4463 samples
+[27Apr2025 21:19:29.494] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1041 radius, 4318 samples
+[27Apr2025 21:19:38.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10056ms or 201 ticks behind
