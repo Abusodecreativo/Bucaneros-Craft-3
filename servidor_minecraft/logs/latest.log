@@ -3045,3 +3045,53 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 21:19:27.541] [Server thread/INFO] [naturescompass/]: Search succeeded: 4208 radius, 4463 samples
 [27Apr2025 21:19:29.494] [Server thread/INFO] [explorerscompass/]: Search succeeded: 1041 radius, 4318 samples
 [27Apr2025 21:19:38.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10056ms or 201 ticks behind
+[27Apr2025 21:19:49.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:19:50.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -10547.5, 33.0, -5254.5]
+[27Apr2025 21:20:10.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16553ms or 331 ticks behind
+[27Apr2025 21:20:12.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[27Apr2025 21:20:23.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:20:30.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:20:32.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7617ms or 152 ticks behind
+[27Apr2025 21:20:47.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:20:52.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -9888.5, 83.0, -1393.5]
+[27Apr2025 21:20:53.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa has made the advancement [Jennifer Dumped Me]
+[27Apr2025 21:20:54.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6438ms or 128 ticks behind
+[27Apr2025 21:21:15.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 18200.0, 64.0, -927.0]
+[27Apr2025 21:21:23.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:21:25.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16784ms or 335 ticks behind
+[27Apr2025 21:21:28.721] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[27Apr2025 21:21:28.849] [Server thread/INFO] [naturescompass/]: Search succeeded: 90 radius, 2 samples
+[27Apr2025 21:21:38.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:21:48.569] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: eldanidani lost connection: Disconnected
+[27Apr2025 21:21:48.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani left the game
+[27Apr2025 21:21:48.570] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was unloaded
+[27Apr2025 21:21:48.570] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client eldanidani
+[27Apr2025 21:21:48.580] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player eldanidani[3ac838e5-80f8-31b8-82e4-34ac0c5befe4]
+[27Apr2025 21:21:49.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8233ms or 164 ticks behind
+[27Apr2025 21:21:49.621] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[27Apr2025 21:21:49.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[27Apr2025 21:21:49.621] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[27Apr2025 21:21:49.622] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[27Apr2025 21:21:49.622] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[27Apr2025 21:23:18.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 308.5, 68.0, 110.5]
+[27Apr2025 21:24:19.852] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Apr2025 21:24:19.857] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[27Apr2025 21:25:03.496] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 963.0, 64.0, 6084.0]
+[27Apr2025 21:25:06.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[27Apr2025 21:25:33.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:25:39.394] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[27Apr2025 21:25:44.066] [Server thread/INFO] [naturescompass/]: Search succeeded: 4899 radius, 10486 samples
+[27Apr2025 21:26:17.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to -3724.5, 65.0, 7708.5]
+[27Apr2025 21:26:20.832] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-3668, y=15, z=7694}
+[27Apr2025 21:26:20.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:26:20.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[27Apr2025 21:27:11.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[27Apr2025 21:27:52.623] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:27:56.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:28:13.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:28:21.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:28:29.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:28:36.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[27Apr2025 21:28:47.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 21:30:11.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[27Apr2025 21:30:16.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
