@@ -11407,6 +11407,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-27 21:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
@@ -11901,6 +11907,7 @@
       "golden_carrot": "2025-04-20 20:11:24 +0000",
       "cooked_rabbit": "2025-04-18 15:41:13 +0000",
       "cooked_chicken": "2025-04-23 21:47:38 +0000",
+      "enchanted_golden_apple": "2025-04-27 21:05:24 +0000",
       "mushroom_stew": "2025-04-20 19:49:05 +0000",
       "cod": "2025-04-19 17:58:28 +0000",
       "cooked_salmon": "2025-04-19 18:30:36 +0000",
