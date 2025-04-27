@@ -3393,3 +3393,43 @@ Attribute | Current Value / Base Value
 [27Apr2025 22:09:51.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] a pues ya se cual es
 [27Apr2025 22:10:07.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] fernando fernando no mi
 [27Apr2025 22:11:16.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [eldanidani: Removed Devil Fruit for eldanidani]
+[27Apr2025 22:17:39.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Apr2025 22:17:39.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Apr2025 22:17:39.408] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSPhysicsPipelineBackgroundTask/]: Physics pipeline ending
+[27Apr2025 22:17:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Apr2025 22:17:39.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Apr2025 22:17:41.238] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Apr2025 22:17:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Apr2025 22:17:41.246] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2025 22:17:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Apr2025 22:17:41.247] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2025 22:17:41.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges
+[27Apr2025 22:17:41.248] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[27Apr2025 22:17:41.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_f32b1d7a-5eef-3918-8041-62708bf3cf92
+[27Apr2025 22:17:41.249] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_f32b1d7a-5eef-3918-8041-62708bf3cf92): All chunks are saved
+[27Apr2025 22:17:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e
+[27Apr2025 22:17:41.252] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e): All chunks are saved
+[27Apr2025 22:17:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_e3bce860-bf90-32c3-8207-0f2a95d284a9
+[27Apr2025 22:17:41.254] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_e3bce860-bf90-32c3-8207-0f2a95d284a9): All chunks are saved
+[27Apr2025 22:17:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d
+[27Apr2025 22:17:41.256] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d): All chunks are saved
+[27Apr2025 22:17:41.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_4147facb-94a7-34cd-9c23-fb99c1a2a0b0
+[27Apr2025 22:17:41.256] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_4147facb-94a7-34cd-9c23-fb99c1a2a0b0): All chunks are saved
+[27Apr2025 22:17:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[27Apr2025 22:17:41.257] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_3ac838e5-80f8-31b8-82e4-34ac0c5befe4): All chunks are saved
+[27Apr2025 22:17:41.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_3172747b-348a-3cb7-90bb-f09910bd964f
+[27Apr2025 22:17:41.258] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_3172747b-348a-3cb7-90bb-f09910bd964f): All chunks are saved
+[27Apr2025 22:17:41.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mineminenomi:challenges_b042d1b7-0784-32e2-9baa-ecd241742ddb
+[27Apr2025 22:17:41.259] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_b042d1b7-0784-32e2-9baa-ecd241742ddb): All chunks are saved
+[27Apr2025 22:17:41.324] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Apr2025 22:17:41.886] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2025 22:17:42.080] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2025 22:17:42.081] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges): All chunks are saved
+[27Apr2025 22:17:42.082] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_f32b1d7a-5eef-3918-8041-62708bf3cf92): All chunks are saved
+[27Apr2025 22:17:42.083] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e): All chunks are saved
+[27Apr2025 22:17:42.084] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_e3bce860-bf90-32c3-8207-0f2a95d284a9): All chunks are saved
+[27Apr2025 22:17:42.086] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_73ddd7fa-c8a0-36e5-a365-6e025dd6cd7d): All chunks are saved
+[27Apr2025 22:17:42.087] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_4147facb-94a7-34cd-9c23-fb99c1a2a0b0): All chunks are saved
+[27Apr2025 22:17:42.087] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_3ac838e5-80f8-31b8-82e4-34ac0c5befe4): All chunks are saved
+[27Apr2025 22:17:42.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_3172747b-348a-3cb7-90bb-f09910bd964f): All chunks are saved
+[27Apr2025 22:17:42.088] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (challenges_b042d1b7-0784-32e2-9baa-ecd241742ddb): All chunks are saved
