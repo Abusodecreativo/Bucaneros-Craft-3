@@ -20336,3 +20336,91 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27Apr2025 22:02:43.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> montaña con verga
 [27Apr2025 22:02:53.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9091ms or 181 ticks behind
 [27Apr2025 22:02:55.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> bastoncillo para calvo
+[27Apr2025 22:03:07.845] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3759, y=11, z=6953} BlockPos{x=-3759, y=10, z=6954}
+[27Apr2025 22:03:07.943] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3759, y=11, z=6953} BlockPos{x=-3759, y=10, z=6954}
+[27Apr2025 22:03:07.947] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-3759, y=11, z=6953} BlockPos{x=-3759, y=10, z=6954}
+[27Apr2025 22:03:19.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11358ms or 227 ticks behind
+[27Apr2025 22:03:37.134] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[27Apr2025 22:03:41.260] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Disconnected
+[27Apr2025 22:03:41.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[27Apr2025 22:03:41.260] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[27Apr2025 22:03:41.261] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Freacklock
+[27Apr2025 22:03:41.261] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[27Apr2025 22:03:41.262] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[27Apr2025 22:03:42.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7534ms or 150 ticks behind
+[27Apr2025 22:03:47.806] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:03:47.817] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Apr2025 22:04:05.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7828ms or 156 ticks behind
+[27Apr2025 22:04:25.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5320ms or 106 ticks behind
+[27Apr2025 22:04:31.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> pirata coco loco
+[27Apr2025 22:04:40.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 22:04:54.602] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> piratas del orto roto
+[27Apr2025 22:04:55.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[27Apr2025 22:05:03.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[27Apr2025 22:05:39.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Apr2025 22:06:03.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[27Apr2025 22:06:13.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Apr2025 22:06:25.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[27Apr2025 22:06:42.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[27Apr2025 22:06:59.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: ===============================================
+Name: eldanidani
+Faction: pirate
+Race: fishman
+Style: black_leg
+Doriki: 5162.510184471916
+Busoshoku Haki: 29.185322
+Kenbunshoku Haki: 62.20631
+Belly: 11203
+Extol: 0
+Bounty: 68930
+Issued Bounty: 68873
+Crew: DANI EL SUCIO CREW
+Devil Fruit: Kuku Kuku no Mi
+Damage Multiplier: 1.0
+-----
+Attribute | Current Value / Base Value
+- minecraft:generic.max_health | 139.06275461179789/129.06275461179789
+  artifacts:crystal_heart_health_bonus | 10.0
+- minecraft:generic.attack_damage | 5.0/1.0
+  artifacts:power_glove_attack_damage | 4.0
+- minecraft:generic.attack_speed | 4.300000011920929/4.0
+  Black Leg Speed Multiplier | 0.30000001192092896
+- minecraft:generic.armor | 20.0/0.0
+  Armor modifier | 3.0
+  Armor modifier | 6.0
+  Armor modifier | 8.0
+  Armor modifier | 3.0
+- minecraft:generic.armor_toughness | 8.0/0.0
+  Armor toughness | 2.0
+  Armor toughness | 2.0
+  Armor toughness | 2.0
+  Armor toughness | 2.0
+- mineminenomi:generic.attack_range | 0.5/0.0
+  Black Leg Range Multiplier | 0.5
+- mineminenomi:generic.punch_damage | 4.065004073788766/0.0
+  Black Leg Attack Bonus | 4.065004073788766
+- mineminenomi:generic.toughness | 4.1300081475775325/0.0
+  Passive Toughness Bonus | 4.1300081475775325
+- forge:swim_speed | 4.0/1.0
+  Fishman Swim Speed Multiplier | 3.0
+===============================================]
+[27Apr2025 22:07:51.582] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[27Apr2025 22:07:51.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[27Apr2025 22:07:51.582] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[27Apr2025 22:07:51.582] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Miglaitor_
+[27Apr2025 22:07:51.582] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[27Apr2025 22:07:51.583] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[27Apr2025 22:07:57.232] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: imsxs lost connection: Disconnected
+[27Apr2025 22:07:57.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs left the game
+[27Apr2025 22:07:57.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was unloaded
+[27Apr2025 22:07:57.232] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of imsxs
+[27Apr2025 22:07:57.232] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imsxs
+[27Apr2025 22:07:57.234] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
+[27Apr2025 22:09:06.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] tu fruta es una mierda dani
+[27Apr2025 22:09:07.563] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:09:07.578] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Apr2025 22:09:11.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> casi cometo un fernando incident
+[27Apr2025 22:09:20.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> casi se marca un fernando pero en dulce
+[27Apr2025 22:09:51.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] a pues ya se cual es
+[27Apr2025 22:10:07.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] fernando fernando no mi
+[27Apr2025 22:11:16.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [eldanidani: Removed Devil Fruit for eldanidani]
