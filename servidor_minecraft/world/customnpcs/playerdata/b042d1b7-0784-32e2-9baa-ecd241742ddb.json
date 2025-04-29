@@ -94,15 +94,6 @@
                     "BankItems": {
                         "NpcMiscInv": [
                             {
-                                "Slot": 0b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:emerald_block",
-                                "Count": 11b
-                            },
-                            {
                                 "Slot": 1b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
@@ -110,15 +101,6 @@
                                 },
                                 "id": "minecraft:gold_block",
                                 "Count": 10b
-                            },
-                            {
-                                "Slot": 9b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:emerald",
-                                "Count": 1b
                             }
                         ]
                     },

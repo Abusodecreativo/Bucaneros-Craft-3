@@ -373,7 +373,9 @@
   },
   "mineminenomi:adventure/haki_master": {
     "criteria": {
-      "unlock_kenbunshoku_aura": "2025-04-26 13:53:17 +0000"
+      "unlock_busoshoku_imbuing": "2025-04-29 20:43:22 +0000",
+      "unlock_kenbunshoku_aura": "2025-04-26 13:53:17 +0000",
+      "unlock_busoshoku_hardening": "2025-04-29 20:43:22 +0000"
     },
     "done": false
   },
