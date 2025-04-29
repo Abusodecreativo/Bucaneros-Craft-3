@@ -553,6 +553,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/cat_burglar": {
+    "criteria": {
+      "obtain_belly": "2025-04-29 20:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
