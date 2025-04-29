@@ -18705,3 +18705,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 19:15:57.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
 [29Apr2025 19:16:14.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
 [29Apr2025 19:16:31.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Apr2025 19:16:50.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
+[29Apr2025 19:17:09.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
+[29Apr2025 19:17:26.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[29Apr2025 19:17:43.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[29Apr2025 19:18:02.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Apr2025 19:18:20.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Apr2025 19:18:39.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[29Apr2025 19:18:57.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[29Apr2025 19:19:15.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[29Apr2025 19:19:32.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[29Apr2025 19:19:50.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[29Apr2025 19:19:55.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> a cuanto era el pico effi 5?
+[29Apr2025 19:20:07.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[29Apr2025 19:20:10.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> ahora te meto el pico por el culo cacho guarra
+[29Apr2025 19:20:15.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> bruh
+[29Apr2025 19:20:20.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> nah pero en serio
+[29Apr2025 19:20:24.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> si
+[29Apr2025 19:20:25.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[29Apr2025 19:20:25.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> cuanto propones
+[29Apr2025 19:20:29.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 7k?
+[29Apr2025 19:20:39.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> 7 geniomamadas
+[29Apr2025 19:20:43.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2889ms or 57 ticks behind
+[29Apr2025 19:20:45.157] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 19:20:45.170] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Apr2025 19:20:46.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> pq
+[29Apr2025 19:20:50.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> cuanto dices tu
+[29Apr2025 19:21:02.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4443ms or 88 ticks behind
+[29Apr2025 19:21:20.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[29Apr2025 19:21:20.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> 16k
+[29Apr2025 19:21:37.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[29Apr2025 19:21:44.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> mira te vasa meter tus estafadas de arepitas colombianas pancho de mierda que te den por culo
+[29Apr2025 19:21:47.890] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/50859, l='ServerLevel[world]', x=-5000.97, y=10.38, z=7012.13]
+[29Apr2025 19:21:50.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> va
+[29Apr2025 19:21:54.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> me quedo el pico
+[29Apr2025 19:21:55.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
+[29Apr2025 19:22:01.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> asin te lo metas como un dildo
+[29Apr2025 19:22:07.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> malas fatigas pases
+[29Apr2025 19:22:10.566] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> corre corre a encantar libros
+[29Apr2025 19:22:17.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> hasta que encuentres eficiencia 5
+[29Apr2025 19:22:25.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> yo me he encontrado varios
+[29Apr2025 19:22:30.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> asin te de una diarrea caldosa y te tengan que llevar en botellas de litro y media por la calle mierdas
+[29Apr2025 19:22:33.238] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Apr2025 19:22:44.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> chupa cuencos
+[29Apr2025 19:23:07.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> que cuanto propones
+[29Apr2025 19:23:10.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> y no me jodas
+[29Apr2025 19:23:16.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> hermano
+[29Apr2025 19:23:20.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 16k es mucho
+[29Apr2025 19:23:28.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> puedo conseguir yo el libro ese en un monmento
+[29Apr2025 19:23:52.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> illo te vendi el de looting que es mas facil de tener a 11
+[29Apr2025 19:24:01.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> no te voy a vender esto a menos
+[29Apr2025 19:24:25.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> q cojones
+[29Apr2025 19:24:35.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> pensaba que era fortuna
+[29Apr2025 19:24:41.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> me cago en dios...
+[29Apr2025 19:24:49.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> tu ere tonto o pellizcas cristales
+[29Apr2025 19:24:59.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> en este momento si
+[29Apr2025 19:25:06.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> checate esto
+[29Apr2025 19:25:22.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> fortuna 3 unbreacking 3 y efic 5
+[29Apr2025 19:25:33.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> cuanto
+[29Apr2025 19:25:43.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> que mierda cuanto si ese es el mio
+[29Apr2025 19:25:58.991] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Apr2025 19:25:59.004] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
