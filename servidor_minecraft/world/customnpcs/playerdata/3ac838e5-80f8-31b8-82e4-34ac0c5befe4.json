@@ -99,6 +99,18 @@
                 "QuestCompleted": 0b,
                 "ExtraData": {
                 },
+                "Quest": 1
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
                 "Quest": 12
             }
         ]
@@ -106,7 +118,22 @@
     "PlayerCompanionId": 0,
     "DialogData": [
         {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 8
+        },
+        {
             "Dialog": 25
+        },
+        {
+            "Dialog": 10
         }
     ],
     "ItemGiverChained": [
@@ -114,7 +141,7 @@
     "MailData": [
         {
             "Sender": "Miglaitor_",
-            "BeenRead": 0b,
+            "BeenRead": 1b,
             "Message": {
                 "pages": [
                     "hueles a mierda"
@@ -123,13 +150,13 @@
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 965621444L,
+            "TimePast": 966231711L,
             "Time": 1744992863898L,
             "Subject": "mugroso"
         },
         {
             "Sender": "Freacklock",
-            "BeenRead": 0b,
+            "BeenRead": 1b,
             "Message": {
                 "pages": [
                     ""
@@ -138,7 +165,7 @@
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 965607990L,
+            "TimePast": 966218257L,
             "Time": 1744992877352L,
             "Subject": "putero cabron paga tus impuestos"
         }

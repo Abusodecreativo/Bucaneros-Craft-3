@@ -20,18 +20,6 @@
                     "BankItems": {
                         "NpcMiscInv": [
                             {
-                                "Slot": 7b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "mineminenomi:belly_pouch",
-                                "Count": 1b,
-                                "tag": {
-                                    "belly": 11000L
-                                }
-                            },
-                            {
                                 "Slot": 8b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
@@ -40,7 +28,7 @@
                                 "id": "mineminenomi:belly_pouch",
                                 "Count": 1b,
                                 "tag": {
-                                    "belly": 6000L
+                                    "belly": 41853L
                                 }
                             },
                             {
@@ -114,23 +102,6 @@
                                 }
                             },
                             {
-                                "Slot": 20b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 2s,
-                                            "id": "minecraft:fire_aspect"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
                                 "Slot": 21b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
@@ -158,6 +129,23 @@
                                         }
                                     ],
                                     "RepairCost": 3
+                                }
+                            },
+                            {
+                                "Slot": 22b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "minecraft:enchanted_book",
+                                "Count": 1b,
+                                "tag": {
+                                    "StoredEnchantments": [
+                                        {
+                                            "lvl": 2s,
+                                            "id": "minecraft:fire_aspect"
+                                        }
+                                    ]
                                 }
                             }
                         ]

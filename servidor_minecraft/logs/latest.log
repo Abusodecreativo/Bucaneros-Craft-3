@@ -3512,3 +3512,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Apr2025 20:29:42.593] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/1c1d82a4-b89b-446c-a97a-f3c8afaed2c8
 [29Apr2025 20:29:43.999] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of eldanidani (18)
 [29Apr2025 20:29:43.999] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to eldanidani
+[29Apr2025 20:29:59.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3ac838e5-80f8-31b8-82e4-34ac0c5befe4 was loaded
+[29Apr2025 20:30:08.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[29Apr2025 20:30:09.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ac838e5-80f8-31b8-82e4-34ac0c5befe4
+[29Apr2025 20:30:09.726] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player eldanidani (3ac838e5-80f8-31b8-82e4-34ac0c5befe4) successfully connected to voice chat
+[29Apr2025 20:30:16.127] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[29Apr2025 20:33:23.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> hay tienda en el pueblo?
+[29Apr2025 20:33:41.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> hay tienda en el pueblo?
+[29Apr2025 20:35:04.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> hay tienda en el pueblo?
+[29Apr2025 20:35:10.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> que si cojones
+[29Apr2025 20:35:13.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> dnd
+[29Apr2025 20:35:24.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> dnd de que
+[29Apr2025 20:35:29.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> que donde esta
+[29Apr2025 20:35:32.212] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[29Apr2025 20:35:35.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> y yo que se busca
+[29Apr2025 20:35:39.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> ok
+[29Apr2025 20:38:48.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> bruh
