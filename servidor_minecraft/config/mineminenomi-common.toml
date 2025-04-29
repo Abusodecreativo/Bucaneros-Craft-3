@@ -177,7 +177,7 @@
 		# EXTENDED - Extra rules are applied on top of the SIMPLE set that blocks any means (or as many as possible) of storing/hoarding fruits 
 		#Default: NONE
 		#Allowed Values: NONE, SIMPLE, EXTENDED
-		"One Fruit per World" = "SIMPLE"
+		"One Fruit per World" = "NONE"
 		#Sets the limit for how many fruits a player can hold in their inventory;
 		#Default: 3
 		#Range: 1 ~ 10
