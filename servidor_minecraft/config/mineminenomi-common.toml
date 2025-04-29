@@ -124,7 +124,7 @@
 	"Shared Cooldowns" = true
 	#Will randomize all visual aspects of a devil fruit, making them impossible to identify
 	#Default: false
-	"Randomized Fruits" = false
+	"Randomized Fruits" = true
 	#How logias get affected by projectiles; 
 	# NONE - No projectile can damage logias 
 	# HAKI - Physical projectiles with buso cause damage 
