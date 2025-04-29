@@ -20,6 +20,18 @@
                     "BankItems": {
                         "NpcMiscInv": [
                             {
+                                "Slot": 8b,
+                                "ForgeCaps": {
+                                    "customnpcs:itemscripteddata": {
+                                    }
+                                },
+                                "id": "mineminenomi:belly_pouch",
+                                "Count": 1b,
+                                "tag": {
+                                    "belly": 1854L
+                                }
+                            },
+                            {
                                 "Slot": 9b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
