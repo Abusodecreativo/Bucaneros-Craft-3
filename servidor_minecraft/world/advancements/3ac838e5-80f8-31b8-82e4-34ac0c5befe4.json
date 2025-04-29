@@ -397,6 +397,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-29 18:29:13 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
