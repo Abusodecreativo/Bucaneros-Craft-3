@@ -20,18 +20,6 @@
                     "BankItems": {
                         "NpcMiscInv": [
                             {
-                                "Slot": 8b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "mineminenomi:belly_pouch",
-                                "Count": 1b,
-                                "tag": {
-                                    "belly": 41853L
-                                }
-                            },
-                            {
                                 "Slot": 9b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
@@ -50,31 +38,6 @@
                                         {
                                             "lvl": 2s,
                                             "id": "minecraft:knockback"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "Slot": 17b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 4s,
-                                            "id": "minecraft:smite"
-                                        },
-                                        {
-                                            "lvl": 3s,
-                                            "id": "minecraft:power"
-                                        },
-                                        {
-                                            "lvl": 3s,
-                                            "id": "minecraft:efficiency"
                                         }
                                     ]
                                 }
@@ -99,36 +62,6 @@
                                             "id": "minecraft:knockback"
                                         }
                                     ]
-                                }
-                            },
-                            {
-                                "Slot": 21b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:enchanted_book",
-                                "Count": 1b,
-                                "tag": {
-                                    "StoredEnchantments": [
-                                        {
-                                            "lvl": 5s,
-                                            "id": "minecraft:efficiency"
-                                        },
-                                        {
-                                            "lvl": 1s,
-                                            "id": "minecraft:aqua_affinity"
-                                        },
-                                        {
-                                            "lvl": 1s,
-                                            "id": "minecraft:quick_charge"
-                                        },
-                                        {
-                                            "lvl": 2s,
-                                            "id": "alexsmobs:straddle_jump"
-                                        }
-                                    ],
-                                    "RepairCost": 3
                                 }
                             },
                             {
