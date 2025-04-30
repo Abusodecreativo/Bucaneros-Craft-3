@@ -9095,6 +9095,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-diamond": "2025-04-30 21:30:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
@@ -11726,6 +11732,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-30 21:30:38 +0000"
     },
     "done": true
   },
