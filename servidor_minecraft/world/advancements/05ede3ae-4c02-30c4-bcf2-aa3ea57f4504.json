@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-30 21:18:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_cobblestone_slab_from_diorite_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -695,6 +701,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pulley_block": {
+    "criteria": {
+      "has_plank": "2025-04-30 21:22:29 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/decorations/purple_candle": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
@@ -980,6 +992,12 @@
   "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-04-30 21:16:15 +0000"
     },
     "done": true
   },
@@ -2573,6 +2591,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-30 21:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -3017,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-30 21:22:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_scoria_cobblestone_stairs_from_dark_scoria_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -3026,6 +3056,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-04-30 21:22:29 +0000"
     },
     "done": true
   },
@@ -4607,6 +4643,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-30 21:18:18 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/turtle_soup": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -5162,6 +5204,12 @@
   "create:recipes/create.base/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-30 21:16:35 +0000"
     },
     "done": true
   },
@@ -6443,6 +6491,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-30 21:17:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
@@ -6826,6 +6880,12 @@
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-30 21:18:05 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
@@ -9173,6 +9233,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-04-30 21:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -10457,6 +10523,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-30 21:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -11098,6 +11170,12 @@
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-30 21:16:35 +0000"
+    },
+    "done": false
   },
   "cavesandcliffs:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -11873,6 +11951,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_spruce": {
+    "criteria": {
+      "has_plank": "2025-04-30 21:17:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
@@ -12056,6 +12140,12 @@
   "framedblocks:recipes/framed_blocks/framed_double_slope_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-30 21:18:39 +0000"
     },
     "done": true
   },
@@ -12506,6 +12596,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_the_recipe": "2025-04-30 21:07:04 +0000"
+    },
+    "done": true
+  },
+  "mineminenomi:challenges/root": {
+    "criteria": {
+      "unlock_challenge": "2025-04-30 21:24:16 +0000"
     },
     "done": true
   },
