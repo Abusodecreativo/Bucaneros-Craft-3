@@ -32,51 +32,6 @@
                                 }
                             },
                             {
-                                "Slot": 9b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:diamond_sword",
-                                "Count": 1b,
-                                "tag": {
-                                    "hasSwordsmanBonus": 1b,
-                                    "Damage": 0,
-                                    "Enchantments": [
-                                        {
-                                            "lvl": 3s,
-                                            "id": "minecraft:sharpness"
-                                        },
-                                        {
-                                            "lvl": 2s,
-                                            "id": "minecraft:knockback"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "Slot": 18b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "minecraft:diamond_sword",
-                                "Count": 1b,
-                                "tag": {
-                                    "Damage": 0,
-                                    "Enchantments": [
-                                        {
-                                            "lvl": 4s,
-                                            "id": "minecraft:smite"
-                                        },
-                                        {
-                                            "lvl": 2s,
-                                            "id": "minecraft:knockback"
-                                        }
-                                    ]
-                                }
-                            },
-                            {
                                 "Slot": 22b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
