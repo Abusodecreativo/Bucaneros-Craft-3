@@ -4395,6 +4395,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-30 22:08:36 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_slope": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -8694,6 +8700,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-30 22:09:03 +0000"
     },
     "done": true
   },

@@ -5287,6 +5287,12 @@
     },
     "done": true
   },
+  "endrem:main/find_end_castle": {
+    "criteria": {
+      "in_end_castle": "2025-04-30 22:10:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
