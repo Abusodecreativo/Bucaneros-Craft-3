@@ -2120,6 +2120,13 @@
     },
     "done": true
   },
+  "outer_end:end/explore_end": {
+    "criteria": {
+      "find_minecraft:the_end": "2025-04-30 22:30:47 +0000",
+      "find_minecraft:small_end_islands": "2025-04-30 22:30:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -10956,6 +10963,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-30 22:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-16 17:17:15 +0000"
@@ -13378,6 +13391,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-30 22:30:41 +0000"
     },
     "done": true
   },
