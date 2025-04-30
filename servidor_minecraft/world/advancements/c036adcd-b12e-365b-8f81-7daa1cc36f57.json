@@ -3853,6 +3853,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-04-30 21:00:24 +0000",
+      "minecraft:phantom": "2025-04-30 20:57:18 +0000",
       "minecraft:drowned": "2025-04-26 15:46:03 +0000"
     },
     "done": false
@@ -5480,6 +5482,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-04-30 21:03:08 +0000"
     },
     "done": true
   },
@@ -11233,7 +11241,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-26 15:09:11 +0000",
-      "rotten_flesh": "2025-04-26 15:47:12 +0000"
+      "rotten_flesh": "2025-04-26 15:47:12 +0000",
+      "mushroom_stew": "2025-04-30 21:03:08 +0000",
+      "cooked_salmon": "2025-04-30 21:01:29 +0000"
     },
     "done": false
   },
