@@ -3975,6 +3975,12 @@
     },
     "done": true
   },
+  "mineminenomi:challenges/morgan": {
+    "criteria": {
+      "unlock_challenge": "2025-04-30 22:03:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/horizontal_framed_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -4680,6 +4686,12 @@
   "create:recipes/create.palettes/layered_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_item": "2025-04-30 21:47:19 +0000"
     },
     "done": true
   },
@@ -7056,6 +7068,12 @@
   "aquaculture:recipes/tools/neptunium_shovel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "way_sign": "2025-04-30 22:04:00 +0000"
     },
     "done": true
   },
@@ -11278,10 +11296,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-30 22:00:31 +0000",
       "potato": "2025-04-30 21:19:14 +0000",
       "bread": "2025-04-26 15:09:11 +0000",
       "rotten_flesh": "2025-04-26 15:47:12 +0000",
       "suspicious_stew": "2025-04-30 21:27:24 +0000",
+      "cooked_chicken": "2025-04-30 21:54:46 +0000",
       "mushroom_stew": "2025-04-30 21:03:08 +0000",
       "cooked_salmon": "2025-04-30 21:01:29 +0000",
       "carrot": "2025-04-30 21:20:46 +0000"

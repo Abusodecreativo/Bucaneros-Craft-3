@@ -4157,7 +4157,8 @@
       "minecraft:enderman": "2025-04-23 00:01:57 +0000",
       "minecraft:vex": "2025-04-18 15:32:38 +0000",
       "minecraft:zombie": "2025-04-18 14:35:28 +0000",
-      "minecraft:drowned": "2025-04-19 21:58:09 +0000"
+      "minecraft:drowned": "2025-04-19 21:58:09 +0000",
+      "minecraft:zombie_villager": "2025-04-30 22:02:33 +0000"
     },
     "done": false
   },
@@ -5358,6 +5359,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/find_end_castle": {
+    "criteria": {
+      "in_end_castle": "2025-04-30 21:44:41 +0000"
     },
     "done": true
   },
