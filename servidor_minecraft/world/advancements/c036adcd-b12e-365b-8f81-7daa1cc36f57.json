@@ -1271,6 +1271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-30 21:08:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_dolomite_bricks_wall_from_fancy_dolomite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -1520,6 +1526,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-30 21:08:52 +0000"
     },
     "done": true
   },
@@ -1994,6 +2006,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-30 21:08:52 +0000"
     },
     "done": true
   },
@@ -3281,6 +3299,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-30 21:12:48 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/charcoal/raw": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -3853,8 +3877,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-30 21:11:17 +0000",
       "minecraft:spider": "2025-04-30 21:00:24 +0000",
       "minecraft:phantom": "2025-04-30 20:57:18 +0000",
+      "minecraft:zombie": "2025-04-30 21:07:25 +0000",
       "minecraft:drowned": "2025-04-26 15:46:03 +0000"
     },
     "done": false
@@ -7693,6 +7719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-30 21:08:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/schematics/schematicannon": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:55 +0000"
@@ -10579,6 +10611,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-30 21:11:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -11649,6 +11687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-30 21:08:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_pulse_repeater": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -12054,6 +12098,12 @@
   "chisel:recipes/chisel/laboratory/largesteel": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-30 21:08:52 +0000"
     },
     "done": true
   },
