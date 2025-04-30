@@ -3838,3 +3838,232 @@ java.lang.NullPointerException: null
 [30Apr2025 23:14:15.669] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
 [30Apr2025 23:14:15.669] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
 [30Apr2025 23:14:15.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6698ms or 133 ticks behind
+[30Apr2025 23:14:23.799] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[30Apr2025 23:14:26.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[30Apr2025 23:14:29.359] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: marcosbigpapa lost connection: Disconnected
+[30Apr2025 23:14:29.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: marcosbigpapa left the game
+[30Apr2025 23:14:29.360] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e was unloaded
+[30Apr2025 23:14:29.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client marcosbigpapa
+[30Apr2025 23:14:29.362] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player marcosbigpapa[e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e]
+[30Apr2025 23:14:32.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> me vendeis la wado ?
+[30Apr2025 23:14:40.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10087ms or 201 ticks behind
+[30Apr2025 23:14:58.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> eh
+[30Apr2025 23:15:01.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> os la compro
+[30Apr2025 23:17:18.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> ya no la quiero
+[30Apr2025 23:18:02.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [imsxs: Removed Devil Fruit for imsxs]
+[30Apr2025 23:18:19.173] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[30Apr2025 23:19:12.338] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started ARLONG_HARD challenge.
+[30Apr2025 23:19:15.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3114ms or 62 ticks behind
+[30Apr2025 23:19:16.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105338, l='ServerLevel[world]', x=-5.16, y=43.75, z=-2.16]
+[30Apr2025 23:19:16.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105334, l='ServerLevel[world]', x=-5.18, y=44.44, z=-2.13]
+[30Apr2025 23:19:16.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105342, l='ServerLevel[world]', x=-12.15, y=53.29, z=-13.14]
+[30Apr2025 23:19:16.640] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105343, l='ServerLevel[world]', x=-15.52, y=65.07, z=-10.96]
+[30Apr2025 23:19:16.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105339, l='ServerLevel[world]', x=-5.55, y=44.53, z=-1.48]
+[30Apr2025 23:19:16.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105336, l='ServerLevel[world]', x=-5.18, y=43.75, z=-2.97]
+[30Apr2025 23:19:16.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105341, l='ServerLevel[world]', x=-10.63, y=53.25, z=-13.23]
+[30Apr2025 23:19:16.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105340, l='ServerLevel[world]', x=-10.66, y=53.67, z=-12.31]
+[30Apr2025 23:19:16.641] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105337, l='ServerLevel[world]', x=-6.42, y=45.72, z=-2.69]
+[30Apr2025 23:19:16.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105333, l='ServerLevel[world]', x=-0.11, y=43.75, z=-14.45]
+[30Apr2025 23:19:16.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105335, l='ServerLevel[world]', x=-6.27, y=43.75, z=-3.30]
+[30Apr2025 23:19:16.642] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/105344, l='ServerLevel[world]', x=1.13, y=44.99, z=-14.12]
+[30Apr2025 23:19:16.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105326, l='ServerLevel[world]', x=27.76, y=72.00, z=-6.12]
+[30Apr2025 23:19:16.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105324, l='ServerLevel[world]', x=30.48, y=72.00, z=-6.49]
+[30Apr2025 23:19:16.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105332, l='ServerLevel[world]', x=26.55, y=72.00, z=-4.39]
+[30Apr2025 23:19:16.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105325, l='ServerLevel[world]', x=26.86, y=72.00, z=-5.00]
+[30Apr2025 23:19:16.643] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105327, l='ServerLevel[world]', x=28.25, y=72.00, z=-4.83]
+[30Apr2025 23:19:16.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105331, l='ServerLevel[world]', x=27.16, y=72.00, z=-3.31]
+[30Apr2025 23:19:16.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105323, l='ServerLevel[world]', x=28.82, y=72.00, z=-4.61]
+[30Apr2025 23:19:16.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105328, l='ServerLevel[world]', x=29.41, y=72.00, z=-6.65]
+[30Apr2025 23:19:16.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105330, l='ServerLevel[world]', x=25.16, y=72.00, z=-5.15]
+[30Apr2025 23:19:16.644] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105329, l='ServerLevel[world]', x=28.70, y=72.00, z=-5.19]
+[30Apr2025 23:19:16.651] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105338, l='ServerLevel[world]', x=-5.16, y=43.75, z=-2.16]
+[30Apr2025 23:19:16.652] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105334, l='ServerLevel[world]', x=-5.18, y=44.44, z=-2.13]
+[30Apr2025 23:19:16.652] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105342, l='ServerLevel[world]', x=-12.15, y=53.29, z=-13.14]
+[30Apr2025 23:19:16.652] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105343, l='ServerLevel[world]', x=-15.52, y=65.07, z=-10.96]
+[30Apr2025 23:19:16.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105339, l='ServerLevel[world]', x=-5.55, y=44.53, z=-1.48]
+[30Apr2025 23:19:16.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105336, l='ServerLevel[world]', x=-5.18, y=43.75, z=-2.97]
+[30Apr2025 23:19:16.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105341, l='ServerLevel[world]', x=-10.63, y=53.25, z=-13.23]
+[30Apr2025 23:19:16.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105340, l='ServerLevel[world]', x=-10.66, y=53.67, z=-12.31]
+[30Apr2025 23:19:16.653] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105337, l='ServerLevel[world]', x=-6.42, y=45.72, z=-2.69]
+[30Apr2025 23:19:16.654] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105333, l='ServerLevel[world]', x=-0.11, y=43.75, z=-14.45]
+[30Apr2025 23:19:16.654] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105335, l='ServerLevel[world]', x=-6.27, y=43.75, z=-3.30]
+[30Apr2025 23:19:16.654] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/105344, l='ServerLevel[world]', x=1.13, y=44.99, z=-14.12]
+[30Apr2025 23:19:16.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105326, l='ServerLevel[world]', x=27.76, y=72.00, z=-6.12]
+[30Apr2025 23:19:16.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105324, l='ServerLevel[world]', x=30.48, y=72.00, z=-6.49]
+[30Apr2025 23:19:16.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105332, l='ServerLevel[world]', x=26.55, y=72.00, z=-4.39]
+[30Apr2025 23:19:16.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105325, l='ServerLevel[world]', x=26.86, y=72.00, z=-5.00]
+[30Apr2025 23:19:16.655] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105327, l='ServerLevel[world]', x=28.25, y=72.00, z=-4.83]
+[30Apr2025 23:19:16.656] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105331, l='ServerLevel[world]', x=27.16, y=72.00, z=-3.31]
+[30Apr2025 23:19:16.656] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105323, l='ServerLevel[world]', x=28.82, y=72.00, z=-4.61]
+[30Apr2025 23:19:16.656] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105328, l='ServerLevel[world]', x=29.41, y=72.00, z=-6.65]
+[30Apr2025 23:19:16.656] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105330, l='ServerLevel[world]', x=25.16, y=72.00, z=-5.15]
+[30Apr2025 23:19:16.656] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105329, l='ServerLevel[world]', x=28.70, y=72.00, z=-5.19]
+[30Apr2025 23:19:16.662] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105338, l='ServerLevel[world]', x=-5.16, y=43.75, z=-2.16]
+[30Apr2025 23:19:16.662] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105334, l='ServerLevel[world]', x=-5.18, y=44.44, z=-2.13]
+[30Apr2025 23:19:16.662] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105342, l='ServerLevel[world]', x=-12.15, y=53.29, z=-13.14]
+[30Apr2025 23:19:16.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105343, l='ServerLevel[world]', x=-15.52, y=65.07, z=-10.96]
+[30Apr2025 23:19:16.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105339, l='ServerLevel[world]', x=-5.55, y=44.53, z=-1.48]
+[30Apr2025 23:19:16.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105336, l='ServerLevel[world]', x=-5.18, y=43.75, z=-2.97]
+[30Apr2025 23:19:16.663] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105341, l='ServerLevel[world]', x=-10.63, y=53.25, z=-13.23]
+[30Apr2025 23:19:16.664] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105340, l='ServerLevel[world]', x=-10.66, y=53.67, z=-12.31]
+[30Apr2025 23:19:16.664] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105337, l='ServerLevel[world]', x=-6.42, y=45.72, z=-2.69]
+[30Apr2025 23:19:16.664] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/105333, l='ServerLevel[world]', x=-0.11, y=43.75, z=-14.45]
+[30Apr2025 23:19:16.664] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/105335, l='ServerLevel[world]', x=-6.27, y=43.75, z=-3.30]
+[30Apr2025 23:19:16.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/105344, l='ServerLevel[world]', x=1.13, y=44.99, z=-14.12]
+[30Apr2025 23:19:16.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105326, l='ServerLevel[world]', x=27.76, y=72.00, z=-6.12]
+[30Apr2025 23:19:16.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105324, l='ServerLevel[world]', x=30.48, y=72.00, z=-6.49]
+[30Apr2025 23:19:16.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105332, l='ServerLevel[world]', x=26.55, y=72.00, z=-4.39]
+[30Apr2025 23:19:16.665] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105325, l='ServerLevel[world]', x=26.86, y=72.00, z=-5.00]
+[30Apr2025 23:19:16.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105327, l='ServerLevel[world]', x=28.25, y=72.00, z=-4.83]
+[30Apr2025 23:19:16.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105331, l='ServerLevel[world]', x=27.16, y=72.00, z=-3.31]
+[30Apr2025 23:19:16.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105323, l='ServerLevel[world]', x=28.82, y=72.00, z=-4.61]
+[30Apr2025 23:19:16.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105328, l='ServerLevel[world]', x=29.41, y=72.00, z=-6.65]
+[30Apr2025 23:19:16.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105330, l='ServerLevel[world]', x=25.16, y=72.00, z=-5.15]
+[30Apr2025 23:19:16.666] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity SpikeEntity['Spike'/105329, l='ServerLevel[world]', x=28.70, y=72.00, z=-5.19]
+[30Apr2025 23:20:28.188] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[30Apr2025 23:20:28.189] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[30Apr2025 23:20:28.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[30Apr2025 23:20:45.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> vale si
+[30Apr2025 23:20:47.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> si la quiero
+[30Apr2025 23:20:52.828] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> me la vendeis?
+[30Apr2025 23:20:57.179] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started ARLONG_HARD challenge.
+[30Apr2025 23:21:00.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[30Apr2025 23:21:01.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> el que
+[30Apr2025 23:21:01.420] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106167, l='ServerLevel[world]', x=-6.43, y=44.93, z=-9.09]
+[30Apr2025 23:21:01.420] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106171, l='ServerLevel[world]', x=-0.13, y=58.16, z=-12.07]
+[30Apr2025 23:21:01.420] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106163, l='ServerLevel[world]', x=-1.94, y=44.93, z=-6.96]
+[30Apr2025 23:21:01.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106155, l='ServerLevel[world]', x=-8.49, y=44.93, z=-1.37]
+[30Apr2025 23:21:01.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106158, l='ServerLevel[world]', x=-8.95, y=44.93, z=-2.75]
+[30Apr2025 23:21:01.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106159, l='ServerLevel[world]', x=-8.89, y=44.93, z=-2.30]
+[30Apr2025 23:21:01.421] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106165, l='ServerLevel[world]', x=-5.31, y=44.93, z=-4.08]
+[30Apr2025 23:21:01.422] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106161, l='ServerLevel[world]', x=-8.15, y=44.93, z=-3.86]
+[30Apr2025 23:21:01.422] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106157, l='ServerLevel[world]', x=-7.88, y=44.93, z=-2.17]
+[30Apr2025 23:21:01.422] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106156, l='ServerLevel[world]', x=-8.37, y=44.93, z=-2.78]
+[30Apr2025 23:21:01.422] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106166, l='ServerLevel[world]', x=-8.03, y=44.93, z=-5.67]
+[30Apr2025 23:21:01.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106164, l='ServerLevel[world]', x=-3.42, y=44.93, z=-8.54]
+[30Apr2025 23:21:01.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106170, l='ServerLevel[world]', x=-6.35, y=60.29, z=-15.70]
+[30Apr2025 23:21:01.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106160, l='ServerLevel[world]', x=-3.13, y=43.76, z=-9.25]
+[30Apr2025 23:21:01.423] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106162, l='ServerLevel[world]', x=-3.78, y=44.93, z=-8.03]
+[30Apr2025 23:21:01.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106169, l='ServerLevel[world]', x=-0.53, y=59.05, z=-11.97]
+[30Apr2025 23:21:01.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106168, l='ServerLevel[world]', x=-1.50, y=58.85, z=-12.66]
+[30Apr2025 23:21:01.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106154, l='ServerLevel[world]', x=-3.78, y=48.18, z=7.14]
+[30Apr2025 23:21:01.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106152, l='ServerLevel[world]', x=-6.58, y=45.07, z=8.39]
+[30Apr2025 23:21:01.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106153, l='ServerLevel[world]', x=-7.42, y=44.38, z=5.98]
+[30Apr2025 23:21:01.424] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106172, l='ServerLevel[world]', x=1.21, y=58.89, z=-10.25]
+[30Apr2025 23:21:01.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106151, l='ServerLevel[world]', x=8.57, y=59.18, z=9.49]
+[30Apr2025 23:21:01.425] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106150, l='ServerLevel[world]', x=11.05, y=61.32, z=11.97]
+[30Apr2025 23:21:01.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106167, l='ServerLevel[world]', x=-6.43, y=44.93, z=-9.09]
+[30Apr2025 23:21:01.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106171, l='ServerLevel[world]', x=-0.13, y=58.16, z=-12.07]
+[30Apr2025 23:21:01.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106163, l='ServerLevel[world]', x=-1.94, y=44.93, z=-6.96]
+[30Apr2025 23:21:01.432] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106155, l='ServerLevel[world]', x=-8.49, y=44.93, z=-1.37]
+[30Apr2025 23:21:01.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106158, l='ServerLevel[world]', x=-8.95, y=44.93, z=-2.75]
+[30Apr2025 23:21:01.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106159, l='ServerLevel[world]', x=-8.89, y=44.93, z=-2.30]
+[30Apr2025 23:21:01.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106165, l='ServerLevel[world]', x=-5.31, y=44.93, z=-4.08]
+[30Apr2025 23:21:01.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106161, l='ServerLevel[world]', x=-8.15, y=44.93, z=-3.86]
+[30Apr2025 23:21:01.433] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106157, l='ServerLevel[world]', x=-7.88, y=44.93, z=-2.17]
+[30Apr2025 23:21:01.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106156, l='ServerLevel[world]', x=-8.37, y=44.93, z=-2.78]
+[30Apr2025 23:21:01.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106166, l='ServerLevel[world]', x=-8.03, y=44.93, z=-5.67]
+[30Apr2025 23:21:01.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106164, l='ServerLevel[world]', x=-3.42, y=44.93, z=-8.54]
+[30Apr2025 23:21:01.434] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106170, l='ServerLevel[world]', x=-6.35, y=60.29, z=-15.70]
+[30Apr2025 23:21:01.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106160, l='ServerLevel[world]', x=-3.13, y=43.76, z=-9.25]
+[30Apr2025 23:21:01.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106162, l='ServerLevel[world]', x=-3.78, y=44.93, z=-8.03]
+[30Apr2025 23:21:01.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106169, l='ServerLevel[world]', x=-0.53, y=59.05, z=-11.97]
+[30Apr2025 23:21:01.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106168, l='ServerLevel[world]', x=-1.50, y=58.85, z=-12.66]
+[30Apr2025 23:21:01.435] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106154, l='ServerLevel[world]', x=-3.78, y=48.18, z=7.14]
+[30Apr2025 23:21:01.436] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106152, l='ServerLevel[world]', x=-6.58, y=45.07, z=8.39]
+[30Apr2025 23:21:01.436] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106153, l='ServerLevel[world]', x=-7.42, y=44.38, z=5.98]
+[30Apr2025 23:21:01.436] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106172, l='ServerLevel[world]', x=1.21, y=58.89, z=-10.25]
+[30Apr2025 23:21:01.437] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106151, l='ServerLevel[world]', x=8.57, y=59.18, z=9.49]
+[30Apr2025 23:21:01.437] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106150, l='ServerLevel[world]', x=11.05, y=61.32, z=11.97]
+[30Apr2025 23:21:01.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106167, l='ServerLevel[world]', x=-6.43, y=44.93, z=-9.09]
+[30Apr2025 23:21:01.445] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106171, l='ServerLevel[world]', x=-0.13, y=58.16, z=-12.07]
+[30Apr2025 23:21:01.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106163, l='ServerLevel[world]', x=-1.94, y=44.93, z=-6.96]
+[30Apr2025 23:21:01.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106155, l='ServerLevel[world]', x=-8.49, y=44.93, z=-1.37]
+[30Apr2025 23:21:01.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106158, l='ServerLevel[world]', x=-8.95, y=44.93, z=-2.75]
+[30Apr2025 23:21:01.446] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106159, l='ServerLevel[world]', x=-8.89, y=44.93, z=-2.30]
+[30Apr2025 23:21:01.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106165, l='ServerLevel[world]', x=-5.31, y=44.93, z=-4.08]
+[30Apr2025 23:21:01.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106161, l='ServerLevel[world]', x=-8.15, y=44.93, z=-3.86]
+[30Apr2025 23:21:01.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106157, l='ServerLevel[world]', x=-7.88, y=44.93, z=-2.17]
+[30Apr2025 23:21:01.447] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106156, l='ServerLevel[world]', x=-8.37, y=44.93, z=-2.78]
+[30Apr2025 23:21:01.448] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106166, l='ServerLevel[world]', x=-8.03, y=44.93, z=-5.67]
+[30Apr2025 23:21:01.448] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106164, l='ServerLevel[world]', x=-3.42, y=44.93, z=-8.54]
+[30Apr2025 23:21:01.448] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106170, l='ServerLevel[world]', x=-6.35, y=60.29, z=-15.70]
+[30Apr2025 23:21:01.448] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106160, l='ServerLevel[world]', x=-3.13, y=43.76, z=-9.25]
+[30Apr2025 23:21:01.449] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/106162, l='ServerLevel[world]', x=-3.78, y=44.93, z=-8.03]
+[30Apr2025 23:21:01.449] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106169, l='ServerLevel[world]', x=-0.53, y=59.05, z=-11.97]
+[30Apr2025 23:21:01.449] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106168, l='ServerLevel[world]', x=-1.50, y=58.85, z=-12.66]
+[30Apr2025 23:21:01.449] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106154, l='ServerLevel[world]', x=-3.78, y=48.18, z=7.14]
+[30Apr2025 23:21:01.450] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106152, l='ServerLevel[world]', x=-6.58, y=45.07, z=8.39]
+[30Apr2025 23:21:01.450] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/106153, l='ServerLevel[world]', x=-7.42, y=44.38, z=5.98]
+[30Apr2025 23:21:01.450] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/106172, l='ServerLevel[world]', x=1.21, y=58.89, z=-10.25]
+[30Apr2025 23:21:01.451] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106151, l='ServerLevel[world]', x=8.57, y=59.18, z=9.49]
+[30Apr2025 23:21:01.451] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/106150, l='ServerLevel[world]', x=11.05, y=61.32, z=11.97]
+[30Apr2025 23:21:03.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> la wado
+[30Apr2025 23:21:12.287] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[30Apr2025 23:22:13.282] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[30Apr2025 23:22:13.282] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[30Apr2025 23:22:13.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5225ms or 104 ticks behind
+[30Apr2025 23:22:33.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> si o no
+[30Apr2025 23:22:48.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 100k?
+[30Apr2025 23:22:49.297] [Server thread/INFO] [mineminenomi/]: Miglaitor_ started DON_KRIEG_HARD challenge.
+[30Apr2025 23:22:54.372] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[30Apr2025 23:22:54.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[30Apr2025 23:22:56.306] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107317, l='ServerLevel[world]', x=-0.41, y=70.19, z=7.52]
+[30Apr2025 23:22:56.306] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107314, l='ServerLevel[world]', x=-2.75, y=45.41, z=8.23]
+[30Apr2025 23:22:56.307] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107318, l='ServerLevel[world]', x=-0.62, y=70.37, z=7.50]
+[30Apr2025 23:22:56.307] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107316, l='ServerLevel[world]', x=-0.04, y=47.28, z=11.21]
+[30Apr2025 23:22:56.307] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107320, l='ServerLevel[world]', x=-2.57, y=65.12, z=5.57]
+[30Apr2025 23:22:56.307] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/107322, l='ServerLevel[world]', x=-1.51, y=64.13, z=14.66]
+[30Apr2025 23:22:56.307] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107321, l='ServerLevel[world]', x=-3.50, y=66.28, z=4.51]
+[30Apr2025 23:22:56.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107315, l='ServerLevel[world]', x=-3.59, y=44.26, z=7.69]
+[30Apr2025 23:22:56.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107319, l='ServerLevel[world]', x=-1.09, y=68.53, z=4.81]
+[30Apr2025 23:22:56.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107304, l='ServerLevel[world]', x=-0.02, y=46.90, z=9.71]
+[30Apr2025 23:22:56.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107303, l='ServerLevel[world]', x=-0.00, y=46.56, z=10.57]
+[30Apr2025 23:22:56.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/107324, l='ServerLevel[world]', x=-6.33, y=48.16, z=16.23]
+[30Apr2025 23:22:56.308] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/107325, l='ServerLevel[world]', x=-1.62, y=64.87, z=16.40]
+[30Apr2025 23:22:56.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/107323, l='ServerLevel[world]', x=-5.61, y=45.18, z=17.25]
+[30Apr2025 23:22:56.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107309, l='ServerLevel[world]', x=7.21, y=73.81, z=-0.68]
+[30Apr2025 23:22:56.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107313, l='ServerLevel[world]', x=7.26, y=73.44, z=-1.16]
+[30Apr2025 23:22:56.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107311, l='ServerLevel[world]', x=7.21, y=73.41, z=-1.55]
+[30Apr2025 23:22:56.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107312, l='ServerLevel[world]', x=6.80, y=71.72, z=-0.69]
+[30Apr2025 23:22:56.309] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107310, l='ServerLevel[world]', x=7.02, y=73.96, z=-1.70]
+[30Apr2025 23:22:56.310] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107305, l='ServerLevel[world]', x=13.08, y=52.78, z=3.40]
+[30Apr2025 23:22:56.310] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/107307, l='ServerLevel[world]', x=4.58, y=72.32, z=8.35]
+[30Apr2025 23:22:56.310] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107308, l='ServerLevel[world]', x=1.46, y=64.76, z=9.64]
+[30Apr2025 23:22:56.310] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107306, l='ServerLevel[world]', x=11.53, y=51.75, z=2.49]
+[30Apr2025 23:22:56.310] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107302, l='ServerLevel[world]', x=0.46, y=45.94, z=9.68]
+[30Apr2025 23:22:56.317] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107317, l='ServerLevel[world]', x=-0.41, y=70.19, z=7.52]
+[30Apr2025 23:22:56.318] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107314, l='ServerLevel[world]', x=-2.75, y=45.41, z=8.23]
+[30Apr2025 23:22:56.318] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107318, l='ServerLevel[world]', x=-0.62, y=70.37, z=7.50]
+[30Apr2025 23:22:56.318] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107316, l='ServerLevel[world]', x=-0.04, y=47.28, z=11.21]
+[30Apr2025 23:22:56.318] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107320, l='ServerLevel[world]', x=-2.57, y=65.12, z=5.57]
+[30Apr2025 23:22:56.318] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/107322, l='ServerLevel[world]', x=-1.51, y=64.13, z=14.66]
+[30Apr2025 23:22:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107321, l='ServerLevel[world]', x=-3.50, y=66.28, z=4.51]
+[30Apr2025 23:22:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107315, l='ServerLevel[world]', x=-3.59, y=44.26, z=7.69]
+[30Apr2025 23:22:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107319, l='ServerLevel[world]', x=-1.09, y=68.53, z=4.81]
+[30Apr2025 23:22:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107304, l='ServerLevel[world]', x=-0.02, y=46.90, z=9.71]
+[30Apr2025 23:22:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107303, l='ServerLevel[world]', x=-0.00, y=46.56, z=10.57]
+[30Apr2025 23:22:56.319] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/107324, l='ServerLevel[world]', x=-6.33, y=48.16, z=16.23]
+[30Apr2025 23:22:56.320] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Brown Trout'/107325, l='ServerLevel[world]', x=-1.62, y=64.87, z=16.40]
+[30Apr2025 23:22:56.320] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Bluegill'/107323, l='ServerLevel[world]', x=-5.61, y=45.18, z=17.25]
+[30Apr2025 23:22:56.320] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107309, l='ServerLevel[world]', x=7.21, y=73.81, z=-0.68]
+[30Apr2025 23:22:56.320] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107313, l='ServerLevel[world]', x=7.26, y=73.44, z=-1.16]
+[30Apr2025 23:22:56.320] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107311, l='ServerLevel[world]', x=7.21, y=73.41, z=-1.55]
+[30Apr2025 23:22:56.321] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107312, l='ServerLevel[world]', x=6.80, y=71.72, z=-0.69]
+[30Apr2025 23:22:56.321] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Minnow'/107310, l='ServerLevel[world]', x=7.02, y=73.96, z=-1.70]
+[30Apr2025 23:22:56.321] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107305, l='ServerLevel[world]', x=13.08, y=52.78, z=3.40]
+[30Apr2025 23:22:56.321] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Carp'/107307, l='ServerLevel[world]', x=4.58, y=72.32, z=8.35]
+[30Apr2025 23:22:56.321] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107308, l='ServerLevel[world]', x=1.46, y=64.76, z=9.64]
+[30Apr2025 23:22:56.321] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Smallmouth Bass'/107306, l='ServerLevel[world]', x=11.53, y=51.75, z=2.49]
+[30Apr2025 23:22:56.322] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity AquaFishEntity['Perch'/107302, l='ServerLevel[world]', x=0.46, y=45.94, z=9.68]
+[30Apr2025 23:23:20.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11172ms or 223 ticks behind
+[30Apr2025 23:23:25.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> ni pa ti ni pa mi
+[30Apr2025 23:23:30.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 60k l oque vale un cofre de oro
+[30Apr2025 23:24:01.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[30Apr2025 23:24:15.099] [Server thread/INFO] [mineminenomi/]: Miglaitor_'s challenge stopped.
+[30Apr2025 23:24:18.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[30Apr2025 23:24:22.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> 100k
+[30Apr2025 23:24:27.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> mano 60k
+[30Apr2025 23:24:27.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> y toda tuya
+[30Apr2025 23:24:30.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> 100
+[30Apr2025 23:24:36.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3329ms or 66 ticks behind
