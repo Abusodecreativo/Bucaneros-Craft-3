@@ -1111,6 +1111,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-04-30 22:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
@@ -1348,6 +1354,12 @@
   "create:recipes/create.palettes/limestone_pillar": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-30 22:46:08 +0000"
     },
     "done": true
   },
@@ -2089,9 +2101,15 @@
   },
   "outer_end:end/explore_end": {
     "criteria": {
-      "find_minecraft:the_end": "2025-04-30 22:30:41 +0000"
+      "find_minecraft:end_midlands": "2025-04-30 22:41:47 +0000",
+      "find_minecraft:end_barrens": "2025-04-30 22:42:13 +0000",
+      "find_outer_end:crystal_crag": "2025-04-30 22:40:52 +0000",
+      "find_minecraft:the_end": "2025-04-30 22:30:41 +0000",
+      "find_minecraft:end_highlands": "2025-04-30 22:41:31 +0000",
+      "find_outer_end:azure_forest": "2025-04-30 22:43:14 +0000",
+      "find_minecraft:small_end_islands": "2025-04-30 22:42:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
@@ -4113,6 +4131,7 @@
       "minecraft:witch": "2025-04-19 22:40:48 +0000",
       "minecraft:wither_skeleton": "2025-04-20 15:46:03 +0000",
       "minecraft:husk": "2025-04-24 22:26:54 +0000",
+      "minecraft:shulker": "2025-04-30 22:43:39 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:56 +0000",
       "minecraft:piglin": "2025-04-20 19:48:11 +0000",
       "minecraft:enderman": "2025-04-18 16:37:55 +0000",
@@ -8645,6 +8664,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2025-04-30 22:42:29 +0000"
+    },
+    "done": true
+  },
   "xercamusic:recipes/saxophone": {
     "criteria": {
       "has_item": "2025-04-18 14:54:09 +0000"
@@ -9551,6 +9576,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-30 22:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:10 +0000"
@@ -9560,6 +9591,12 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed": "2025-04-24 22:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-30 22:40:14 +0000"
     },
     "done": true
   },
@@ -10070,6 +10107,12 @@
   "create:recipes/create.palettes/polished_scoria_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-30 22:45:22 +0000"
     },
     "done": true
   },
