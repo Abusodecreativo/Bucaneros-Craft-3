@@ -1946,6 +1946,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/jar_tinted": {
+    "criteria": {
+      "has_item": "2025-04-30 23:11:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_diorite_bricks_wall_from_fancy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
@@ -10175,6 +10181,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-30 23:05:18 +0000"
     },
     "done": true
   },

@@ -3804,3 +3804,37 @@ java.lang.NullPointerException: null
 [30Apr2025 23:03:39.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
 [30Apr2025 23:03:52.395] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
 [30Apr2025 23:03:53.098] [Server thread/INFO] [explorerscompass/]: Search succeeded: 333 radius, 495 samples
+[30Apr2025 23:04:05.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11331ms or 226 ticks behind
+[30Apr2025 23:04:27.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
+[30Apr2025 23:04:49.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7184ms or 143 ticks behind
+[30Apr2025 23:04:56.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ has reached the goal [Sky's the Limit]
+[30Apr2025 23:05:08.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[30Apr2025 23:05:10.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5279ms or 105 ticks behind
+[30Apr2025 23:05:14.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Freacklock to Miglaitor_]
+[30Apr2025 23:05:18.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has reached the goal [Sky's the Limit]
+[30Apr2025 23:07:25.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Apr2025 23:07:59.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[30Apr2025 23:10:16.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> teneis sacos de tinta?
+[30Apr2025 23:10:19.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> os compro 30
+[30Apr2025 23:10:29.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> o si me conseguis
+[30Apr2025 23:10:30.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> te ha puesto sniper payaso?
+[30Apr2025 23:10:34.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> si
+[30Apr2025 23:10:39.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> lol
+[30Apr2025 23:10:45.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> teneis?
+[30Apr2025 23:10:52.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> n
+[30Apr2025 23:10:56.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> el no tiene el franco en la sangre
+[30Apr2025 23:10:58.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <marcosbigpapa> tu si miguel
+[30Apr2025 23:11:07.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> gracias
+[30Apr2025 23:11:31.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Miglaitor_> tenia pensado matarte para quitarte la fruta pero ya no lo hare
+[30Apr2025 23:12:28.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[30Apr2025 23:12:53.896] [Server thread/INFO] [mineminenomi/]: eldanidani started GIN_HARD challenge.
+[30Apr2025 23:12:59.066] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[30Apr2025 23:13:00.066] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[30Apr2025 23:13:01.067] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[30Apr2025 23:13:01.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7336ms or 146 ticks behind
+[30Apr2025 23:13:41.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[30Apr2025 23:14:05.717] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[30Apr2025 23:14:15.310] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[30Apr2025 23:14:15.669] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[30Apr2025 23:14:15.669] [Server thread/INFO] [mineminenomi/]: eldanidani's challenge stopped.
+[30Apr2025 23:14:15.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6698ms or 133 ticks behind
