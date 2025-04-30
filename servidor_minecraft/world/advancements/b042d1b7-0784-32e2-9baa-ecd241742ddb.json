@@ -1144,6 +1144,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2025-04-30 23:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:11 +0000"
@@ -6123,6 +6129,12 @@
     },
     "done": true
   },
+  "outer_end:end/find_end_tower": {
+    "criteria": {
+      "in_tower": "2025-04-30 23:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -8787,6 +8799,12 @@
   "create:recipes/create.palettes/diorite_bricks_wall_from_diorite_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "trig": "2025-04-30 23:27:56 +0000"
     },
     "done": true
   },
