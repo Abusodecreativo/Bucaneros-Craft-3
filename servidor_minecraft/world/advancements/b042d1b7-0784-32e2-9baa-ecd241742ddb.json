@@ -1156,6 +1156,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/string": {
+    "criteria": {
+      "has_plank": "2025-04-30 22:59:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_scoria_bricks_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -5313,6 +5319,12 @@
   "create:recipes/create.palettes/paved_limestone_wall_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope_arrow": {
+    "criteria": {
+      "has_plank": "2025-04-30 22:59:24 +0000"
     },
     "done": true
   },

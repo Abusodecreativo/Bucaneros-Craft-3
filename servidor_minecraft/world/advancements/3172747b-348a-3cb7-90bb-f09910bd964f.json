@@ -2134,12 +2134,15 @@
   },
   "outer_end:end/explore_end": {
     "criteria": {
+      "find_minecraft:end_midlands": "2025-04-30 22:57:45 +0000",
+      "find_minecraft:end_barrens": "2025-04-30 22:59:08 +0000",
       "find_outer_end:crystal_crag": "2025-04-30 22:41:01 +0000",
       "find_minecraft:the_end": "2025-04-30 22:30:46 +0000",
+      "find_minecraft:end_highlands": "2025-04-30 22:57:56 +0000",
       "find_outer_end:azure_forest": "2025-04-30 22:44:12 +0000",
       "find_minecraft:small_end_islands": "2025-04-30 22:30:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {

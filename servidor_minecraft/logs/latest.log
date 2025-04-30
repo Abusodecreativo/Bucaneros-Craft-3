@@ -3765,3 +3765,42 @@ java.lang.NullPointerException: null
 [30Apr2025 22:53:12.533] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
 [30Apr2025 22:53:15.721] [Server thread/INFO] [explorerscompass/]: Search succeeded: 954 radius, 4563 samples
 [30Apr2025 22:53:20.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11715ms or 234 ticks behind
+[30Apr2025 22:53:42.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7475ms or 149 ticks behind
+[30Apr2025 22:54:04.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6950ms or 139 ticks behind
+[30Apr2025 22:54:24.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4155ms or 83 ticks behind
+[30Apr2025 22:54:36.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Spectator Mode]
+[30Apr2025 22:54:39.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[30Apr2025 22:54:44.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5510ms or 110 ticks behind
+[30Apr2025 22:55:03.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4335ms or 86 ticks behind
+[30Apr2025 22:55:23.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4839ms or 96 ticks behind
+[30Apr2025 22:55:41.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[30Apr2025 22:55:59.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[30Apr2025 22:56:19.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5248ms or 104 ticks behind
+[30Apr2025 22:56:39.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5321ms or 106 ticks behind
+[30Apr2025 22:56:53.829] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[30Apr2025 22:56:54.103] [Server thread/INFO] [explorerscompass/]: Search succeeded: 313 radius, 171 samples
+[30Apr2025 22:57:04.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10158ms or 203 ticks behind
+[30Apr2025 22:57:23.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[30Apr2025 22:57:41.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3391ms or 67 ticks behind
+[30Apr2025 22:57:43.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[30Apr2025 22:57:59.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[30Apr2025 22:58:17.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[30Apr2025 22:58:34.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[30Apr2025 22:58:51.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
+[30Apr2025 22:59:08.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[30Apr2025 22:59:08.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs has completed the challenge [Beyond The Void]
+[30Apr2025 22:59:39.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[30Apr2025 22:59:58.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Apr2025 23:00:16.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[30Apr2025 23:00:33.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[30Apr2025 23:00:55.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[30Apr2025 23:01:13.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to Freacklock]
+[30Apr2025 23:01:32.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Apr2025 23:02:08.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[30Apr2025 23:02:26.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3236ms or 64 ticks behind
+[30Apr2025 23:02:44.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[30Apr2025 23:03:02.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[30Apr2025 23:03:20.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3117ms or 62 ticks behind
+[30Apr2025 23:03:39.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[30Apr2025 23:03:52.395] [Server thread/INFO] [explorerscompass/]: Starting search: 5000 max radius, 50000 max samples
+[30Apr2025 23:03:53.098] [Server thread/INFO] [explorerscompass/]: Search succeeded: 333 radius, 495 samples
