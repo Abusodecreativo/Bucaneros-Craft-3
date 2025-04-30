@@ -9101,6 +9101,12 @@
     },
     "done": true
   },
+  "mineminenomi:devil_fruits/root": {
+    "criteria": {
+      "eat_fruit": "2025-04-30 20:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -11209,6 +11215,12 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-04-30 20:51:36 +0000"
     },
     "done": true
   },

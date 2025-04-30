@@ -197,6 +197,12 @@
                 "QuestCompleted": 0b,
                 "ExtraData": {
                 },
+                "Quest": 2
+            },
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
                 "Quest": 7
             },
             {
@@ -216,6 +222,27 @@
     "PlayerCompanionId": 0,
     "DialogData": [
         {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
+        },
+        {
             "Dialog": 19
         },
         {
@@ -231,25 +258,7 @@
             "Dialog": 24
         },
         {
-            "Dialog": 8
-        },
-        {
             "Dialog": 25
-        },
-        {
-            "Dialog": 10
-        },
-        {
-            "Dialog": 12
-        },
-        {
-            "Dialog": 13
-        },
-        {
-            "Dialog": 14
-        },
-        {
-            "Dialog": 15
         }
     ],
     "ItemGiverChained": [
