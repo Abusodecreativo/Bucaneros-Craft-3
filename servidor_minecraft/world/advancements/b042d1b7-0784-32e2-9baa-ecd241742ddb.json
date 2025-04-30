@@ -627,6 +627,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-30 22:34:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4059,6 +4065,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-30 22:32:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_gabbro_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
@@ -4159,6 +4171,7 @@
       "minecraft:witch": "2025-04-24 22:29:21 +0000",
       "minecraft:wither_skeleton": "2025-04-20 15:42:52 +0000",
       "minecraft:husk": "2025-04-24 22:33:13 +0000",
+      "minecraft:ender_dragon": "2025-04-30 22:34:32 +0000",
       "minecraft:cave_spider": "2025-04-18 15:06:15 +0000",
       "minecraft:piglin": "2025-04-20 15:31:14 +0000",
       "minecraft:enderman": "2025-04-23 00:01:57 +0000",

@@ -10698,6 +10698,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-04-30 22:36:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_slab_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"

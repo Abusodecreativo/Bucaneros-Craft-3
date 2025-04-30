@@ -10239,6 +10239,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-04-30 22:37:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_limestone_slab_from_paved_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-26 14:58:56 +0000"
@@ -11314,6 +11320,7 @@
       "bread": "2025-04-26 15:09:11 +0000",
       "rotten_flesh": "2025-04-26 15:47:12 +0000",
       "suspicious_stew": "2025-04-30 21:27:24 +0000",
+      "cookie": "2025-04-30 22:36:17 +0000",
       "cooked_chicken": "2025-04-30 21:54:46 +0000",
       "mushroom_stew": "2025-04-30 21:03:08 +0000",
       "cooked_salmon": "2025-04-30 21:01:29 +0000",
