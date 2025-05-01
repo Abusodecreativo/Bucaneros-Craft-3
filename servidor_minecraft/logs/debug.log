@@ -17035,3 +17035,76 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01May2025 22:40:31.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
 [01May2025 22:40:34.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
 [01May2025 22:40:50.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3959ms or 79 ticks behind
+[01May2025 22:41:09.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[01May2025 22:41:31.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7061ms or 141 ticks behind
+[01May2025 22:41:51.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4905ms or 98 ticks behind
+[01May2025 22:42:11.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
+[01May2025 22:42:31.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5145ms or 102 ticks behind
+[01May2025 22:42:51.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
+[01May2025 22:43:11.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5455ms or 109 ticks behind
+[01May2025 22:43:24.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[01May2025 22:43:33.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
+[01May2025 22:43:40.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[01May2025 22:43:47.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[01May2025 22:43:48.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[01May2025 22:43:50.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[01May2025 22:43:53.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5433ms or 108 ticks behind
+[01May2025 22:44:13.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[01May2025 22:44:35.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6942ms or 138 ticks behind
+[01May2025 22:45:00.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9433ms or 188 ticks behind
+[01May2025 22:45:25.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10204ms or 204 ticks behind
+[01May2025 22:45:40.537] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01May2025 22:45:40.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01May2025 22:45:52.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12664ms or 253 ticks behind
+[01May2025 22:46:00.204] [Worker-Main-5/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[01May2025 22:46:00.205] [Worker-Main-5/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[01May2025 22:46:00.231] [Worker-Main-5/DEBUG] [bettercaves/]: CAVE INFORMATION
+[01May2025 22:46:00.231] [Worker-Main-5/DEBUG] [bettercaves/]: --> MAX POSSIBLE THRESHOLD: 1.0
+[01May2025 22:46:00.231] [Worker-Main-5/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 15
+[01May2025 22:46:00.231] [Worker-Main-5/DEBUG] [bettercaves/]: --> TOTAL RANGE LENGTH: 2.0
+[01May2025 22:46:00.231] [Worker-Main-5/DEBUG] [bettercaves/]: --> CARVER
+[01May2025 22:46:00.233] [Worker-Main-5/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[01May2025 22:46:00.233] [Worker-Main-5/DEBUG] [bettercaves/]: --> CARVER
+[01May2025 22:46:00.233] [Worker-Main-5/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[01May2025 22:46:00.236] [Worker-Main-5/DEBUG] [bettercaves/]: CAVERN INFORMATION
+[01May2025 22:46:00.236] [Worker-Main-5/DEBUG] [bettercaves/]: --> SPAWN CHANCE SET TO: 0.25
+[01May2025 22:46:00.236] [Worker-Main-5/DEBUG] [bettercaves/]: --> TOTAL PRIORITY: 20
+[01May2025 22:46:00.237] [Worker-Main-5/DEBUG] [bettercaves/]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[01May2025 22:46:00.237] [Worker-Main-5/DEBUG] [bettercaves/]: --> CARVER
+[01May2025 22:46:00.237] [Worker-Main-5/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[01May2025 22:46:00.237] [Worker-Main-5/DEBUG] [bettercaves/]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[01May2025 22:46:00.237] [Worker-Main-5/DEBUG] [bettercaves/]: --> CARVER
+[01May2025 22:46:00.237] [Worker-Main-5/DEBUG] [bettercaves/]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[01May2025 22:46:00.238] [Worker-Main-5/DEBUG] [bettercaves/]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[01May2025 22:46:00.241] [Worker-Main-5/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[01May2025 22:46:00.242] [Worker-Main-5/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[01May2025 22:46:00.244] [Worker-Main-5/DEBUG] [bettercaves/]: BETTER CAVES WORLD CARVER INITIALIZED WITH SEED -435584382174921940 IN minecraft:overworld
+[01May2025 22:46:00.386] [Worker-Main-6/DEBUG] [mixin/]: Mixing common.DecorationContextMixin from platform-common.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[01May2025 22:46:00.387] [Worker-Main-6/DEBUG] [mixin/]: Mixing access.DecorationContextAccessor from platform-common.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[01May2025 22:46:00.387] [Worker-Main-6/DEBUG] [mixin/]: Mixing core.accessor.WorldDecoratingHelperAccess from cavesandcliffs.mixins.json into net.minecraft.world.gen.feature.WorldDecoratingHelper
+[01May2025 22:46:20.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12270ms or 245 ticks behind
+[01May2025 22:46:45.960] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[01May2025 22:46:45.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[01May2025 22:46:45.960] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[01May2025 22:46:45.961] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Miglaitor_
+[01May2025 22:46:45.961] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[01May2025 22:46:45.962] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[01May2025 22:47:00.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25115ms or 502 ticks behind
+[01May2025 22:47:19.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4449ms or 88 ticks behind
+[01May2025 22:47:31.801] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Captain stopped Tekkai at tick 699
+[01May2025 22:47:38.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: eldanidani has made the advancement [The Parrots and the Bats]
+[01May2025 22:47:39.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4443ms or 88 ticks behind
+[01May2025 22:47:57.603] [Server thread/DEBUG] [xyz.pixelatedw.mineminenomi.api.entities.ai.AbilityWrapperGoal/]: Pirate Brute stopped Hakai Ho at tick 227
+[01May2025 22:47:58.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[01May2025 22:48:30.878] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-3788, y=39, z=9947}
+[01May2025 22:48:31.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17989ms or 359 ticks behind
+[01May2025 22:48:51.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5640ms or 112 ticks behind
+[01May2025 22:49:13.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6509ms or 130 ticks behind
+[01May2025 22:49:34.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6526ms or 130 ticks behind
+[01May2025 22:49:58.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9029ms or 180 ticks behind
+[01May2025 22:50:40.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26739ms or 534 ticks behind
+[01May2025 22:51:27.032] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-5023, y=35, z=10830}
+[01May2025 22:51:27.201] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-5024, y=40, z=10839}
+[01May2025 22:51:27.201] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-5023, y=35, z=10845}
+[01May2025 22:51:27.202] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-5023, y=35, z=10839}
+[01May2025 22:51:27.202] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-5021, y=39, z=10851}
