@@ -20,3 +20,52 @@
 [01May2025 00:06:00.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7018ms or 140 ticks behind
 [01May2025 00:06:13.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
 [01May2025 00:06:22.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7448ms or 148 ticks behind
+[01May2025 00:06:54.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[01May2025 00:06:55.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18377ms or 367 ticks behind
+[01May2025 00:07:17.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6462ms or 129 ticks behind
+[01May2025 00:07:37.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5193ms or 103 ticks behind
+[01May2025 00:07:58.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5736ms or 114 ticks behind
+[01May2025 00:08:19.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6776ms or 135 ticks behind
+[01May2025 00:08:22.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Freacklock to Miglaitor_]
+[01May2025 00:08:42.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7647ms or 152 ticks behind
+[01May2025 00:09:04.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
+[01May2025 00:09:25.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6011ms or 120 ticks behind
+[01May2025 00:09:46.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[01May2025 00:10:09.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7450ms or 149 ticks behind
+[01May2025 00:10:31.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7464ms or 149 ticks behind
+[01May2025 00:10:54.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8343ms or 166 ticks behind
+[01May2025 00:10:55.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[01May2025 00:11:14.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> estoy
+[01May2025 00:11:15.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock has made the advancement [Enchanting Tower]
+[01May2025 00:11:19.259] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> estoy cachondo
+[01May2025 00:11:22.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12919ms or 258 ticks behind
+[01May2025 00:11:27.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> fernan chupa
+[01May2025 00:11:48.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11049ms or 220 ticks behind
+[01May2025 00:12:11.302] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:trapped_chest @ BlockPos{x=-71, y=40, z=468}
+[01May2025 00:12:12.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8728ms or 174 ticks behind
+[01May2025 00:12:24.119] [Server thread/ERROR] [noobanidus.mods.lootr.Lootr/]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at BlockPos{x=23, y=71, z=503} as the loot table 'mineminenomi:chests/marine_small_base/food' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[01May2025 00:12:36.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9150ms or 183 ticks behind
+[01May2025 00:12:42.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported imsxs to Miglaitor_]
+[01May2025 00:12:56.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4675ms or 93 ticks behind
+[01May2025 00:13:16.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5251ms or 105 ticks behind
+[01May2025 00:13:37.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5810ms or 116 ticks behind
+[01May2025 00:13:58.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6677ms or 133 ticks behind
+[01May2025 00:14:21.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7661ms or 153 ticks behind
+[01May2025 00:14:43.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7243ms or 144 ticks behind
+[01May2025 00:15:06.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7260ms or 145 ticks behind
+[01May2025 00:15:30.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[01May2025 00:15:30.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9759ms or 195 ticks behind
+[01May2025 00:15:37.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Creative Mode]
+[01May2025 00:15:41.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> alguien tiene huesos?
+[01May2025 00:15:48.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> 20 me vale
+[01May2025 00:15:48.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
+[01May2025 00:15:53.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8165ms or 163 ticks behind
+[01May2025 00:16:01.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> si
+[01May2025 00:16:04.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> cuanto
+[01May2025 00:16:08.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> 20000k
+[01May2025 00:16:13.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> bro
+[01May2025 00:16:17.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> tengo 10k
+[01May2025 00:16:18.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10071ms or 201 ticks behind
+[01May2025 00:16:22.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Freacklock> al enemigo ni agua
+[01May2025 00:16:32.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <eldanidani> vale vale
+[01May2025 00:16:39.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5301ms or 106 ticks behind

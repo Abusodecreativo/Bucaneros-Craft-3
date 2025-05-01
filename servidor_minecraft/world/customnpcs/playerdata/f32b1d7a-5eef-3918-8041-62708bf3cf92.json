@@ -145,6 +145,10 @@
             {
                 "Quest": 10,
                 "Date": 461560L
+            },
+            {
+                "Quest": 12,
+                "Date": 2683792L
             }
         ],
         "ActiveQuests": [
@@ -165,12 +169,6 @@
                 "ExtraData": {
                 },
                 "Quest": 8
-            },
-            {
-                "QuestCompleted": 0b,
-                "ExtraData": {
-                },
-                "Quest": 12
             }
         ]
     },
