@@ -102,7 +102,7 @@
                 "Quest": 1
             },
             {
-                "QuestCompleted": 1b,
+                "QuestCompleted": 0b,
                 "ExtraData": {
                 },
                 "Quest": 2
@@ -150,7 +150,7 @@
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 1147252916L,
+            "TimePast": 1148455786L,
             "Time": 1744992863898L,
             "Subject": "mugroso"
         },
@@ -165,7 +165,7 @@
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 1147239462L,
+            "TimePast": 1148442332L,
             "Time": 1744992877352L,
             "Subject": "putero cabron paga tus impuestos"
         }
