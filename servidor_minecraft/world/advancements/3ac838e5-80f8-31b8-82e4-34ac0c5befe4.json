@@ -4083,6 +4083,7 @@
       "minecraft:witch": "2025-04-23 21:32:59 +0000",
       "minecraft:wither_skeleton": "2025-04-22 22:28:55 +0000",
       "minecraft:husk": "2025-04-25 23:39:44 +0000",
+      "minecraft:cave_spider": "2025-05-03 23:21:30 +0000",
       "minecraft:piglin": "2025-04-26 14:02:13 +0000",
       "minecraft:enderman": "2025-04-25 23:02:32 +0000",
       "minecraft:vex": "2025-04-20 20:11:18 +0000",
@@ -5157,6 +5158,12 @@
   "cavesandcliffs:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-03 23:21:46 +0000"
     },
     "done": true
   },
@@ -9146,6 +9153,12 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-03 23:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -11844,6 +11857,7 @@
       "apple": "2025-04-19 13:14:12 +0000",
       "potato": "2025-04-25 23:24:29 +0000",
       "cooked_cod": "2025-04-24 22:25:39 +0000",
+      "rabbit": "2025-05-03 23:26:30 +0000",
       "bread": "2025-04-18 15:04:13 +0000",
       "golden_apple": "2025-04-19 13:47:14 +0000",
       "suspicious_stew": "2025-04-19 13:57:17 +0000",

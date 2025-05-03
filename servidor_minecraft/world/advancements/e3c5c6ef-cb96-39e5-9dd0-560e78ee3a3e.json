@@ -8390,6 +8390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-03 23:30:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/rice_from_bag": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
@@ -9222,6 +9228,12 @@
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-03 23:27:31 +0000"
     },
     "done": true
   },
@@ -11736,6 +11748,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-03 23:30:43 +0000"
     },
     "done": true
   },
