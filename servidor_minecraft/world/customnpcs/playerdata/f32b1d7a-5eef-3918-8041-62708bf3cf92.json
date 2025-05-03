@@ -28,11 +28,11 @@
                                 "id": "mineminenomi:belly_pouch",
                                 "Count": 1b,
                                 "tag": {
-                                    "belly": 74036L
+                                    "belly": 67696L
                                 }
                             },
                             {
-                                "Slot": 22b,
+                                "Slot": 26b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
                                     }

@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "create:basin": {
+    "criteria": {
+      "0": "2025-05-03 22:26:57 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/hanging_sign_dark_oak": {
     "criteria": {
       "has_plank": "2025-04-19 13:31:14 +0000"
