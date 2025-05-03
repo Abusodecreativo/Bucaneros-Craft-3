@@ -559,6 +559,12 @@
     },
     "done": true
   },
+  "mineminenomi:adventure/cat_burglar": {
+    "criteria": {
+      "obtain_belly": "2025-05-03 14:57:27 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_the_recipe": "2025-04-16 20:35:07 +0000"

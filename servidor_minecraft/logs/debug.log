@@ -16501,3 +16501,89 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03May2025 14:47:33.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03May2025 14:47:33.585] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [03May2025 14:48:46.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03May2025 14:50:11.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[03May2025 14:50:30.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
+[03May2025 14:52:40.633] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 14:52:40.644] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 14:57:40.426] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03May2025 14:57:40.438] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03May2025 14:58:31.215] [Server thread/WARN] [net.minecraft.entity.ai.attributes.AttributeModifierManager/]: Ignoring unknown attribute 'forge:step_height_addition'
+[03May2025 14:59:26.569] [Worker-Main-20/DEBUG] [mixin/]: Mixing JigsawManagerAssemblerMixin from mixins.waystones.json into net.minecraft.world.gen.feature.jigsaw.JigsawManager$Assembler
+[03May2025 14:59:26.570] [Worker-Main-20/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$2(Lnet/minecraft/world/gen/feature/jigsaw/JigsawPiece;)Z to md4b4768$lambda$getShuffledPieces$2$0 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03May2025 14:59:26.570] [Worker-Main-20/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$1(Ljava/lang/String;)Z to md4b4768$lambda$getShuffledPieces$1$1 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03May2025 14:59:26.570] [Worker-Main-20/DEBUG] [mixin/]: Renaming synthetic method lambda$getShuffledPieces$0(Ljava/lang/Object;)Ljava/lang/String; to md4b4768$lambda$getShuffledPieces$0$2 in mixins.waystones.json:JigsawManagerAssemblerMixin
+[03May2025 14:59:30.430] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:31.431] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:32.432] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:32.495] [Worker-Main-20/DEBUG] [betterdungeons/]: Spider Dungeon at -5323 42 20626
+[03May2025 14:59:33.072] [Worker-Main-19/DEBUG] [betterdungeons/]: Small Dungeon at -9425 27 -7311
+[03May2025 14:59:33.432] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:34.355] [Worker-Main-5/DEBUG] [betterdungeons/]: Small Dungeon at 10589 35 -5729
+[03May2025 14:59:34.433] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:35.433] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:36.169] [Worker-Main-5/DEBUG] [betterdungeons/]: Skeleton Dungeon at -10953 20 24391
+[03May2025 14:59:36.435] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:37.495] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:38.496] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:38.843] [Worker-Main-19/DEBUG] [betterdungeons/]: Small Dungeon at 11415 27 26607
+[03May2025 14:59:39.497] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:39.722] [Worker-Main-20/DEBUG] [betterdungeons/]: Small Dungeon at -25427 13 4847
+[03May2025 14:59:40.498] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:41.498] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:42.499] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:44.258] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:45.268] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:47.162] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:48.167] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:50.264] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:51.268] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:53.637] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:55.243] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:56.244] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:57.244] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 14:59:59.676] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:00.680] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:01.681] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:01.859] [Worker-Main-5/DEBUG] [betterdungeons/]: Zombie Dungeon at -5785 49 31687
+[03May2025 15:00:01.863] [Worker-Main-19/DEBUG] [betterdungeons/]: Small Dungeon at -5561 25 31551
+[03May2025 15:00:02.681] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:04.397] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:05.397] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:05.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3172747b-348a-3cb7-90bb-f09910bd964f timed out
+[03May2025 15:00:05.406] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player imsxs
+[03May2025 15:00:05.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to imsxs
+[03May2025 15:00:05.410] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with imsxs
+[03May2025 15:00:05.410] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with imsxs
+[03May2025 15:00:05.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to imsxs
+[03May2025 15:00:05.411] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 3172747b-348a-3cb7-90bb-f09910bd964f to disconnected: {disabled=false, disconnected=true, uuid=3172747b-348a-3cb7-90bb-f09910bd964f, name=imsxs, group=null}
+[03May2025 15:00:05.418] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player f32b1d7a-5eef-3918-8041-62708bf3cf92 timed out
+[03May2025 15:00:05.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Freacklock
+[03May2025 15:00:05.420] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Freacklock
+[03May2025 15:00:05.422] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Freacklock
+[03May2025 15:00:05.422] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Freacklock
+[03May2025 15:00:05.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[03May2025 15:00:05.422] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of f32b1d7a-5eef-3918-8041-62708bf3cf92 to disconnected: {disabled=false, disconnected=true, uuid=f32b1d7a-5eef-3918-8041-62708bf3cf92, name=Freacklock, group=null}
+[03May2025 15:00:05.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e timed out
+[03May2025 15:00:05.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player marcosbigpapa
+[03May2025 15:00:05.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to marcosbigpapa
+[03May2025 15:00:05.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with marcosbigpapa
+[03May2025 15:00:05.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with marcosbigpapa
+[03May2025 15:00:05.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to marcosbigpapa
+[03May2025 15:00:05.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e to disconnected: {disabled=false, disconnected=true, uuid=e3c5c6ef-cb96-39e5-9dd0-560e78ee3a3e, name=marcosbigpapa, group=null}
+[03May2025 15:00:06.408] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:09.079] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:12.118] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:12.164] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 40 messages to dispatch.
+[03May2025 15:00:13.119] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:13.780] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: endrem:puzzle_corridor
+[03May2025 15:00:14.035] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[03May2025 15:00:14.036] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[03May2025 15:00:14.064] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[03May2025 15:00:14.065] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[03May2025 15:00:14.121] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:14.220] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[03May2025 15:00:14.221] [Worker-Main-5/WARN] [net.minecraft.world.gen.feature.jigsaw.JigsawManager/]: Empty or none existent pool: minecraft:
+[03May2025 15:00:14.859] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 40 messages to dispatch.
+[03May2025 15:00:15.124] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[03May2025 15:00:15.552] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Starting new modded network connection. Found 40 messages to dispatch.
+[03May2025 15:00:16.128] [Physics thread/WARN] [org.valkyrienskies.core.pipelines.VSGamePipelineStage/]: Too many physics frames in the physics frame queue. Is the game stage broken?
