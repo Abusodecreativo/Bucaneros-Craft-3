@@ -63,9 +63,76 @@ Att. Marines"
             "MailItems": [
             ],
             "MailQuest": -1,
-            "TimePast": 872048751L,
+            "TimePast": 951943450L,
             "Time": 1745443449687L,
             "Subject": "Maricona"
+        },
+        {
+            "Sender": "Freacklock",
+            "BeenRead": 0b,
+            "Message": {
+                "pages": [
+                    "Chupala bien rico bb"
+                ]
+            },
+            "MailItems": [
+                {
+                    "Slot": 0b,
+                    "ForgeCaps": {
+                        "customnpcs:itemscripteddata": {
+                        }
+                    },
+                    "id": "minecraft:diamond_pickaxe",
+                    "Count": 1b,
+                    "tag": {
+                        "RepairCost": 15,
+                        "Damage": 39,
+                        "Enchantments": [
+                            {
+                                "lvl": 4s,
+                                "id": "minecraft:efficiency"
+                            },
+                            {
+                                "lvl": 2s,
+                                "id": "minecraft:fortune"
+                            },
+                            {
+                                "lvl": 3s,
+                                "id": "minecraft:unbreaking"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Slot": 1b,
+                    "ForgeCaps": {
+                        "customnpcs:itemscripteddata": {
+                        }
+                    },
+                    "id": "minecraft:diamond_axe",
+                    "Count": 1b,
+                    "tag": {
+                        "Damage": 104
+                    }
+                },
+                {
+                    "Slot": 2b,
+                    "ForgeCaps": {
+                        "customnpcs:itemscripteddata": {
+                        }
+                    },
+                    "id": "mineminenomi:hook",
+                    "Count": 1b,
+                    "tag": {
+                        "Damage": 1,
+                        "isClone": 0b
+                    }
+                }
+            ],
+            "MailQuest": -1,
+            "TimePast": 0L,
+            "Time": 1746395393137L,
+            "Subject": "Eres una maricona "
         }
     ],
     "PlayerName": "marcosbigpapa",
