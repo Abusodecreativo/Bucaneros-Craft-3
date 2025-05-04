@@ -2946,3 +2946,65 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04May2025 22:17:58.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Set own game mode to Survival Mode]
 [04May2025 22:18:00.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
 [04May2025 22:18:24.148] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/34228, l='ServerLevel[world]', x=97.50, y=74.26, z=515.50] died, message: 'Villager was shot by Pillager'
+[04May2025 22:20:03.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04May2025 22:22:12.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Miglaitor_: Teleported Miglaitor_ to 95.0, 69.0, 435.0]
+[04May2025 22:22:18.195] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:trapped_chest @ BlockPos{x=-71, y=40, z=468}
+[04May2025 22:25:11.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[04May2025 22:25:12.614] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/38182, l='ServerLevel[world]', x=100.14, y=54.00, z=505.67] died, message: 'Fisherman hit the ground too hard'
+[04May2025 22:25:13.048] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/38205, l='ServerLevel[world]', x=98.50, y=44.00, z=507.52] died, message: 'Villager hit the ground too hard'
+[04May2025 22:25:17.659] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Miglaitor_ lost connection: Disconnected
+[04May2025 22:25:17.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Miglaitor_ left the game
+[04May2025 22:25:17.659] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of b042d1b7-0784-32e2-9baa-ecd241742ddb was unloaded
+[04May2025 22:25:17.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Miglaitor_
+[04May2025 22:25:17.661] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Miglaitor_[b042d1b7-0784-32e2-9baa-ecd241742ddb]
+[04May2025 22:25:18.043] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/44667, l='ServerLevel[world]', x=124.32, y=66.94, z=522.34]
+[04May2025 22:25:20.103] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Freacklock lost connection: Disconnected
+[04May2025 22:25:20.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock left the game
+[04May2025 22:25:20.103] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was unloaded
+[04May2025 22:25:20.103] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Freacklock
+[04May2025 22:25:20.105] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[04May2025 22:26:11.168] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@774bef22
+[04May2025 22:26:11.200] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Freacklock[/100.121.40.72:61978] logged in with entity id 44916 at (34.018197140612834, 80.0, 450.0718709271148)
+[04May2025 22:26:11.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Freacklock joined the game
+[04May2025 22:26:11.267] [Server thread/INFO] [Waila/]: Syncing config to Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92)
+[04May2025 22:26:11.274] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Freacklock just logged in with id f32b1d7a-5eef-3918-8041-62708bf3cf92
+[04May2025 22:26:11.276] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Freacklock[f32b1d7a-5eef-3918-8041-62708bf3cf92]
+[04May2025 22:26:11.277] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/Freacklock
+[04May2025 22:26:11.328] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Freacklock downloaded
+[04May2025 22:26:11.329] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/cd99f4ef-6f60-4c48-ab18-6b4a50132fd1
+[04May2025 22:26:12.199] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Freacklock (18)
+[04May2025 22:26:12.200] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Freacklock
+[04May2025 22:26:12.468] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f32b1d7a-5eef-3918-8041-62708bf3cf92 was loaded
+[04May2025 22:26:17.736] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[04May2025 22:26:18.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player f32b1d7a-5eef-3918-8041-62708bf3cf92
+[04May2025 22:26:18.750] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Freacklock (f32b1d7a-5eef-3918-8041-62708bf3cf92) successfully connected to voice chat
+[04May2025 22:26:31.164] [Thread-9/ERROR] [org.valkyrienskies.core.networking.UdpServerImpl/]: Error in server network thread
+java.lang.IllegalArgumentException: value already present: org.valkyrienskies.mod.common.util.MinecraftPlayer@362572d1
+	at com.google.common.collect.HashBiMap.put(HashBiMap.java:287) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at com.google.common.collect.HashBiMap.put(HashBiMap.java:262) ~[server-1.16.5-20210115.111550-extra.jar:?]
+	at org.valkyrienskies.core.networking.UdpServerImpl.run(UdpServerImpl.kt:77) ~[valkyrienskies:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04May2025 22:26:59.721] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/38184, l='ServerLevel[world]', x=107.64, y=8.00, z=512.92] died, message: 'Villager hit the ground too hard'
+[04May2025 22:27:03.707] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/45857, l='ServerLevel[world]', x=92.47, y=48.00, z=511.39]
+[04May2025 22:27:03.708] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/45857, l='ServerLevel[world]', x=92.47, y=48.00, z=511.39]
+[04May2025 22:28:57.849] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: imsxs lost connection: Disconnected
+[04May2025 22:28:57.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs left the game
+[04May2025 22:28:57.849] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was unloaded
+[04May2025 22:28:57.850] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client imsxs
+[04May2025 22:28:57.851] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
+[04May2025 22:29:12.095] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/46470, l='ServerLevel[world]', x=123.17, y=66.00, z=519.35]
+[04May2025 22:29:48.416] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@65c0fb35
+[04May2025 22:29:48.444] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: imsxs[/100.91.3.75:58301] logged in with entity id 46746 at (59.80736080743919, 64.0, 416.9391124042467)
+[04May2025 22:29:48.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: imsxs joined the game
+[04May2025 22:29:48.508] [Server thread/INFO] [Waila/]: Syncing config to imsxs (3172747b-348a-3cb7-90bb-f09910bd964f)
+[04May2025 22:29:48.516] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player imsxs just logged in with id 3172747b-348a-3cb7-90bb-f09910bd964f
+[04May2025 22:29:48.522] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player imsxs[3172747b-348a-3cb7-90bb-f09910bd964f]
+[04May2025 22:29:48.523] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/imsxs
+[04May2025 22:29:48.571] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/imsxs downloaded
+[04May2025 22:29:48.572] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://crafatar.com/capes/138b6212-14da-4be6-8bfb-6b3a2d7f514f
+[04May2025 22:29:50.062] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of imsxs (18)
+[04May2025 22:29:50.062] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to imsxs
+[04May2025 22:29:50.252] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 3172747b-348a-3cb7-90bb-f09910bd964f was loaded
+[04May2025 22:29:54.248] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3172747b-348a-3cb7-90bb-f09910bd964f
+[04May2025 22:29:55.250] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3172747b-348a-3cb7-90bb-f09910bd964f
+[04May2025 22:29:55.251] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player imsxs (3172747b-348a-3cb7-90bb-f09910bd964f) successfully connected to voice chat

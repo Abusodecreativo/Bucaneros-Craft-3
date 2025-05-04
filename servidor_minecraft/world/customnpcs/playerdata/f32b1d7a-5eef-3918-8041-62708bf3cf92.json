@@ -20,15 +20,25 @@
                     "BankItems": {
                         "NpcMiscInv": [
                             {
-                                "Slot": 8b,
+                                "Slot": 0b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
                                     }
                                 },
-                                "id": "mineminenomi:belly_pouch",
+                                "id": "cataclysm:ignitium_chestplate",
                                 "Count": 1b,
                                 "tag": {
-                                    "belly": 67696L
+                                    "Damage": 0,
+                                    "Enchantments": [
+                                        {
+                                            "lvl": 1s,
+                                            "id": "minecraft:mending"
+                                        },
+                                        {
+                                            "lvl": 3s,
+                                            "id": "minecraft:protection"
+                                        }
+                                    ]
                                 }
                             },
                             {
@@ -40,7 +50,7 @@
                                 "id": "mineminenomi:belly_pouch",
                                 "Count": 1b,
                                 "tag": {
-                                    "belly": 4000L
+                                    "belly": 63219L
                                 }
                             },
                             {
