@@ -2176,6 +2176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-04 21:56:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_seeds": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:42 +0000"
@@ -5842,6 +5848,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-04-26 21:47:49 +0000",
+      "wheat": "2025-05-04 21:59:02 +0000",
       "carrot": "2025-05-01 22:47:21 +0000"
     },
     "done": false
@@ -11362,6 +11369,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-04 21:59:02 +0000"
     },
     "done": true
   },
