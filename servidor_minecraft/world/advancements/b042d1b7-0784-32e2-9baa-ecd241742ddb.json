@@ -13354,6 +13354,12 @@
     },
     "done": true
   },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-05-05 22:14:43 +0000"
+    },
+    "done": true
+  },
   "cavesandcliffs:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:11 +0000"
