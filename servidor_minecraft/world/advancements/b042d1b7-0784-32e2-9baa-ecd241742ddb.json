@@ -1494,6 +1494,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_item": "2025-05-04 23:27:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cabbage": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:12 +0000"
