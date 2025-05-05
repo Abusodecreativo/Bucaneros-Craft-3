@@ -5896,6 +5896,12 @@
     },
     "done": true
   },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-05-05 21:46:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_stairs": {
     "criteria": {
       "has_the_recipe": "2025-04-16 16:50:13 +0000"
