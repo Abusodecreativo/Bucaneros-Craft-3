@@ -42,18 +42,6 @@
                                 }
                             },
                             {
-                                "Slot": 8b,
-                                "ForgeCaps": {
-                                    "customnpcs:itemscripteddata": {
-                                    }
-                                },
-                                "id": "mineminenomi:belly_pouch",
-                                "Count": 1b,
-                                "tag": {
-                                    "belly": 63219L
-                                }
-                            },
-                            {
                                 "Slot": 26b,
                                 "ForgeCaps": {
                                     "customnpcs:itemscripteddata": {
