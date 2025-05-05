@@ -6318,6 +6318,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage_rocket": {
+    "criteria": {
+      "trig": "2025-05-05 21:57:52 +0000"
+    },
+    "done": true
+  },
   "chisel:recipes/chisel/futura/screen_cyan": {
     "criteria": {
       "has_the_recipe": "2025-04-18 14:46:15 +0000"
